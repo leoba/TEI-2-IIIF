@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 319: Gli amori di Tibullo e Glicera</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger (Zacour-Hirsch). Spine title: Martinozzi. Dialog.</note>
+        <note>Attribution from heading of first work (dedication, f. 1r): "Nobilissime puellae Francesce Scotte pudicitiae antistiti atque omnium aetatis nostrae puellarum principi Benedictus Martinozzus eques auratus salutem plurimam dicit." Italianized form of author's name taken from Zacour-Hirsch.</note>
+        <note>Incipit of first work (f. 1r): Essendo purissima fanciulla stato per li tempi passati nella citta nostra con maximo excidio assalito Tibullo Giovano generoso &amp; praeclaro ...</note>
+        <note>Heading of second work (f. 12v): Opusculum Benedicti Martinozzi aequitis aurati in amorem quo ratio ac apetitus loquentes inducuntur.</note>
+        <note>Incipit of second work (f. 12v): Per allentar lo immaginato exilio / Che amor contanto sforzo tiene elcore / Nel tempestoso mar senza navilio / ...</note>
+        <note>Some stains. Ink faded a bit in places.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 319</idno>
+            <altIdentifier type="bibid">
+              <idno>1580941</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1580941</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Prose work consisting of a set of dialogues between Tibullus and Glicera (f. 1r-12r). Also includes a second work by the same author: "Opusculum ... in amorem quo ratio ac apetitus loquentes inducuntur" (f. 12v-20v). Second work written in 400 lines of verse and consists of a dialogue between Reason and Appetite.</summary>
+            <textLang mainLang="ita" otherLangs="lat">Italian, with headings and occasional marginal notes in Latin</textLang>
+            <msItem>
+              <title>Gli amori di Tibullo e Glicera</title>
+              <author>Martinozzi, Benedetto</author>
+              <respStmt>
+                <resp>dedicatee</resp>
+                <persName>Scotta, Francesca</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Sneyd, Walter, 1809-1888</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="1r">
+              <locus>1r</locus>
+              <title>Gli amori di Tibullo e Glicera, f. 1r</title>
+            </msItem>
+            <msItem n="12v">
+              <locus>12v</locus>
+              <title>Opusculum ... in amorem quo ratio ac apetitus loquentes inducuntur, f. 12v</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>20 leaves : 266 x 180 (167 x 92) mm. bound to 270 x 182 mm</extent>
+                <foliation>Parchment, i (18th-century paper) + 20 + i (18th-century paper); [1-20]; modern foliation in pencil, upper right recto.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 25 long lines; ruled in drypoint; prickings visible.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a humanist script by a single hand.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>3-line illuminated initial E with white vine-stem (bianchi girari) ornamentation (f. 1r); 2-line illuminated initials in blue, green, white, gold, and purple in first work (f.1r-12r); rubricated throughout.</decoNote>
+              <decoNote n="Inside front cover (Note visible)">Owner note, Inside front cover</decoNote>
+              <decoNote n="Inside front cover (Bookplate visible)">Bookplate, Inside front cover</decoNote>
+              <decoNote n="1r">Illuminated initial, Initial E, f. 1r</decoNote>
+              <decoNote n="1v">Illuminated initial, Initial S, f. 1v</decoNote>
+              <decoNote n="2r">Illuminated initial, Initial L, f. 2r</decoNote>
+              <decoNote n="2v">Illuminated initial, Initial Q, f. 2v</decoNote>
+              <decoNote n="3v">Illuminated initial, Initial N, f. 3v</decoNote>
+              <decoNote n="4r">Illuminated initial, Initial S, f. 4r</decoNote>
+              <decoNote n="5r">Illuminated initial, Initial G, f. 5r</decoNote>
+              <decoNote n="5v">Illuminated initial, Initial N, f. 5v</decoNote>
+              <decoNote n="6v">Illuminated initial, Initial N, f. 6v</decoNote>
+              <decoNote n="7r">Illuminated initial, Initial C, f. 7r</decoNote>
+              <decoNote n="7r">Illuminated initial, Initial L, f. 7r</decoNote>
+              <decoNote n="7r">Illuminated initial, Initial A, f. 7r</decoNote>
+              <decoNote n="11v">Illuminated initial, Initial H, f. 11v</decoNote>
+              <decoNote n="12v">Illuminated initial, Initial P, f. 12v</decoNote>
+              <decoNote n="12v">Manicule, f. 12v</decoNote>
+              <decoNote n="14v">Manicule, f. 14v</decoNote>
+              <decoNote n="15r">Manicule, f. 15r</decoNote>
+              <decoNote n="18v">Manicule, f. 18v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>18th-century vellum (Zacour-Hirsch).</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Italy, probably in the late 15th century, based on style of illumination and script.</p>
+              <origDate>between 1475 and 1499?</origDate>
+              <origPlace>Italy</origPlace>
+            </origin>
+            <provenance>Formerly owned by Walter Sneyd (bookplate, inside upper cover).</provenance>
+            <provenance>Sold in the Sneyd collection at auction at Sotheby's, 16 Dec. 1903, lot 492.</provenance>
+            <provenance>Purchased, 1925.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Italian literature--Early works to 1800</term>
+          <term>Italian poetry--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Illuminations (visual works)</term>
+          <term>Dialogues</term>
+          <term>Manuscripts, Italian--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="4673px" url="master/0357_0000.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0000_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0000_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="Inside front cover (Note visible)">
+      <graphic height="4673px" url="master/0357_0001.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0001_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0001_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="Inside front cover (Duplicate)">
+      <graphic height="4673px" url="master/0357_0002.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0002_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0002_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="Inside front cover (Bookplate visible)">
+      <graphic height="4673px" url="master/0357_0003.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0003_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0003_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="Flyeaf 1 recto">
+      <graphic height="4673px" url="master/0357_0004.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0004_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0004_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="4673px" url="master/0357_0005.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0005_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0005_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="4673px" url="master/0357_0006.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0006_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0006_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4673px" url="master/0357_0007.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0007_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0007_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4673px" url="master/0357_0008.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0008_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0008_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4673px" url="master/0357_0009.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0009_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0009_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="4673px" url="master/0357_0010.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0010_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0010_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="4673px" url="master/0357_0011.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0011_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0011_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="4673px" url="master/0357_0012.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0012_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0012_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="4673px" url="master/0357_0013.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0013_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0013_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="4673px" url="master/0357_0014.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0014_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0014_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="4673px" url="master/0357_0015.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0015_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0015_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="4673px" url="master/0357_0016.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0016_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0016_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="4673px" url="master/0357_0017.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0017_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0017_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="4673px" url="master/0357_0018.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0018_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0018_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="4673px" url="master/0357_0019.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0019_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0019_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="4673px" url="master/0357_0020.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0020_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0020_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="4673px" url="master/0357_0021.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0021_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0021_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="4673px" url="master/0357_0022.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0022_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0022_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="4673px" url="master/0357_0023.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0023_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0023_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="4673px" url="master/0357_0024.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0024_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0024_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="4673px" url="master/0357_0025.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0025_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0025_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="4673px" url="master/0357_0026.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0026_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0026_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="4673px" url="master/0357_0027.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0027_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0027_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="4673px" url="master/0357_0028.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0028_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0028_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="4673px" url="master/0357_0029.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0029_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0029_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="4673px" url="master/0357_0030.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0030_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0030_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="4673px" url="master/0357_0031.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0031_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0031_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="4673px" url="master/0357_0032.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0032_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0032_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="4673px" url="master/0357_0033.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0033_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0033_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="4673px" url="master/0357_0034.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0034_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0034_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="4673px" url="master/0357_0035.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0035_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0035_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="4673px" url="master/0357_0036.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0036_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0036_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="4673px" url="master/0357_0037.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0037_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0037_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="4673px" url="master/0357_0038.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0038_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0038_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="4673px" url="master/0357_0039.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0039_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0039_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="4673px" url="master/0357_0040.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0040_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0040_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="4673px" url="master/0357_0041.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0041_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0041_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="19r">
+      <graphic height="4673px" url="master/0357_0042.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0042_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0042_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="19v">
+      <graphic height="4673px" url="master/0357_0043.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0043_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0043_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="20r">
+      <graphic height="4673px" url="master/0357_0044.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0044_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0044_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="20v">
+      <graphic height="4673px" url="master/0357_0045.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0045_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0045_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="4673px" url="master/0357_0046.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0046_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0046_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="4673px" url="master/0357_0047.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0047_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0047_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="4673px" url="master/0357_0048.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0048_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0048_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="4673px" url="master/0357_0049.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0049_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0049_web.jpg" width="1270px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="4673px" url="master/0357_0050.tif" width="3297px"/>
+      <graphic height="190px" url="thumb/0357_0050_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0357_0050_web.jpg" width="1270px"/>
+    </surface>
+  </facsimile>
+</TEI>

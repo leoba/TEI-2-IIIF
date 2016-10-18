@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of Van Pelt Library, University of Pennsylvania Ms. Oversize 8: Diploma issued to Adam, son of Teutio</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Dated 10 July 1000, in Pavia. Date given on line 11.</note>
+        <note>Written in a notarial hand.</note>
+        <note>Incipit: In nomine sanctae ... Notum sit omnibus fidelibus.</note>
+        <note>Explicit: ... hanc paginam sigillare iussimus. Heribertus cancellarius vice petri cumani episcopi novit.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>Van Pelt Library, University of Pennsylvania</institution>
+            <repository>Henry Charles Lea Library, Special Collections</repository>
+            <idno type="call-number">Ms. Oversize 8</idno>
+            <altIdentifier type="bibid">
+              <idno>1471181</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1471181</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Diploma issued to Adam, son of Teutio. It takes Adam under imperial protection and gives him the right to live under Roman law.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Diploma issued to Adam, son of Teutio</title>
+              <author>Otto III, Holy Roman Emperor, 980-1002</author>
+              <author>Adam, son of Teutio</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 36 x 44 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>J. F. Böhmer, Die Regesten des Kaiserreiches unter Otto III, indicates that this diploma was once in the Archivio Magherini Graziani.</provenance>
+            <provenance>Purchased from L. Witten, New Haven, 1957.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Diplomas</term>
+          <term>Manuscripts, Italian--11th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="5734px" url="master/0425_0000.tif" width="4707px"/>
+      <graphic height="190px" url="thumb/0425_0000_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/0425_0000_web.jpg" width="1478px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="5734px" url="master/0425_0001.tif" width="4707px"/>
+      <graphic height="190px" url="thumb/0425_0001_thumb.jpg" width="156px"/>
+      <graphic height="1800px" url="web/0425_0001_web.jpg" width="1478px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 359: Liber canonis</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title from opening rubric (f. 1r).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 359</idno>
+            <altIdentifier type="bibid">
+              <idno>5419609</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5419609</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Sections from Books 1 and 2 of Avicenna's 11th-century comprehensive medical work, as translated into Latin in the 12th century by Gherardo da Cremona. Book 1 addresses medicine generally; the section in the manuscript is from the first treatise and concerns the four elements. Book 2 is devoted to materia medica. A few small stemmata are drawn in the lower margins in Book 1(f. 3r-4r), and marginal notes and headings appear throughout, with marginal chapter numbers in the section from Book 2 (f. 12r-17v). Repairs to the centers of leaves in the section from Book 1, with vellum patches and text supplied in the first half of the 14th century (f. 5-11; Quaritch).</summary>
+            <textLang mainLang="lat">Latin</textLang>
+            <msItem>
+              <title>Liber canonis</title>
+              <author>Avicenna, 980-1037</author>
+              <respStmt>
+                <resp>translator</resp>
+                <persName>Gherardo, da Cremona, 1113 or 14-1187</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Clarke, William</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Church, John</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>17 leaves : 284 x 210 (184 x 125) mm. (Book 1); 287 x 213 (208 x 144) mm. (Book 2)</extent>
+                <collation>
+                  <p>Parchment, i (modern paper wrapper) + 17 + i (modern paper wrapper); 1¹²(-1) 2² 3⁸(-4); columns numbered in an early hand, upper outer corners, 5-40 (Book 1, f. 3r-11v) and 351-354, 371-374, 347-350, 355-358, 367-370, 375-376, 378-379 (misnumbered for 377-378; Book 2, f. 12r-17v). Possible catchword on last verso (f. 17v).</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 2 columns of 52 (Book 1) and 58 (Book 2) lines; frame-ruled in lead with double horizontal bounding lines in Book 1 and double vertical bounding lines in Book 2; prickings visible.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in Gothic script by at least 2 hands (f. 1r-11v, 12r-17v); 14th-century Gothic script on repairs; 17th- and 18th-century pen trials and inscriptions (f. 12v, 13v, 17v).</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>6-line puzzle initial in red and blue with flourishing in red and blue (f. 1r); 1-line initials alternating between red and blue in the table of contents (f. 1r-2v); 2-line initials alternating between red and blue, with contrasting flourishes, in Book 1 (f. 3r-11v); running head L[iber] I in red and blue, sometimes with simple flourishes in the contrasting color (f. 1r-11v); underlining and rubrication in red throughout; manicules in brown and red ink throughout most of Book 1 (f. 3r-9r).</decoNote>
+              <decoNote n="1r">Decorated initial, Initial L, f. 1r</decoNote>
+              <decoNote n="1r">Manicule, f. 1r</decoNote>
+              <decoNote n="3r">Manicule, f. 3r</decoNote>
+              <decoNote n="3r">Drawing, Face, f. 3r</decoNote>
+              <decoNote n="3v">Manicule, f. 3v</decoNote>
+              <decoNote n="3v">Drawing, Face, f. 3v</decoNote>
+              <decoNote n="4r">Manicule, f. 4r</decoNote>
+              <decoNote n="4r">Drawing, Face, f. 4r</decoNote>
+              <decoNote n="4v">Manicule, f. 4v</decoNote>
+              <decoNote n="4v">Drawing, Face, f. 4v</decoNote>
+              <decoNote n="5r">Manicule, f. 5r</decoNote>
+              <decoNote n="5v">Manicule, f. 5v</decoNote>
+              <decoNote n="6r">Manicule, f. 6r</decoNote>
+              <decoNote n="6r">Drawing, Face, f. 6r</decoNote>
+              <decoNote n="6v">Manicule, f. 6v</decoNote>
+              <decoNote n="7r">Manicule, f. 7r</decoNote>
+              <decoNote n="7r">Drawing, Face, f. 7r</decoNote>
+              <decoNote n="7v">Manicule, f. 7v</decoNote>
+              <decoNote n="8r">Manicule, f. 8r</decoNote>
+              <decoNote n="8r">Drawing, Face, f. 8r</decoNote>
+              <decoNote n="8v">Manicule, f. 8v</decoNote>
+              <decoNote n="8v">Drawing, Face, f. 8v</decoNote>
+              <decoNote n="9r">Manicule, f. 9r</decoNote>
+              <decoNote n="9r">Drawing, Face, f. 9r</decoNote>
+              <decoNote n="15v">Manicule, f. 15v</decoNote>
+              <decoNote n="16v">Drawing, Face, f. 16v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Sewn in modern paper wrapper.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in England between 1250 and 1299 (Quaritch).</p>
+              <origDate>between 1250 and 1299</origDate>
+              <origPlace>England</origPlace>
+            </origin>
+            <provenance>Possible 18th- or 19th-century ownership inscriptions:  John Church (f. 13v); William Clarke (f. 18v).</provenance>
+            <provenance>Sold by Bernard Quaritch Ltd., cat. 1270 (2000), no. 7, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Medicine--Early works to 1800</term>
+          <term>Medicine, Arab</term>
+          <term>Medicine, Medieval</term>
+          <term>Materia medica--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Treatises</term>
+          <term>Manuscripts, Latin--13th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front wrapper">
+      <graphic height="5130px" url="master/0031_0000.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0000_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0000_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="Inside front wrapper">
+      <graphic height="5130px" url="master/0031_0001.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0001_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0001_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5130px" url="master/0031_0002.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0002_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0002_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5130px" url="master/0031_0003.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0003_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0003_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5130px" url="master/0031_0004.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0004_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0004_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5130px" url="master/0031_0005.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0005_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0005_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5130px" url="master/0031_0006.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0006_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0006_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5130px" url="master/0031_0007.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0007_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0007_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5130px" url="master/0031_0008.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0008_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0008_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5130px" url="master/0031_0009.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0009_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0009_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5130px" url="master/0031_0010.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0010_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0010_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5130px" url="master/0031_0011.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0011_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0011_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5130px" url="master/0031_0012.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0012_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0012_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5130px" url="master/0031_0013.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0013_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0013_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5130px" url="master/0031_0014.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0014_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0014_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5130px" url="master/0031_0015.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0015_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0015_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5130px" url="master/0031_0016.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0016_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0016_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5130px" url="master/0031_0017.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0017_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0017_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5130px" url="master/0031_0018.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0018_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0018_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5130px" url="master/0031_0019.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0019_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0019_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5130px" url="master/0031_0020.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0020_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0020_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5130px" url="master/0031_0021.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0021_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0021_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5130px" url="master/0031_0022.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0022_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0022_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5130px" url="master/0031_0023.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0023_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0023_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="5130px" url="master/0031_0024.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0024_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0024_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="5130px" url="master/0031_0025.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0025_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0025_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="5130px" url="master/0031_0026.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0026_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0026_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="5130px" url="master/0031_0027.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0027_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0027_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="5130px" url="master/0031_0028.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0028_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0028_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="5130px" url="master/0031_0029.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0029_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0029_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="5130px" url="master/0031_0030.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0030_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0030_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="5130px" url="master/0031_0031.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0031_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0031_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="5130px" url="master/0031_0032.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0032_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0032_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="5130px" url="master/0031_0033.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0033_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0033_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="5130px" url="master/0031_0034.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0034_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0034_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="5130px" url="master/0031_0035.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0035_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0035_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="Inside back wrapper">
+      <graphic height="5130px" url="master/0031_0036.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0036_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0036_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="Back wrapper">
+      <graphic height="5130px" url="master/0031_0037.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0037_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0037_web.jpg" width="1382px"/>
+    </surface>
+    <surface n="No spine">
+      <graphic height="5130px" url="master/0031_0038.tif" width="3940px"/>
+      <graphic height="190px" url="thumb/0031_0038_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0031_0038_web.jpg" width="1382px"/>
+    </surface>
+  </facsimile>
+</TEI>

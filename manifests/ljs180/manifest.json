@@ -1,0 +1,78 @@
+
+        {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://45.55.178.234/iiif/ljs180/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "University of Pennsylvania LJS 180: Letter concerning coinage",
+        "attribution": "Provided by the University of Pennsylvania Libraries",
+        "seeAlso": {
+        "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs180/data/ljs180_TEI.xml",
+        "format": "application/tei+xml"
+        },
+        "description": "Summary: Letter written in Paris, dated 27 May 1809 (corrected in ink by another hand to 17 May?), concerning the casting and refinement (la fonte et l'affinage) of metal for currency; by the same writer (signature illegible) as LJS 180, Item 8.\n        Language: In French\n        Support: \n        Extent: \n        Collation: \n        Layout: \n        Script: \n        Decoration: \n        Binding: \n        Origin: \n        Cite as:\t\n        UPenn LJS 180\n        For catalog record, see Permanent Link: 5783316 http://hdl.library.upenn.edu/1017/d/medren/5783316\n  For TEI description and digital images, see: http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/html/ljs180.html\n  ",
+            "metadata": [{
+            "label": "Date",
+            "value": ""
+            }],
+            "thumbnail": {
+            "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs180/data/master/0155_0000.tif/full/400,/0/default.jpg",
+            "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs180/0155_0000",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            },
+            "sequences": [{
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs180/sequence-1",
+            "@type": "sc:Sequence",
+            "label": "Current order",
+            "canvases": [
+            
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs180/canvas/canvas-1",
+                "@type": "sc:Canvas",
+                "label": "Side 1",
+                "height": 3667,
+                "width": 5757,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs180/imageanno/anno-1",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs180/canvas/canvas-1",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs180/resource/0155_0000",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 3667,
+                    "width": 5757,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs180/data/master/0155_0000.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs180/canvas/canvas-2",
+                "@type": "sc:Canvas",
+                "label": "Side 2",
+                "height": 3667,
+                "width": 5757,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs180/imageanno/anno-2",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs180/canvas/canvas-2",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs180/resource/0155_0001",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 3667,
+                    "width": 5757,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs180/data/master/0155_0001.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        }]}]}

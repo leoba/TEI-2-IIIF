@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 420: Perpetual calendar with Metonic cycle</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 420</idno>
+            <altIdentifier type="bibid">
+              <idno>4733161</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4733161</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Liturgical calendar with some astronomical notes, such as indications of when the sun enters signs of the zodiac, and a circular diagram with 19 divisions around the circumference, corresponding to the 19 Julian years of the Metonic cycle (f. 1r). The calendar is followed by a few tables concerning the golden numbers and the dates of Septuagesima and Easter (f. 7r-7v), a hand-shaped diagram and table concerning the moon and the signs of the zodiac (f. 8r), and a list of combinations of planets (f. 8v).</summary>
+            <textLang>Latin, with a few notes in Italian</textLang>
+            <msItem>
+              <title>Perpetual calendar with Metonic cycle</title>
+            </msItem>
+            <msItem n="7r">
+              <locus>7r</locus>
+              <title>Tables concerning the golden numbers and the dates of Septuagesima and Easter, f. 7r</title>
+            </msItem>
+            <msItem n="8r">
+              <locus>8r</locus>
+              <title>Diagram and table concerning the moon and the signs of the zodiac, f. 8r</title>
+            </msItem>
+            <msItem n="8v">
+              <locus>8v</locus>
+              <title>List of combinations of planets, f. 8v</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="ill.">
+                <support>
+                  <p>ill.</p>
+                </support>
+                <extent>8 leaves : 201 x 142 mm. bound to 203 x 147 mm</extent>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in humanistic script.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>2 diagrams in red and black ink (circle, f. 1r; hand with numbers at joints, f. 8r); 4 tables in red and black ink (f. 7r-8r); red ink used for headings and feast days in calendar (f. 1r-6v).</decoNote>
+              <decoNote n="1r">Diagram, Metonic cycle, f. 1r</decoNote>
+              <decoNote n="1r">Manicule, f. 1r</decoNote>
+              <decoNote n="4r">Manicule, f. 4r</decoNote>
+              <decoNote n="6v">Manicule, f. 6v</decoNote>
+              <decoNote n="7r">Table, f. 7r</decoNote>
+              <decoNote n="7v">Table, f. 7v</decoNote>
+              <decoNote n="8r">Diagram, Hand, f. 8r</decoNote>
+              <decoNote n="8r">Table, f. 8r</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Vellum ruled and stamped in gold.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Possibly written in Italy, ca. 1480 (dates in table, f. 7v).</p>
+              <origDate>ca. 1480</origDate>
+              <origPlace>Italy?</origPlace>
+            </origin>
+            <provenance>Sold by Sam Fogg Ltd. to Lawrence J. Schoenberg, June 2001.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Easter--Early works to 1800</term>
+          <term>Perpetual calendars--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Devotional calendars</term>
+          <term>Diagrams</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5133px" url="master/0316_0000.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0000_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0000_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5133px" url="master/0316_0001.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0001_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0001_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5133px" url="master/0316_0002.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0002_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0002_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5133px" url="master/0316_0003.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0003_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0003_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5133px" url="master/0316_0004.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0004_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0004_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5133px" url="master/0316_0005.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0005_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0005_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5133px" url="master/0316_0006.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0006_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0006_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5133px" url="master/0316_0007.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0007_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0007_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5133px" url="master/0316_0008.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0008_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0008_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5133px" url="master/0316_0009.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0009_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0009_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5133px" url="master/0316_0010.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0010_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0010_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5133px" url="master/0316_0011.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0011_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0011_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5133px" url="master/0316_0012.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0012_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0012_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5133px" url="master/0316_0013.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0013_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0013_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5133px" url="master/0316_0014.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0014_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0014_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5133px" url="master/0316_0015.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0015_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0015_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5133px" url="master/0316_0016.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0016_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0016_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5133px" url="master/0316_0017.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0017_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0017_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5133px" url="master/0316_0018.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0018_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0018_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5133px" url="master/0316_0019.tif" width="3756px"/>
+      <graphic height="190px" url="thumb/0316_0019_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0316_0019_web.jpg" width="1317px"/>
+    </surface>
+    <surface n="No spine">
+      <graphic height="5398px" url="master/0316_0020.tif" width="3897px"/>
+      <graphic height="190px" url="thumb/0316_0020_thumb.jpg" width="137px"/>
+      <graphic height="1800px" url="web/0316_0020_web.jpg" width="1299px"/>
+    </surface>
+  </facsimile>
+</TEI>

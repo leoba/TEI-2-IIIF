@@ -1,0 +1,78 @@
+
+        {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://45.55.178.234/iiif/ljs212/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "University of Pennsylvania LJS 212: Manuscript leaf from expense records",
+        "attribution": "Provided by the University of Pennsylvania Libraries",
+        "seeAlso": {
+        "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs212/data/ljs212_TEI.xml",
+        "format": "application/tei+xml"
+        },
+        "description": "Summary: Record of expenses for mills, mostly fulling mills, in Poligny in the Jura region in eastern France. Fulling mills were facilities for cleansing and felting woolen fabrics. The entries include payments for equipment (for example, a millstone, hammers for fulling, and nails), transport, and labor. The expenses on this leaf are entered under the heading Molins Giraut Barthoz. The entries are written in chancery script by a single hand in 2 columns of 63 lines, a wide column on the left for information about each expense and a narrow column on the right for the cost, ruled in lead.\n        Language: Middle French\n        Support: parchment\n        Extent: \n        Collation: \n        Layout: \n        Script: \n        Decoration: \n        Binding: \n        Origin: \n        Cite as:\t\n        UPenn LJS 212\n        For catalog record, see Permanent Link: 5760490 http://hdl.library.upenn.edu/1017/d/medren/5760490\n  For TEI description and digital images, see: http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/html/ljs212.html\n  ",
+            "metadata": [{
+            "label": "Date",
+            "value": ""
+            }],
+            "thumbnail": {
+            "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs212/data/master/0165_0000.tif/full/400,/0/default.jpg",
+            "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs212/0165_0000",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            },
+            "sequences": [{
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs212/sequence-1",
+            "@type": "sc:Sequence",
+            "label": "Current order",
+            "canvases": [
+            
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs212/canvas/canvas-1",
+                "@type": "sc:Canvas",
+                "label": "1r",
+                "height": 7005,
+                "width": 4963,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs212/imageanno/anno-1",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs212/canvas/canvas-1",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs212/resource/0165_0000",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 7005,
+                    "width": 4963,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs212/data/master/0165_0000.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs212/canvas/canvas-2",
+                "@type": "sc:Canvas",
+                "label": "1v",
+                "height": 7005,
+                "width": 4963,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs212/imageanno/anno-2",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs212/canvas/canvas-2",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs212/resource/0165_0001",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 7005,
+                    "width": 4963,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs212/data/master/0165_0001.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        }]}]}

@@ -1,0 +1,78 @@
+
+        {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://45.55.178.234/iiif/mscoll742/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "University of Pennsylvania Ms. Coll. 742: Monticchiello notarial document",
+        "attribution": "Provided by the University of Pennsylvania Libraries",
+        "seeAlso": {
+        "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscoll742/data/mscoll742_TEI.xml",
+        "format": "application/tei+xml"
+        },
+        "description": "Summary: Decision, dated 19 March 1293, of the vice-podestà of Monticchiello, a comune in the province of Siena, with the support of the councilors of the comune. Includes reference to Roma de Piccolomini. Manuscript torn from middle of bottom edge to upper right corner, with loss of text.\n        Language: In Latin\n        Support: parchment.\n        Extent: \n        Collation: \n        Layout: \n        Script: \n        Decoration: \n        Binding: \n        Origin: \n        Cite as:\t\n        UPenn Ms. Coll. 742\n        For catalog record, see Permanent Link: 4743281 http://hdl.library.upenn.edu/1017/d/medren/4743281\n  For TEI description and digital images, see: http://openn.library.upenn.edu/Data/PennManuscripts/html/mscoll742.html\n  ",
+            "metadata": [{
+            "label": "Date",
+            "value": ""
+            }],
+            "thumbnail": {
+            "@id": "http://45.55.178.234/loris/PennManuscripts/mscoll742/data/master/0428_0000.tif/full/400,/0/default.jpg",
+            "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscoll742/0428_0000",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            },
+            "sequences": [{
+            "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscoll742/sequence-1",
+            "@type": "sc:Sequence",
+            "label": "Current order",
+            "canvases": [
+            
+                {
+                "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscoll742/canvas/canvas-1",
+                "@type": "sc:Canvas",
+                "label": "Side 1",
+                "height": 6482,
+                "width": 5184,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscoll742/imageanno/anno-1",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/PennManuscripts/mscoll742/canvas/canvas-1",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscoll742/resource/0428_0000",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 6482,
+                    "width": 5184,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/PennManuscripts/mscoll742/data/master/0428_0000.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscoll742/canvas/canvas-2",
+                "@type": "sc:Canvas",
+                "label": "Side 2",
+                "height": 6482,
+                "width": 5184,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscoll742/imageanno/anno-2",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/PennManuscripts/mscoll742/canvas/canvas-2",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscoll742/resource/0428_0001",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 6482,
+                    "width": 5184,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/PennManuscripts/mscoll742/data/master/0428_0001.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        }]}]}

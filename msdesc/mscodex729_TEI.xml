@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 729: Libellus super electionibus faciendis et earum ordinandis</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title from rubric (f. 1r).</note>
+        <note>Incipit: Venerabili viro discretione scientia et moribus...</note>
+        <note>Explicit: ...in eodem opere contulit sua ineffabili pietate sit benedictio et claritas sapientia et gratiarum actio honor virtus et fortitudo in secula seculorum, amen. Explicit libellus electionum editus a magistro Guillermo de Mandagote archidiacono Nemausis (f. 24r).</note>
+        <note>Same text as that of UPenn Ms. Codex 103.</note>
+        <note>Parchment is brittle, cracking along outer edges of some leaves.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 729</idno>
+            <altIdentifier type="bibid">
+              <idno>2487571</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/2487571</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Two unbound quires from a work dealing with a section of canon law, with Mandagot's own gloss on his work and some details relating to the church at Toulouse, where the author was provost for a time.</summary>
+            <msItem>
+              <title>Libellus super electionibus faciendis et earum ordinandis</title>
+              <author>Guillaume, de Mandagot, d. 1321</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>24 leaves : 406 x 265 (335 x 225) mm</extent>
+                <collation>
+                  <p>Parchment, 24; 2¹²; [1-24]; modern foliation in pencil, lower right recto.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 2 columns of 35-44 lines with commentary framing the main text.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a Gothic book script.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Historiated initial of monk in scriptorium, with drollery of rabbit playing bagpipes (f. 1r); rubricated in red and blue, with decorated initials with penwork ornamentation in red and blue, in both text and commentary.</decoNote>
+              <decoNote n="1r">Historiated initial, Initial U, Monk in scriptorium, f. 1r</decoNote>
+              <decoNote n="1r">Drollery, Rabbit playing bagpipes, f. 1r</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in France, possibly Avignon, in the early 14th century (Zacour-Hirsch).</p>
+              <origDate>between 1300 and 1325</origDate>
+              <origPlace>France</origPlace>
+            </origin>
+            <provenance>Purchased, 1959.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Canon law--Early works to 1800</term>
+          <term>Election law (Canon law)--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Commentaries</term>
+          <term>Illuminations</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="7047px" url="master/0366_0000.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0000_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0000_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7047px" url="master/0366_0001.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0001_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0001_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="7047px" url="master/0366_0002.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0002_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0002_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="7047px" url="master/0366_0003.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0003_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0003_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="7047px" url="master/0366_0004.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0004_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0004_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="7047px" url="master/0366_0005.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0005_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0005_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="7047px" url="master/0366_0006.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0006_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0006_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="7047px" url="master/0366_0007.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0007_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0007_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="7047px" url="master/0366_0008.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0008_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0008_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="7047px" url="master/0366_0009.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0009_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0009_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="7047px" url="master/0366_0010.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0010_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0010_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="7047px" url="master/0366_0011.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0011_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0011_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="7047px" url="master/0366_0012.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0012_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0012_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="7047px" url="master/0366_0013.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0013_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0013_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="7047px" url="master/0366_0014.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0014_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0014_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="7047px" url="master/0366_0015.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0015_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0015_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="7047px" url="master/0366_0016.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0016_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0016_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="7047px" url="master/0366_0017.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0017_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0017_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="7047px" url="master/0366_0018.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0018_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0018_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="7047px" url="master/0366_0019.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0019_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0019_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="7047px" url="master/0366_0020.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0020_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0020_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="7047px" url="master/0366_0021.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0021_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0021_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="7047px" url="master/0366_0022.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0022_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0022_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="7047px" url="master/0366_0023.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0023_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0023_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="7047px" url="master/0366_0024.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0024_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0024_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="7047px" url="master/0366_0025.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0025_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0025_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="7047px" url="master/0366_0026.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0026_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0026_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="7047px" url="master/0366_0027.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0027_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0027_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="7047px" url="master/0366_0028.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0028_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0028_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="7047px" url="master/0366_0029.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0029_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0029_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="7047px" url="master/0366_0030.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0030_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0030_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="7047px" url="master/0366_0031.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0031_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0031_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="7047px" url="master/0366_0032.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0032_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0032_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="7047px" url="master/0366_0033.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0033_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0033_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="7047px" url="master/0366_0034.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0034_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0034_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="7047px" url="master/0366_0035.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0035_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0035_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="19r">
+      <graphic height="7047px" url="master/0366_0036.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0036_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0036_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="19v">
+      <graphic height="7047px" url="master/0366_0037.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0037_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0037_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="20r">
+      <graphic height="7047px" url="master/0366_0038.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0038_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0038_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="20v">
+      <graphic height="7047px" url="master/0366_0039.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0039_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0039_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="21r">
+      <graphic height="7047px" url="master/0366_0040.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0040_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0040_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="21v">
+      <graphic height="7047px" url="master/0366_0041.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0041_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0041_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="22r">
+      <graphic height="7047px" url="master/0366_0042.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0042_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0042_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="22v">
+      <graphic height="7047px" url="master/0366_0043.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0043_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0043_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="23r">
+      <graphic height="7047px" url="master/0366_0044.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0044_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0044_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="23v">
+      <graphic height="7047px" url="master/0366_0045.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0045_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0045_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="24r">
+      <graphic height="7047px" url="master/0366_0046.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0046_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0046_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="24v">
+      <graphic height="7047px" url="master/0366_0047.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0047_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0047_web.jpg" width="1225px"/>
+    </surface>
+    <surface n="No spine">
+      <graphic height="7047px" url="master/0366_0048.tif" width="4798px"/>
+      <graphic height="190px" url="thumb/0366_0048_thumb.jpg" width="129px"/>
+      <graphic height="1800px" url="web/0366_0048_web.jpg" width="1225px"/>
+    </surface>
+  </facsimile>
+</TEI>

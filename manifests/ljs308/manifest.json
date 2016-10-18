@@ -1,0 +1,78 @@
+
+        {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://45.55.178.234/iiif/ljs308/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "University of Pennsylvania LJS 308: Edward III letter patent",
+        "attribution": "Provided by the University of Pennsylvania Libraries",
+        "seeAlso": {
+        "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs308/data/ljs308_TEI.xml",
+        "format": "application/tei+xml"
+        },
+        "description": "Summary: Letter patent on parchment dated Gloucester, 16 August 1347, with Great Seal of England in white wax (very worn, especially at edges) suspended on a parchment tag. Confirmation of the grant by John de Coggeshale, escheator of Essex, to Robert de Burghcher of permission to close and convert to cultivation a public road running through his land at Stansted on condition that Robert build another appropriate road on his land. Witnessed by the king's son Lionel, later Duke of Clarence, and issued by writ of the Privy Seal, written in chancery script and signed by chancery scribe J. Marton. Opening initial left blank, first line with calligraphic ascenders.\n        Language: In Latin\n        Support: parchment\n        Extent: \n        Collation: \n        Layout: \n        Script: \n        Decoration: \n        Binding: \n        Origin: \n        Cite as:\t\n        UPenn LJS 308\n        For catalog record, see Permanent Link: 4748833 http://hdl.library.upenn.edu/1017/d/medren/4748833\n  For TEI description and digital images, see: http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/html/ljs308.html\n  ",
+            "metadata": [{
+            "label": "Date",
+            "value": ""
+            }],
+            "thumbnail": {
+            "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs308/data/master/0128_0000.tif/full/400,/0/default.jpg",
+            "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs308/0128_0000",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            },
+            "sequences": [{
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs308/sequence-1",
+            "@type": "sc:Sequence",
+            "label": "Current order",
+            "canvases": [
+            
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs308/canvas/canvas-1",
+                "@type": "sc:Canvas",
+                "label": "Side 1",
+                "height": 6407,
+                "width": 4437,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs308/imageanno/anno-1",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs308/canvas/canvas-1",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs308/resource/0128_0000",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 6407,
+                    "width": 4437,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs308/data/master/0128_0000.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs308/canvas/canvas-2",
+                "@type": "sc:Canvas",
+                "label": "Side 2",
+                "height": 6407,
+                "width": 4437,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs308/imageanno/anno-2",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs308/canvas/canvas-2",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs308/resource/0128_0001",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 6407,
+                    "width": 4437,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs308/data/master/0128_0001.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        }]}]}

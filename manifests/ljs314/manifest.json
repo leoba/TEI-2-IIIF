@@ -1,0 +1,78 @@
+
+        {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://45.55.178.234/iiif/ljs314/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "University of Pennsylvania LJS 314: East India Company petition :",
+        "attribution": "Provided by the University of Pennsylvania Libraries",
+        "seeAlso": {
+        "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs314/data/ljs314_TEI.xml",
+        "format": "application/tei+xml"
+        },
+        "description": "Summary: Request by the Governour and Company of Merchants trading into the East Indies, Persia, &c., to ʻAbbās II, Shah of Iran, for the East India Company's half of the customs duties of the port of Gombroon in the Persian Gulf, later named Bander ʻAbbās, a promised reward to the company for their earlier assistance in driving the Portuguese from the island of Hormuz. Issued in London, 9 Apr. 1660, the petition is written in a cursive script. It is signed by Governor Thomas Andrew and other merchants, but some of the signatures are faded. The first line of the text is in gold display letters, the first letter particularly large on a ground of gold penwork, followed by a second line in green ink. Important words and initials are in green ink throughout. The petition has a three-quarters border in gold leaf with the coat of arms of the East India Company Merchants at the top and 4 rondels containing illuminations of sailing ships. The item is backed with newer vellum, which has a window so that an inscription in green ink on the verso is still visible: To the high & mightie monarch SHAW ABBAS, Emperour of Persia, Media, Armenia, & other great & populous countries and dominions.\n        Language: \n        Support: parchment\n        Extent: \n        Collation: \n        Layout: \n        Script: \n        Decoration: \n        Binding: \n        Origin: \n        Cite as:\t\n        UPenn LJS 314\n        For catalog record, see Permanent Link: 4994039 http://hdl.library.upenn.edu/1017/d/medren/4994039\n  For TEI description and digital images, see: http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/html/ljs314.html\n  ",
+            "metadata": [{
+            "label": "Date",
+            "value": ""
+            }],
+            "thumbnail": {
+            "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs314/data/master/0179_0000.tif/full/400,/0/default.jpg",
+            "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs314/0179_0000",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            },
+            "sequences": [{
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs314/sequence-1",
+            "@type": "sc:Sequence",
+            "label": "Current order",
+            "canvases": [
+            
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs314/canvas/canvas-1",
+                "@type": "sc:Canvas",
+                "label": "Side 1",
+                "height": 5842,
+                "width": 7187,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs314/imageanno/anno-1",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs314/canvas/canvas-1",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs314/resource/0179_0000",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5842,
+                    "width": 7187,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs314/data/master/0179_0000.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs314/canvas/canvas-2",
+                "@type": "sc:Canvas",
+                "label": "Side 2",
+                "height": 5842,
+                "width": 7187,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs314/imageanno/anno-2",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs314/canvas/canvas-2",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs314/resource/0179_0001",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5842,
+                    "width": 7187,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs314/data/master/0179_0001.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        }]}]}

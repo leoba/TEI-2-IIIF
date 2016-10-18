@@ -1,0 +1,78 @@
+
+        {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://45.55.178.234/iiif/ljsmisc-2/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "University of Pennsylvania LJS Misc-2: Timothy Stedham indenture :",
+        "attribution": "Provided by the University of Pennsylvania Libraries",
+        "seeAlso": {
+        "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljsmisc-2/data/ljsmisc-2_TEI.xml",
+        "format": "application/tei+xml"
+        },
+        "description": "Summary: Indenture dated 11 June 1728 (first regnal year of George II) between Timothy Stedham and the commissioners of the Loan Office of Salem County, N.J., concerning the sale of 116 and 1/3 acres of land in Mannington, N.J., to Stedham. Verso inscribed Deed from the Commissioners to Timothy Stedham (spelled Steathom within the deed). Written in cursive script. Signed by Samuel Hedge, Ben Davis, Jonathan Ogden, John Ogden, William Hancock, and John Goodwin as witnesses. Red wax seal no longer present.\n        Language: \n        Support: paper\n        Extent: \n        Collation: \n        Layout: \n        Script: \n        Decoration: \n        Binding: \n        Origin: \n        Cite as:\t\n        UPenn LJS Misc-2\n        For catalog record, see Permanent Link: 5763053 http://hdl.library.upenn.edu/1017/d/medren/5763053\n  For TEI description and digital images, see: http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/html/ljsmisc-2.html\n  ",
+            "metadata": [{
+            "label": "Date",
+            "value": ""
+            }],
+            "thumbnail": {
+            "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljsmisc-2/data/master/0006_0000.tif/full/400,/0/default.jpg",
+            "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljsmisc-2/0006_0000",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            },
+            "sequences": [{
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljsmisc-2/sequence-1",
+            "@type": "sc:Sequence",
+            "label": "Current order",
+            "canvases": [
+            
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljsmisc-2/canvas/canvas-1",
+                "@type": "sc:Canvas",
+                "label": "Side 1",
+                "height": 6698,
+                "width": 5311,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljsmisc-2/imageanno/anno-1",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljsmisc-2/canvas/canvas-1",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljsmisc-2/resource/0006_0000",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 6698,
+                    "width": 5311,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljsmisc-2/data/master/0006_0000.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljsmisc-2/canvas/canvas-2",
+                "@type": "sc:Canvas",
+                "label": "Side 2",
+                "height": 6698,
+                "width": 5311,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljsmisc-2/imageanno/anno-2",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljsmisc-2/canvas/canvas-2",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljsmisc-2/resource/0006_0001",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 6698,
+                    "width": 5311,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljsmisc-2/data/master/0006_0001.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        }]}]}

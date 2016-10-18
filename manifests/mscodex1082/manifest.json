@@ -1,0 +1,342 @@
+
+        {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://45.55.178.234/iiif/mscodex1082/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "University of Pennsylvania Ms. Codex 1082: Pasquillus in aulicos",
+        "attribution": "Provided by the University of Pennsylvania Libraries",
+        "seeAlso": {
+        "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/data/mscodex1082_TEI.xml",
+        "format": "application/tei+xml"
+        },
+        "description": "Summary: Poem, usually in rhymed couplets, apparently commemorating the occasion of Friedrich IV von Wied becoming the archbishop of Cologne. The poem traces and comments upon the history of the archbishopric beginning with the earlier tenure of Friedrich's uncle, Hermann V von Wied, who had been forced to resign after being in the post for 32 years.\n        Language: German\n        Support: paper\n        Extent: \n        Collation: \n        Layout: Written in 25-27 long lines.\n        Script: Written in a German cursive hand.\n        Decoration: \n        Binding: Modern boards.\n        Origin: Written in Cologne in 1563.\n        Cite as:\t\n        UPenn Ms. Codex 1082\n        For catalog record, see Permanent Link: 4231759 http://hdl.library.upenn.edu/1017/d/medren/4231759\n  For TEI description and digital images, see: http://openn.library.upenn.edu/Data/PennManuscripts/html/mscodex1082.html\n  ",
+            "metadata": [{
+            "label": "Date",
+            "value": "1563"
+            }],
+            "thumbnail": {
+            "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex1082/data/master/0403_0000.tif/full/400,/0/default.jpg",
+            "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscodex1082/0403_0000",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            },
+            "sequences": [{
+            "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/sequence-1",
+            "@type": "sc:Sequence",
+            "label": "Current order",
+            "canvases": [
+            
+                {
+                "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-1",
+                "@type": "sc:Canvas",
+                "label": "Front cover",
+                "height": 5586,
+                "width": 3905,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/imageanno/anno-1",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-1",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscodex1082/resource/0403_0000",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5586,
+                    "width": 3905,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex1082/data/master/0403_0000.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-2",
+                "@type": "sc:Canvas",
+                "label": "Inside front cover",
+                "height": 5586,
+                "width": 3905,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/imageanno/anno-2",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-2",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscodex1082/resource/0403_0001",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5586,
+                    "width": 3905,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex1082/data/master/0403_0001.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-3",
+                "@type": "sc:Canvas",
+                "label": "1r",
+                "height": 5585,
+                "width": 3905,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/imageanno/anno-3",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-3",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscodex1082/resource/0403_0002",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5585,
+                    "width": 3905,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex1082/data/master/0403_0002.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-4",
+                "@type": "sc:Canvas",
+                "label": "1v",
+                "height": 5586,
+                "width": 3905,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/imageanno/anno-4",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-4",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscodex1082/resource/0403_0003",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5586,
+                    "width": 3905,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex1082/data/master/0403_0003.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-5",
+                "@type": "sc:Canvas",
+                "label": "2r",
+                "height": 5586,
+                "width": 3905,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/imageanno/anno-5",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-5",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscodex1082/resource/0403_0004",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5586,
+                    "width": 3905,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex1082/data/master/0403_0004.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-6",
+                "@type": "sc:Canvas",
+                "label": "2v",
+                "height": 5586,
+                "width": 3905,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/imageanno/anno-6",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-6",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscodex1082/resource/0403_0005",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5586,
+                    "width": 3905,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex1082/data/master/0403_0005.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-7",
+                "@type": "sc:Canvas",
+                "label": "3r",
+                "height": 5586,
+                "width": 3905,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/imageanno/anno-7",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-7",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscodex1082/resource/0403_0006",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5586,
+                    "width": 3905,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex1082/data/master/0403_0006.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-8",
+                "@type": "sc:Canvas",
+                "label": "3v",
+                "height": 5586,
+                "width": 3905,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/imageanno/anno-8",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-8",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscodex1082/resource/0403_0007",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5586,
+                    "width": 3905,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex1082/data/master/0403_0007.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-9",
+                "@type": "sc:Canvas",
+                "label": "4r",
+                "height": 5586,
+                "width": 3905,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/imageanno/anno-9",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-9",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscodex1082/resource/0403_0008",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5586,
+                    "width": 3905,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex1082/data/master/0403_0008.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-10",
+                "@type": "sc:Canvas",
+                "label": "4v",
+                "height": 5586,
+                "width": 3905,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/imageanno/anno-10",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-10",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscodex1082/resource/0403_0009",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5586,
+                    "width": 3905,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex1082/data/master/0403_0009.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-11",
+                "@type": "sc:Canvas",
+                "label": "Inside back cover",
+                "height": 5586,
+                "width": 3905,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/imageanno/anno-11",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-11",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscodex1082/resource/0403_0010",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5586,
+                    "width": 3905,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex1082/data/master/0403_0010.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-12",
+                "@type": "sc:Canvas",
+                "label": "Back cover",
+                "height": 5586,
+                "width": 3905,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/imageanno/anno-12",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-12",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscodex1082/resource/0403_0011",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5586,
+                    "width": 3905,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex1082/data/master/0403_0011.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-13",
+                "@type": "sc:Canvas",
+                "label": "Spine",
+                "height": 5586,
+                "width": 3905,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/imageanno/anno-13",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/PennManuscripts/mscodex1082/canvas/canvas-13",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/PennManuscripts/iiif/mscodex1082/resource/0403_0012",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5586,
+                    "width": 3905,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/PennManuscripts/mscodex1082/data/master/0403_0012.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        }]}]}

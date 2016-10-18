@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 742: Generale consilium partis Guelforum decision</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 742</idno>
+            <altIdentifier type="bibid">
+              <idno>4650999</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4650999</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Unanimous decision of a meeting of the general council of Guelfs in the church of Saint Christopher in Siena, with reference to Ghibellines. The council met in the fall of 1272. This document was written in 1276 by the notary Albertinus Albertini, who certified that he copied it from the work of earlier notaries, without any additions or deletions.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Generale consilium partis Guelforum decision</title>
+              <author>Generale consilium partis Guelforum</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment.">
+                <support>
+                  <p>parchment.</p>
+                </support>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Sir Thomas Phillipps (part of ms. 20709).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Guelfs and Ghibellines</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Legal documents</term>
+          <term>Notarial documents</term>
+          <term>Manuscripts, Latin--13th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="4919px" url="master/0449_0000.tif" width="3373px"/>
+      <graphic height="190px" url="thumb/0449_0000_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0449_0000_web.jpg" width="1234px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="4919px" url="master/0449_0001.tif" width="3373px"/>
+      <graphic height="190px" url="thumb/0449_0001_thumb.jpg" width="130px"/>
+      <graphic height="1800px" url="web/0449_0001_web.jpg" width="1234px"/>
+    </surface>
+  </facsimile>
+</TEI>

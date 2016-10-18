@@ -1,0 +1,774 @@
+
+        {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://45.55.178.234/iiif/ljs167/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "University of Pennsylvania LJS 167: Address presented to the Hon. Albert D. Shaw, United States Consul, Manchester, from residents in Sale, Ashton-on-Mersey, and District :",
+        "attribution": "Provided by the University of Pennsylvania Libraries",
+        "seeAlso": {
+        "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/data/ljs167_TEI.xml",
+        "format": "application/tei+xml"
+        },
+        "description": "Summary: Bound presentation manuscript honoring Albert Shaw, U.S. Consul at Manchester, on his departure, signed by 100 residents of the towns of Sale and Ashton-on-Mersey and the surrounding area, southwest of Manchester. The first two leaves are illuminated with floral designs in colors and gold, the second two leaves have simpler colored geometric borders, and the text blocks of the four leaves of signatures are framed in blue ink. Bound in chagrin with gilt title stamped on upper cover and silk doublures and endleaves. Dated 30 June 1885. Silk ribbon with metal pin and tassels commemorating the 34th annual G.A.R. Encampment in Chicago, Aug. 27-Sept. 1, 1900, printed with the portrait of Shaw as commander-in-chief, laid inside upper cover.\n        Language: \n        Support: \n        Extent: \n        Collation: \n        Layout: \n        Script: \n        Decoration: Illuminated border, f. 1r\n        Binding: \n        Origin: \n        Cite as:\t\n        UPenn LJS 167\n        For catalog record, see Permanent Link: 5004852 http://hdl.library.upenn.edu/1017/d/medren/5004852\n  For TEI description and digital images, see: http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/html/ljs167.html\n  ",
+            "metadata": [{
+            "label": "Date",
+            "value": ""
+            }],
+            "thumbnail": {
+            "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0000.tif/full/400,/0/default.jpg",
+            "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/0199_0000",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            },
+            "sequences": [{
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/sequence-1",
+            "@type": "sc:Sequence",
+            "label": "Current order",
+            "canvases": [
+            
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-1",
+                "@type": "sc:Canvas",
+                "label": "Front cover",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-1",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-1",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0000",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0000.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-2",
+                "@type": "sc:Canvas",
+                "label": "Inside front cover",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-2",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-2",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0001",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0001.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-3",
+                "@type": "sc:Canvas",
+                "label": "Flyleaf 1 recto",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-3",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-3",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0002",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0002.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-4",
+                "@type": "sc:Canvas",
+                "label": "Flyleaf 1 verso",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-4",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-4",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0003",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0003.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-5",
+                "@type": "sc:Canvas",
+                "label": "Flyleaf 2 recto",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-5",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-5",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0004",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0004.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-6",
+                "@type": "sc:Canvas",
+                "label": "Flyleaf 2 verso",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-6",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-6",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0005",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0005.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-7",
+                "@type": "sc:Canvas",
+                "label": "1r",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-7",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-7",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0006",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0006.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-8",
+                "@type": "sc:Canvas",
+                "label": "1v",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-8",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-8",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0007",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0007.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-9",
+                "@type": "sc:Canvas",
+                "label": "2r",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-9",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-9",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0008",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0008.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-10",
+                "@type": "sc:Canvas",
+                "label": "2v",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-10",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-10",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0009",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0009.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-11",
+                "@type": "sc:Canvas",
+                "label": "3r",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-11",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-11",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0010",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0010.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-12",
+                "@type": "sc:Canvas",
+                "label": "3v",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-12",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-12",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0011",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0011.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-13",
+                "@type": "sc:Canvas",
+                "label": "4r",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-13",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-13",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0012",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0012.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-14",
+                "@type": "sc:Canvas",
+                "label": "4v",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-14",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-14",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0013",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0013.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-15",
+                "@type": "sc:Canvas",
+                "label": "5r",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-15",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-15",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0014",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0014.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-16",
+                "@type": "sc:Canvas",
+                "label": "5v",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-16",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-16",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0015",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0015.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-17",
+                "@type": "sc:Canvas",
+                "label": "6r",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-17",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-17",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0016",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0016.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-18",
+                "@type": "sc:Canvas",
+                "label": "6v",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-18",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-18",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0017",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0017.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-19",
+                "@type": "sc:Canvas",
+                "label": "7r",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-19",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-19",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0018",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0018.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-20",
+                "@type": "sc:Canvas",
+                "label": "7v",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-20",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-20",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0019",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0019.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-21",
+                "@type": "sc:Canvas",
+                "label": "8r",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-21",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-21",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0020",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0020.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-22",
+                "@type": "sc:Canvas",
+                "label": "8v",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-22",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-22",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0021",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0021.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-23",
+                "@type": "sc:Canvas",
+                "label": "Flyleaf 1 recto",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-23",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-23",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0022",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0022.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-24",
+                "@type": "sc:Canvas",
+                "label": "Flyleaf 1 verso",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-24",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-24",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0023",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0023.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-25",
+                "@type": "sc:Canvas",
+                "label": "Flyleaf 2 recto",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-25",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-25",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0024",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0024.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-26",
+                "@type": "sc:Canvas",
+                "label": "Flyleaf 2 verso",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-26",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-26",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0025",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0025.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-27",
+                "@type": "sc:Canvas",
+                "label": "Inside back cover",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-27",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-27",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0026",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0026.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-28",
+                "@type": "sc:Canvas",
+                "label": "Back cover",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-28",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-28",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0027",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0027.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-29",
+                "@type": "sc:Canvas",
+                "label": "Spine",
+                "height": 4012,
+                "width": 3229,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-29",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-29",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0028",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 4012,
+                    "width": 3229,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0028.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-30",
+                "@type": "sc:Canvas",
+                "label": "Commemorative Ribbon, Side 1",
+                "height": 3344,
+                "width": 1736,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-30",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-30",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0029",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 3344,
+                    "width": 1736,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0029.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-31",
+                "@type": "sc:Canvas",
+                "label": "Commemorative Ribbon, Side 2",
+                "height": 3344,
+                "width": 1736,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/imageanno/anno-31",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs167/canvas/canvas-31",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs167/resource/0199_0030",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 3344,
+                    "width": 1736,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs167/data/master/0199_0030.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        }]}]}

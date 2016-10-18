@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 501: Bifolium from Liber completus in iudiciis stellarum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger based on heading for Book 6 (f. 1r).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 501</idno>
+            <altIdentifier type="bibid">
+              <idno>6092756</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/6092756</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Bifolium from a 14th-century manuscript copied in England of the mid-13th-century Latin translation by Aegidius de Thebaldis (assisted by Petrus de Regio) of the Old Castilian translation of an 11th-century Arabic treatise on astrology. The text on the bifolium is from Book 5 and Book 6 of the work, which are in the section concerning nativities. The bifolium has been bound in reverse so that the leaf with the end of Book 5 and the beginning of Book 6 (and the historiated initial marking the division) are on the first leaf, followed by the originally earlier leaf containing material from Chapter 14 of Book 5. Two marginal section headings (f. 2r) in the same hand as the text; a few brief marginal annotations.</summary>
+            <textLang mainLang="lat">Latin</textLang>
+            <msItem>
+              <title>Bifolium from Liber completus in iudiciis stellarum</title>
+              <author>Ibn Abī al-Rijāl, ʻAlī, 1015 or 1016-1062 or 1063</author>
+              <respStmt>
+                <resp>translator</resp>
+                <persName>Thebaldis, Aegidius de, active 15th century</persName>
+              </respStmt>
+              <respStmt>
+                <resp>translator</resp>
+                <persName>Regio, Petrus de</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Rosenthal, Bernard M</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>2 leaves : 314 x 234 (246 x 170) mm bound to 346 x 260 mm</extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 2 columns of 53 lines; prickings visible.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in Gothic script.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>8-line historiated initial depicting a monk and a woman with an armillary sphere on a gold ground (slightly rubbed) with a bar border in blue, red, and gold with ivy-leaf finials extending through the full left margin and into the upper and lower margins (f. 1r); 2 3-line decorated initials, one a puzzle initial in red and blue with penwork in red and blue (f. 1r) and the other in red with blue penwork (f. 1v); alternating red and blue paragraph marks.</decoNote>
+              <decoNote n="Inside front cover">Seller's description, Inside front cover</decoNote>
+              <decoNote n="Flyleaf 1 recto">Seller's note, Flyleaf 1 recto</decoNote>
+              <decoNote n="1r">Historiated initial, Initial I, Woman and monk holding armillary sphere, f. 1r</decoNote>
+              <decoNote n="1r">Puzzle initial, Initial C, f. 1r</decoNote>
+              <decoNote n="1v">Decorated initial, Initial C, f. 1v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Modern paper over cardboard, with gilt cover label (Ibn Abi 'l-Rijal, Liber in iudiciis stellarum, England, circa 1320, MS 1317 ES).</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in England in approximately 1320 (Quaritch).</p>
+              <origDate>approximately 1320</origDate>
+              <origPlace>England</origPlace>
+            </origin>
+            <provenance>Formerly owned by Bernard M. Rosenthal (note in pencil on letterhead, front flyleaf).</provenance>
+            <provenance>Sold by Bernard M. Rosenthal as part of his private collection to Bernard Quaritch Antiquarian Books (London), 1987.</provenance>
+            <provenance>Appears in Quaritch's catalog 1147 (Bookhands of the Middle Ages, Part V, 1991), number 107; sold to a private collector in Switzerland.</provenance>
+            <provenance>Sold at auction at Christie's, 20 November 2013, lot 34, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2014.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Astrology--Early works to 1800</term>
+          <term>Astrology, Arab--Early works to 1800</term>
+          <term>Astronomy--Early works to 1800</term>
+          <term>Astronomy, Arab--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Illuminations</term>
+          <term>Treatises</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5867px" url="master/0027_0000.tif" width="4468px"/>
+      <graphic height="190px" url="thumb/0027_0000_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0027_0000_web.jpg" width="1371px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5867px" url="master/0027_0001.tif" width="4468px"/>
+      <graphic height="190px" url="thumb/0027_0001_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0027_0001_web.jpg" width="1371px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5867px" url="master/0027_0002.tif" width="4468px"/>
+      <graphic height="190px" url="thumb/0027_0002_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0027_0002_web.jpg" width="1371px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5867px" url="master/0027_0003.tif" width="4468px"/>
+      <graphic height="190px" url="thumb/0027_0003_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0027_0003_web.jpg" width="1371px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5867px" url="master/0027_0004.tif" width="4468px"/>
+      <graphic height="190px" url="thumb/0027_0004_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0027_0004_web.jpg" width="1371px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5867px" url="master/0027_0005.tif" width="4468px"/>
+      <graphic height="190px" url="thumb/0027_0005_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0027_0005_web.jpg" width="1371px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5867px" url="master/0027_0006.tif" width="4468px"/>
+      <graphic height="190px" url="thumb/0027_0006_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0027_0006_web.jpg" width="1371px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5867px" url="master/0027_0007.tif" width="4468px"/>
+      <graphic height="190px" url="thumb/0027_0007_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0027_0007_web.jpg" width="1371px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5867px" url="master/0027_0008.tif" width="4468px"/>
+      <graphic height="190px" url="thumb/0027_0008_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0027_0008_web.jpg" width="1371px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5867px" url="master/0027_0009.tif" width="4468px"/>
+      <graphic height="190px" url="thumb/0027_0009_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0027_0009_web.jpg" width="1371px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5867px" url="master/0027_0010.tif" width="4468px"/>
+      <graphic height="190px" url="thumb/0027_0010_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0027_0010_web.jpg" width="1371px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5867px" url="master/0027_0011.tif" width="4468px"/>
+      <graphic height="190px" url="thumb/0027_0011_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0027_0011_web.jpg" width="1371px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="5867px" url="master/0027_0012.tif" width="4468px"/>
+      <graphic height="190px" url="thumb/0027_0012_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0027_0012_web.jpg" width="1371px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 496: Treatise on practical mathematical calculation</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Incipit: [I]l volere sapere il prosimo di ciaschuno auto sanza danno ... (f. 1r; first omitted initial and first word uncertain).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 496</idno>
+            <altIdentifier type="bibid">
+              <idno>5762648</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5762648</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Beginning of a survey of practical applications of mathematics (abacho), algebra (alghorismo), and geometry (fighura) for commercial purposes such as banking or trade, in a larger format than most commercial mathematical manuscripts; missing leaves at end. Spaces left for initials ranging from 3 to 8 lines in height.</summary>
+            <textLang>Italian</textLang>
+            <msItem>
+              <title>Treatise on practical mathematical calculation</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                  <watermark>Similar to Briquet Aigle 81-90 (Tuscany, 1475-1507).</watermark>
+                </support>
+                <extent>10 leaves : 415 x 290 (270 x 180) mm. bound to 420 x 300 mm</extent>
+                <foliation>Paper, 10; [1-10], modern foliation in pencil, upper right recto. Single vertical catchword (f. 9v).</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 43-46 long lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a cursive script by a single hand.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote n="Inside front cover">Reused printed leaf, Inside front cover</decoNote>
+              <decoNote n="Inside back cover">Reused printed leaf, Inside back cover</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>19th-century marbled pasteboard with parchment spine and pastedowns of printed leaves from a 19th-century archaeological work.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Italy in the last quarter of the 15th century (Sotheby's).</p>
+              <origDate>between 1475 and 1499</origDate>
+              <origPlace>Italy</origPlace>
+            </origin>
+            <provenance>Sold at auction at Sotheby's, 6 Jul. 2010, lot 28, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Arithmetic--Early works to 1900</term>
+          <term>Mathematics--Early works to 1800</term>
+          <term>Banks and banking--Italy</term>
+          <term>Merchants--Italy</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Treatises</term>
+          <term>Manuscripts, Italian--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="7216px" url="master/0020_0000.tif" width="5412px"/>
+      <graphic height="190px" url="thumb/0020_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0020_0000_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="7047px" url="master/0020_0001.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0001_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0001_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="7047px" url="master/0020_0002.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0002_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0002_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7047px" url="master/0020_0003.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0003_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0003_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="7047px" url="master/0020_0004.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0004_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0004_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="7047px" url="master/0020_0005.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0005_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0005_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="7047px" url="master/0020_0006.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0006_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0006_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="7047px" url="master/0020_0007.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0007_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0007_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="7047px" url="master/0020_0008.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0008_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0008_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="7047px" url="master/0020_0009.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0009_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0009_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="7047px" url="master/0020_0010.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0010_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0010_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="7047px" url="master/0020_0011.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0011_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0011_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="7047px" url="master/0020_0012.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0012_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0012_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="7047px" url="master/0020_0013.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0013_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0013_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="7047px" url="master/0020_0014.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0014_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0014_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="7047px" url="master/0020_0015.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0015_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0015_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="7047px" url="master/0020_0016.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0016_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0016_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="7047px" url="master/0020_0017.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0017_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0017_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="7047px" url="master/0020_0018.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0018_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0018_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="7047px" url="master/0020_0019.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0019_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0019_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="7047px" url="master/0020_0020.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0020_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0020_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="7047px" url="master/0020_0021.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0021_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0021_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="7047px" url="master/0020_0022.tif" width="5176px"/>
+      <graphic height="190px" url="thumb/0020_0022_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0020_0022_web.jpg" width="1322px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="7216px" url="master/0020_0023.tif" width="5412px"/>
+      <graphic height="190px" url="thumb/0020_0023_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0020_0023_web.jpg" width="1350px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="7216px" url="master/0020_0024.tif" width="5412px"/>
+      <graphic height="190px" url="thumb/0020_0024_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0020_0024_web.jpg" width="1350px"/>
+    </surface>
+  </facsimile>
+</TEI>

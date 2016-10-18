@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 701: Astronomical fragments</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title from Zacour-Hirsch Catalogue. Identification of second text from Zacour-Hirsch Catalogue.</note>
+        <note>Incipit and explicit (1st work, f. 1r): Primum regulares feriales unde oriantur videamus ... esse aliis dictum est (f. 4v).</note>
+        <note>Incipit and explicit (2nd work, f. 5r): Qui producit ventos de tesauris suis, qui percussit primogenita egipt: ab homine usque ad pecus [Ps. 134: 7-8] ... quod faceret rem (f. 8v).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 701</idno>
+            <altIdentifier type="bibid">
+              <idno>2487496</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/2487496</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Comprises two items: Astronomical tract concerning calendars, i.e., solar and lunar years and cycles, equinoxes and solstices, and determining movable feasts including Easter (f. 1-4); plus a fragment identified as the beginning of the Summa Theologica of Praepositanus Cremonensis (Prevostin of Cremona), Chancellor of the University of Paris from 1206-1209 (f. 5-8).</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Astronomical fragments</title>
+              <author>Praepositanus, de Cremona, d. ca. 1210</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Dunn, George, 1864-1912</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="1r">
+              <locus>1r</locus>
+              <title>Astronomical tract, f. 1r</title>
+            </msItem>
+            <msItem n="5r">
+              <locus>5r</locus>
+              <title>Summa Theologica, f. 5r</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>8 leaves : 222 x 147 (176 x 121) mm. bound to 231 x 156 mm</extent>
+                <foliation>Parchment, ii (modern paper) + i (modern parchment) + 8 + i (modern parchment) + ii (modern paper); [1-8]; modern foliation in pencil, upper and lower right recto.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 40-45 long lines (f. 1r-4v) and 2 columns of 44-45 lines (f. 5r-8v); ruled in lead; prickings visible.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a Gothic book script by a single hand.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Illustrated with a circular diagram and a table outlined in red (f. 1v), with rubricated headings and red initials throughout.</decoNote>
+              <decoNote n="1v">Table, f. 1v</decoNote>
+              <decoNote n="1v">Diagram, f. 1v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Modern vellum.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in France, 13th century (Zacour-Hirsch).</p>
+              <origDate>12--</origDate>
+              <origPlace>France</origPlace>
+            </origin>
+            <provenance>Sold in the collection of George Dunn (label inside upper cover) at auction at Sotheby's, 11 Feb. 1913, lot 379.</provenance>
+            <provenance>Sold at auction at Parke-Bernet Galleries, 29 Jan. 1951, lot 44.</provenance>
+            <provenance>Sold by Emil Offenbacher (New York), 1954.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--Liturgy--Calendar--Early works to 1800</term>
+          <term>Astronomy--Early works to 1800</term>
+          <term>Theology, Doctrinal--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Latin--13th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5855px" url="master/0364_0000.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0000_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0000_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5855px" url="master/0364_0001.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0001_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0001_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5855px" url="master/0364_0002.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0002_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0002_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5855px" url="master/0364_0003.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0003_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0003_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto">
+      <graphic height="5855px" url="master/0364_0004.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0004_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0004_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso">
+      <graphic height="5855px" url="master/0364_0005.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0005_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0005_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Flyleaf 3 recto">
+      <graphic height="5855px" url="master/0364_0006.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0006_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0006_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Flyleaf 3 verso">
+      <graphic height="5855px" url="master/0364_0007.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0007_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0007_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5855px" url="master/0364_0008.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0008_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0008_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5855px" url="master/0364_0009.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0009_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0009_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5855px" url="master/0364_0010.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0010_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0010_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5855px" url="master/0364_0011.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0011_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0011_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5855px" url="master/0364_0012.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0012_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0012_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5855px" url="master/0364_0013.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0013_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0013_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5855px" url="master/0364_0014.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0014_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0014_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5855px" url="master/0364_0015.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0015_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0015_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5855px" url="master/0364_0016.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0016_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0016_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5855px" url="master/0364_0017.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0017_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0017_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5855px" url="master/0364_0018.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0018_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0018_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5855px" url="master/0364_0019.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0019_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0019_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5855px" url="master/0364_0020.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0020_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0020_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5855px" url="master/0364_0021.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0021_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0021_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5855px" url="master/0364_0022.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0022_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0022_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5855px" url="master/0364_0023.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0023_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0023_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5855px" url="master/0364_0024.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0024_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0024_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5855px" url="master/0364_0025.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0025_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0025_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto">
+      <graphic height="5855px" url="master/0364_0026.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0026_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0026_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso">
+      <graphic height="5855px" url="master/0364_0027.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0027_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0027_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Flyleaf 3 recto">
+      <graphic height="5855px" url="master/0364_0028.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0028_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0028_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Flyleaf 3 verso">
+      <graphic height="5855px" url="master/0364_0029.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0029_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0029_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5855px" url="master/0364_0030.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0030_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0030_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5855px" url="master/0364_0031.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0031_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0031_web.jpg" width="1292px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="5855px" url="master/0364_0032.tif" width="4203px"/>
+      <graphic height="190px" url="thumb/0364_0032_thumb.jpg" width="136px"/>
+      <graphic height="1800px" url="web/0364_0032_web.jpg" width="1292px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,680 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 64: Illustrations to Georg von Peurbach's Novae theoricae planetarum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 64</idno>
+            <altIdentifier type="bibid">
+              <idno>4809379</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4809379</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Diagrams, many with moving parts, designed to accompany the work Theoricae novae planetarum by 15th-century Austrian astronomer Georg von Peurbach, who taught at the universities in Padua and Ferrara. The diagrams demonstrate increasingly complex planetary motion. An early 17th-century inscription on the first flyleaf refers to an edition of Peurbach published in Venice in 1616.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Illustrations to Georg von Peurbach's Novae theoricae planetarum</title>
+              <author>Peurbach, George von, 1423-1461</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Rolandi, Francesco</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Cattochii, Pietro Giuseppe Ignati Mattei</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Honeyman, Robert B</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>45 leaves : 288 x 214 mm. bound to 298 x 220 mm</extent>
+                <collation>
+                  <p>Paper, 45; 1⁴ (first leaf pastedown) 2⁴(+1) 3-5⁴ 6⁶ 7-10⁴ 11⁴ (last leaf pastedown); modern pagination in pencil, [vii, 2-57, i, 58-65, 67-73, 75-78, vi], upper outer corners. The numbers used as pagination in this record are in fact numbers assigned to diagrams, which are usually one per page, except for the second page of the double-page diagram beginning on p. 57; p. 65, which contains diagrams 65 and 66; and p. 73, which contains diagrams 73 and 74.</p>
+                </collation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in italic script in brown and red ink.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>73 full-page diagrams, 1 double-page diagram (p. 57 and facing page), and 4 half-page diagrams in black, red, and brown ink with yellow washes depicting planetary motion. 25 have volvelles or other moving parts attached with thread.</decoNote>
+              <decoNote n="Inside front cover">Owner note, Inside front cover</decoNote>
+              <decoNote n="i">Owner note, p. i</decoNote>
+              <decoNote n="1">Diagram, Figura ostendens quae si orbis est uniformis, p. 1</decoNote>
+              <decoNote n="2">Diagram, Figura ostendens quae si orbis est difformis, p. 2</decoNote>
+              <decoNote n="3">Diagram, Theorica motus orbis supremi neccesario super cetero mundi, p. 3</decoNote>
+              <decoNote n="4">Diagram, Theorica motus orbis supremi super cetero mundi, p. 4</decoNote>
+              <decoNote n="5">Diagram, Theorica motus orbis infimi neccesario super cetero mundi, p. 5</decoNote>
+              <decoNote n="6">Diagram, Theorica motus orbis infimi super cetero mundi, p. 6</decoNote>
+              <decoNote n="7">Diagram, Theorica motus orbis medii defferens solem neccesario cetero eccentrici, p. 7</decoNote>
+              <decoNote n="8">Diagram, Theorica motuum et orbium spherae solis, p. 8</decoNote>
+              <decoNote n="9">Diagram, Theorica axium et polorum octavae spherae..., p. 9</decoNote>
+              <decoNote n="10">Diagram, Theorica augis et oppositi (?) solis, p. 10</decoNote>
+              <decoNote n="11">Diagram, Theorica axium et polorum spherae solis..., p. 11</decoNote>
+              <decoNote n="12">Diagram, Theorica ostendens motum ceteri eccentrici et axis et polorum..., p. 12</decoNote>
+              <decoNote n="13">Diagram, Theorica ostendens continuaem variationem augi oppositi longitudinem (?) mediarum..., p. 13</decoNote>
+              <decoNote n="14">Diagram, Theorica motus ceteri et circuli eccentrici solis et augis et oppositi, p. 14</decoNote>
+              <decoNote n="15">Diagram, Theorica regularitatis solis in suo circulo eccentricae..., p. 15</decoNote>
+              <decoNote n="16">Diagram, Theorica alia regularitatis solis in eccentrico et irregularitatis in zodiaco, p. 16</decoNote>
+              <decoNote n="17">Diagram, Theorica longitudinum mediarum solis, p. 17</decoNote>
+              <decoNote n="18">Diagram, Sol describit quartam zodiaci..., p. 18</decoNote>
+              <decoNote n="19">Diagram, Theorica lineae medii (?) motus solis..., p. 19</decoNote>
+              <decoNote n="20">Diagram, Theorica ostendens quae sicut una linearum equidistantium..., p. 20</decoNote>
+              <decoNote n="21">Diagram, Theorica linearum et motuum spherae et equationum argumenti eius, p. 21</decoNote>
+              <decoNote n="22">Diagram, Theorica motuum et orbium spherae lunae, p. 22</decoNote>
+              <decoNote n="23">Diagram, Theorica axium et polorum octavae spherae et axium et polorum orbium spherae lunae, p. 23</decoNote>
+              <decoNote n="24">Diagram, Theorica circumferentia circulorum descriptarum ab axe et polis orbis defferis epiciclum, p. 24</decoNote>
+              <decoNote n="25">Diagram, Theorica regularitatis centri epicicli lunae super centro mundi, p. 25</decoNote>
+              <decoNote n="26">Diagram, Theorica regularitatis centri epicicli lunae in zodiaco, p. 26</decoNote>
+              <decoNote n="27">Diagram, Theorica ostendens argumentum medium esse maius..., p. 27</decoNote>
+              <decoNote n="28">Diagram, Theorica ostendens quae subtracto medio mundo spherae..., p. 28</decoNote>
+              <decoNote n="29">Diagram, p. 29</decoNote>
+              <decoNote n="30">Diagram, Theorica inregularitatis centri corporis lunae, p. 30</decoNote>
+              <decoNote n="31">Diagram, Theorica linearum et motuum lunae et equationum argumentorum in zodiaco, p. 31</decoNote>
+              <decoNote n="32">Diagram, Thoerica minutorum proportionalium lunae, p. 32</decoNote>
+              <decoNote n="33">Diagram, Theorica linearum et motuum capitis et caudae draconis lunae, p. 33</decoNote>
+              <decoNote n="34">Diagram, Theorica motum et orbium trium superiorum, p. 34</decoNote>
+              <decoNote n="35">Diagram, Theorica axium et polorum octavae spherae et orbium defferem augem trium superiorum, p. 35</decoNote>
+              <decoNote n="36">Diagram, Theorica axium et polorum orbium trium superiorum, p. 36</decoNote>
+              <decoNote n="37">Diagram, Theorica augis et opposit trium superiorum, p. 37</decoNote>
+              <decoNote n="38">Diagram, Theorica regularitatis epicicli in circulo equante, p. 38</decoNote>
+              <decoNote n="39">Diagram, Theorica regularitatis corporis planete ab auge media (?), p. 39</decoNote>
+              <decoNote n="40">Diagram, Theorica habitudinis trium superiorum ad solem, p. 40</decoNote>
+              <decoNote n="41">Diagram, Theorica ostendens quae talis est proportio equationis centri in epiciclo..., p. 41</decoNote>
+              <decoNote n="42">Diagram, Theorica linearum et motuum ac equationum tam centroroum quam argumentorum trium superiorum, p. 42</decoNote>
+              <decoNote n="43">Diagram, Theorica minutorum proportionalium trium superiorum, p. 43</decoNote>
+              <decoNote n="44">Diagram, Theorica motuum et orbium veneris, p. 44</decoNote>
+              <decoNote n="45">Diagram, Theorica axium et polorum spherae solis et veneris, p. 45</decoNote>
+              <decoNote n="46">Diagram, Theorica augis et oppositi spherae et veneris, p. 46</decoNote>
+              <decoNote n="47">Diagram, Theorica regularitatis veneris in aequante, p. 47</decoNote>
+              <decoNote n="48">Diagram, Theorica regularitatis centri corporis veneris..., p. 48</decoNote>
+              <decoNote n="49">Diagram, Theorica habitudinis veneris ad solem, p. 49</decoNote>
+              <decoNote n="50">Diagram, Theorica minutorum proportionalium veneris, p. 50</decoNote>
+              <decoNote n="51">Diagram, Theorica motuum et orbium spherae mercurii, p. 51</decoNote>
+              <decoNote n="52">Diagram, Theorica axium et polorum octavae spherae et spherae mercurii, p. 52</decoNote>
+              <decoNote n="53">Diagram, Theorica augis et oppositi mercurii, p. 53</decoNote>
+              <decoNote n="54">Diagram, Theorica alia augis et oppositi mercurii mobilis, p. 54</decoNote>
+              <decoNote n="55">Diagram, Theorica circumferentiarum descriptarum a centro defferentis et variationis earum, p. 55</decoNote>
+              <decoNote n="56">Diagram, Theorica regularitatis centri corporis mercurii in epiciclo..., p. 56</decoNote>
+              <decoNote n="57">Diagram, Theorica orbium spherae solis et mercurii et linearum et motuum spherae solis et spherae mercurii, p. 57</decoNote>
+              <decoNote n="58">Diagram, Theorica minutorum proportionalium mercurii, p. 58</decoNote>
+              <decoNote n="59">Diagram, Theorica directionum stationum et retrogradda: planetarum, p. 59</decoNote>
+              <decoNote n="60">Diagram, Theorica ostendens lunae non posse retrogradari..., p. 60</decoNote>
+              <decoNote n="61">Diagram, Theorica ortus et occasus matutini et vespertini veneris et mercurii, p. 61</decoNote>
+              <decoNote n="62">Diagram, Theorica alia mobilis ortus et occasus matutini et vespertini veneris et mercurii, p. 62</decoNote>
+              <decoNote n="63">Diagram, Theorica aspectuum signorum et planetarum, p. 63</decoNote>
+              <decoNote n="64">Diagram, Theorica conjunctionum et oppositionum mediarum et verarum linearium (?), p. 64</decoNote>
+              <decoNote n="65-66">Diagram, Theorica diversitatum aspectuum, p. 65</decoNote>
+              <decoNote n="65-66">Diagram, Theorica diversitatum aspectuum, p. 65</decoNote>
+              <decoNote n="67">Diagram, Theorica diversitatis aspectus absolute et diversitatis aspectus in longitudine et latitudine, p. 67</decoNote>
+              <decoNote n="68">Diagram, Theorica eclipsium solis et lunae, p. 68</decoNote>
+              <decoNote n="69">Diagram, Theorica excelsus dyametri umbrae terrae in loco transitus lunae..., p. 69</decoNote>
+              <decoNote n="70">Diagram, Theorica latitudinis et declinationis stellarum, p. 70</decoNote>
+              <decoNote n="72">Diagram, Theorica motus accessus et reccessus octavae spherae, p. 72</decoNote>
+              <decoNote n="73-74">Diagram, Theorica ostendens quae quoniam ecliptica secat parvos circulos..., p. 73</decoNote>
+              <decoNote n="73-74">Diagram, Theorica ostendens quod sola capita V et Librae describunt circumferentias circulorum, p. 74</decoNote>
+              <decoNote n="75">Diagram, Theorica motus accessus et recessus octavae spherae et motus nonae, p. 75</decoNote>
+              <decoNote n="76">Diagram, Theorica ostendens variationem declinationis maximae octavae spherae..., p. 76</decoNote>
+              <decoNote n="77">Diagram, Theorica linearum et motuum octavae spherae et nonae..., p. 77</decoNote>
+              <decoNote n="78">Diagram, Theorica motus octavae spherae secundum thebith, p. 78</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Contemporary morocco tooled in silver gilt.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in northern Italy, probably Padua, in the mid-16th century.</p>
+              <origDate>between 1525 and 1575</origDate>
+              <origPlace>Padua?, Italy</origPlace>
+            </origin>
+            <provenance>Formerly owned by Francesco Rolandi of Turin, teacher of mathematics (inscription dated 1655, inside upper cover).</provenance>
+            <provenance>Formerly owned by Pietro Giuseppe (latinized in inscription as Petrus Joseph) Ignati Mattei Cattochii of Vicus Lancesium (Viù, near Turin; inscriptions dated 1708-1709, inside upper cover and first flyleaf recto).</provenance>
+            <provenance>Appeared in Libreria antiquaria Hoepli's catalog Livres, manuscrits et imprimé (Milan, 1954), no. 24.</provenance>
+            <provenance>Sold by Libreria antiquaria Hoepli through Zeitlin &amp; Ver Brugge (Los Angeles) to Robert B. Honeyman (San Juan Capistrano, Calif.), Ms. Astron. 4/Ms. 9, 1956.</provenance>
+            <provenance>Sold at auction at Sotheby's in the Honeyman collection of scientific books and manuscripts, Part III, 2 May 1979, lot 1112.</provenance>
+            <provenance>Appeared in Laurence Witten's cat. 10 (1979), no. 65.</provenance>
+            <provenance>Sold at auction at Christie's, 26 June 1991, lot 43.</provenance>
+            <provenance>Appeared in Sam Fogg's cat. 15 (London, 1992), no. 48.</provenance>
+            <provenance>Sold by William Patrick Watson Antiquarian Books (London), cat. 7 (1996), no. 79, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Planets--Orbits</term>
+          <term>Planetary theory--Early works to 1800</term>
+          <term>Astronomy--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Diagrams</term>
+          <term>Volvelles</term>
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="7485px" url="master/0231_0000.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0000_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0000_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="7485px" url="master/0231_0001.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0001_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0001_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="i">
+      <graphic height="7485px" url="master/0231_0002.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0002_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0002_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="ii">
+      <graphic height="7485px" url="master/0231_0003.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0003_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0003_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="iii">
+      <graphic height="7485px" url="master/0231_0004.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0004_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0004_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="iv">
+      <graphic height="7485px" url="master/0231_0005.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0005_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0005_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="v">
+      <graphic height="7485px" url="master/0231_0006.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0006_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0006_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="vi">
+      <graphic height="7485px" url="master/0231_0007.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0007_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0007_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="vii">
+      <graphic height="7485px" url="master/0231_0008.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0008_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0008_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="1">
+      <graphic height="7485px" url="master/0231_0009.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0009_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0009_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="2">
+      <graphic height="7485px" url="master/0231_0010.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0010_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0010_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="3">
+      <graphic height="7485px" url="master/0231_0011.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0011_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0011_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="4">
+      <graphic height="7485px" url="master/0231_0012.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0012_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0012_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="5">
+      <graphic height="7485px" url="master/0231_0013.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0013_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0013_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="6">
+      <graphic height="7485px" url="master/0231_0014.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0014_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0014_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="7">
+      <graphic height="7485px" url="master/0231_0015.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0015_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0015_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="8">
+      <graphic height="7485px" url="master/0231_0016.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0016_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0016_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="9">
+      <graphic height="7485px" url="master/0231_0017.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0017_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0017_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="10">
+      <graphic height="7485px" url="master/0231_0018.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0018_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0018_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="11">
+      <graphic height="7485px" url="master/0231_0019.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0019_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0019_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="12">
+      <graphic height="7485px" url="master/0231_0020.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0020_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0020_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="13">
+      <graphic height="7485px" url="master/0231_0021.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0021_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0021_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="14">
+      <graphic height="7485px" url="master/0231_0022.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0022_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0022_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="15">
+      <graphic height="7485px" url="master/0231_0023.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0023_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0023_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="16">
+      <graphic height="7485px" url="master/0231_0024.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0024_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0024_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="17">
+      <graphic height="7485px" url="master/0231_0025.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0025_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0025_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="18">
+      <graphic height="7485px" url="master/0231_0026.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0026_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0026_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="19">
+      <graphic height="7485px" url="master/0231_0027.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0027_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0027_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="20">
+      <graphic height="7485px" url="master/0231_0028.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0028_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0028_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="21">
+      <graphic height="7485px" url="master/0231_0029.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0029_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0029_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="22">
+      <graphic height="7485px" url="master/0231_0030.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0030_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0030_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="23">
+      <graphic height="7485px" url="master/0231_0031.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0031_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0031_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="24">
+      <graphic height="7485px" url="master/0231_0032.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0032_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0032_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="25">
+      <graphic height="7485px" url="master/0231_0033.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0033_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0033_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="26">
+      <graphic height="7485px" url="master/0231_0034.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0034_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0034_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="27">
+      <graphic height="7485px" url="master/0231_0035.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0035_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0035_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="28">
+      <graphic height="7485px" url="master/0231_0036.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0036_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0036_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="29">
+      <graphic height="7485px" url="master/0231_0037.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0037_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0037_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="30">
+      <graphic height="7485px" url="master/0231_0038.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0038_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0038_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="31">
+      <graphic height="7485px" url="master/0231_0039.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0039_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0039_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="32">
+      <graphic height="7485px" url="master/0231_0040.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0040_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0040_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="33">
+      <graphic height="7485px" url="master/0231_0041.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0041_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0041_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="34">
+      <graphic height="7485px" url="master/0231_0042.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0042_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0042_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="35">
+      <graphic height="7485px" url="master/0231_0043.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0043_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0043_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="36">
+      <graphic height="7485px" url="master/0231_0044.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0044_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0044_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="37">
+      <graphic height="7485px" url="master/0231_0045.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0045_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0045_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="38">
+      <graphic height="7485px" url="master/0231_0046.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0046_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0046_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="39">
+      <graphic height="7485px" url="master/0231_0047.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0047_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0047_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="40">
+      <graphic height="7485px" url="master/0231_0048.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0048_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0048_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="41">
+      <graphic height="7485px" url="master/0231_0049.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0049_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0049_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="42">
+      <graphic height="7485px" url="master/0231_0050.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0050_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0050_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="43">
+      <graphic height="7485px" url="master/0231_0051.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0051_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0051_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="44">
+      <graphic height="7485px" url="master/0231_0052.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0052_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0052_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="45">
+      <graphic height="7485px" url="master/0231_0053.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0053_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0053_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="46">
+      <graphic height="7485px" url="master/0231_0054.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0054_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0054_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="47">
+      <graphic height="7485px" url="master/0231_0055.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0055_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0055_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="48">
+      <graphic height="7485px" url="master/0231_0056.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0056_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0056_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="49">
+      <graphic height="7485px" url="master/0231_0057.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0057_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0057_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="50">
+      <graphic height="7485px" url="master/0231_0058.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0058_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0058_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="51">
+      <graphic height="7485px" url="master/0231_0059.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0059_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0059_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="52">
+      <graphic height="7485px" url="master/0231_0060.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0060_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0060_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="53">
+      <graphic height="7485px" url="master/0231_0061.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0061_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0061_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="54">
+      <graphic height="7485px" url="master/0231_0062.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0062_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0062_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="55">
+      <graphic height="7485px" url="master/0231_0063.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0063_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0063_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="56">
+      <graphic height="7485px" url="master/0231_0064.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0064_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0064_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="57">
+      <graphic height="7485px" url="master/0231_0065.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0065_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0065_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="i">
+      <graphic height="7485px" url="master/0231_0066.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0066_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0066_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="58">
+      <graphic height="7485px" url="master/0231_0067.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0067_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0067_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="59">
+      <graphic height="7485px" url="master/0231_0068.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0068_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0068_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="60">
+      <graphic height="7485px" url="master/0231_0069.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0069_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0069_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="61">
+      <graphic height="7485px" url="master/0231_0070.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0070_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0070_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="62">
+      <graphic height="7485px" url="master/0231_0071.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0071_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0071_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="63">
+      <graphic height="7485px" url="master/0231_0072.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0072_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0072_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="64">
+      <graphic height="7485px" url="master/0231_0073.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0073_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0073_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="65-66">
+      <graphic height="7485px" url="master/0231_0074.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0074_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0074_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="67">
+      <graphic height="7485px" url="master/0231_0075.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0075_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0075_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="68">
+      <graphic height="7485px" url="master/0231_0076.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0076_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0076_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="69">
+      <graphic height="7485px" url="master/0231_0077.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0077_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0077_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="70">
+      <graphic height="7485px" url="master/0231_0078.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0078_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0078_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="71">
+      <graphic height="7485px" url="master/0231_0079.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0079_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0079_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="72">
+      <graphic height="7485px" url="master/0231_0080.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0080_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0080_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="73-74">
+      <graphic height="7485px" url="master/0231_0081.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0081_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0081_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="75">
+      <graphic height="7485px" url="master/0231_0082.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0082_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0082_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="76">
+      <graphic height="7485px" url="master/0231_0083.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0083_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0083_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="77">
+      <graphic height="7485px" url="master/0231_0084.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0084_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0084_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="78">
+      <graphic height="7485px" url="master/0231_0085.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0085_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0085_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="i">
+      <graphic height="7485px" url="master/0231_0086.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0086_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0086_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="ii">
+      <graphic height="7485px" url="master/0231_0087.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0087_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0087_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="iii">
+      <graphic height="7485px" url="master/0231_0088.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0088_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0088_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="iv">
+      <graphic height="7485px" url="master/0231_0089.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0089_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0089_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="v">
+      <graphic height="7485px" url="master/0231_0090.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0090_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0090_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="vi">
+      <graphic height="7485px" url="master/0231_0091.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0091_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0091_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="7485px" url="master/0231_0092.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0092_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0092_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="7485px" url="master/0231_0093.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0093_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0093_web.jpg" width="1386px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="7485px" url="master/0231_0094.tif" width="5767px"/>
+      <graphic height="190px" url="thumb/0231_0094_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0231_0094_web.jpg" width="1386px"/>
+    </surface>
+  </facsimile>
+</TEI>

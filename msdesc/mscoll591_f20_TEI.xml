@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 591: Manuscript leaf from In libros De caelo et mundo Aristotelis</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 591</idno>
+            <altIdentifier type="bibid">
+              <idno>4165652</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4165652</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Leaf from a late 13th-century manuscript written in France of Thomas Aquinas's commentary on a Latin translation of the cosmological work De caelo et mundo, attributed to Aristotle. The leaf contains the end of lectio XIV and beginning of lectio XV, on the first book, eighth chapter of the Aristotle text, concerning the impossibility of an infinite body. A small diagram in the lower margin of the recto illustrates part of the argument. Written in a Gothic bookhand and glossing hand, in 32 lines of main text and 63 lines of gloss on either side. Two initials in red or blue with contrasting penwork on verso; running heads and pargraph marks alternate between red and blue. Due to the leaf's later use as a wrapper, it is creased and labeled Manuel d'agriculture et réfutation de la methode de Thull, Paris, 1767.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Manuscript leaf from In libros De caelo et mundo Aristotelis</title>
+              <author>Thomas, Aquinas, Saint, 1225?-1274</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 350 x 220 (240 x 57 main text, 240 x 155 gloss) mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Bernard Quaritch (London), cat. 1348 (2007), no. 3.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Cosmology--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Commentaries</term>
+          <term>Fragments</term>
+          <term>Manuscripts, Latin--13th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="5855px" url="master/0447_0000.tif" width="3938px"/>
+      <graphic height="190px" url="thumb/0447_0000_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0447_0000_web.jpg" width="1210px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="5855px" url="master/0447_0001.tif" width="3938px"/>
+      <graphic height="190px" url="thumb/0447_0001_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0447_0001_web.jpg" width="1210px"/>
+    </surface>
+  </facsimile>
+</TEI>

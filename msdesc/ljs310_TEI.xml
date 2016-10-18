@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania. LJS 310: Map of district in Tarn-et-Garonne</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title supplied by cataloger (viewed on 17 September 2013).</note>
+        <note>Dimensions of original manuscript: 630 x 700 mm.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania.</institution>
+            <repository>Rare Book &amp; Manuscript Library Web</repository>
+            <idno type="call-number">LJS 310</idno>
+            <altIdentifier type="bibid">
+              <idno>5999482</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5999482</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Manuscript map in color on parchment of a district in the southwestern department of Tarn-et-Garonne, between Castelsarrasin, Castelferrus, and the Cistercian monastery of Belleperche, possibly to illustrate water rights between Castelferrus and Castelsarrasin. The Garonne River is depicted with bridges, mill, sandbanks, and ferry points. Buildings are illustrated in some detail and labeled by a contemporary hand. Probably made in Castelferrus. Creased by past folds, now framed under glass.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Map of district in Tarn-et-Garonne</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="ill.">
+                <support>
+                  <p>ill.</p>
+                </support>
+                <extent>1 online resource (1 leaf) :</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Originally owned by Jean Rollet, seigneur de Castelferrus.</provenance>
+            <provenance>Appears in Simon Finch's cat. 8 (1991), no. 68.</provenance>
+            <provenance>Formerly owned by a Swiss collector; sold via Sam Fogg Ltd. (London) to Lawrence J. Schoenberg, July 1999.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Cistercians--France--Tarn-et-Garonne--History</term>
+          <term>Water rights--France</term>
+          <term>Manuscript maps--Early works to 1800--Specimens</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Facsimiles</term>
+          <term>Maps (documents)</term>
+          <term>Pictorial maps</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="5412px" url="master/0170_0000.tif" width="7216px"/>
+      <graphic height="142px" url="thumb/0170_0000_thumb.jpg" width="190px"/>
+      <graphic height="1350px" url="web/0170_0000_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 433: Yoso zusetsu</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 433</idno>
+            <altIdentifier type="bibid">
+              <idno>4827745</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4827745</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Illustrated treatise on the diagnosis of abscesses and tumors and their treatment, mostly through acupuncture or burning substances near the skin. Copied in Japan in Chinese for Japanese practitioners.</summary>
+            <textLang>Chinese</textLang>
+            <msItem>
+              <title>Yoso zusetsu</title>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Hatano, Baiko</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>29 leaves : 270 x 195 mm. bound to 270 x 195 mm</extent>
+                <collation>
+                  <p>Paper, 29 double sheet folios.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in up to 10 columns of up to 24 characters.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in Chinese script.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>47 medical illustrations in colored inks and wash of partially clothed patients with tumors or abscesses; 1 illustration of a hand in connection with a discussion of calculations (f. 28r); 2 illustrations in black ink of surgical instruments (f. 25v-26r); 2 diagrams (f. 26v, 28v); and one scene showing 2 doctors examining a patient (f. 29v). Vowels, punctuation, and other guides written in red ink.</decoNote>
+              <decoNote n="1v">Illustrated diagram, f. 1v</decoNote>
+              <decoNote n="2r">Illustrated diagram, f. 2r</decoNote>
+              <decoNote n="2v">Illustrated diagram, f. 2v</decoNote>
+              <decoNote n="3r">Illustrated diagram, f. 3r</decoNote>
+              <decoNote n="3v">Illustrated diagram, f. 3v</decoNote>
+              <decoNote n="4r">Illustrated diagram, f. 4r</decoNote>
+              <decoNote n="4v">Illustrated diagram, f. 4v</decoNote>
+              <decoNote n="5r">Illustrated diagram, f. 5r</decoNote>
+              <decoNote n="5v">Illustrated diagram, f. 5v</decoNote>
+              <decoNote n="6r">Illustrated diagram, f. 6r</decoNote>
+              <decoNote n="6v">Illustrated diagram, f. 6v</decoNote>
+              <decoNote n="7r">Illustrated diagram, f. 7r</decoNote>
+              <decoNote n="7v">Illustrated diagram, f. 7v</decoNote>
+              <decoNote n="8r">Illustrated diagram, f. 8r</decoNote>
+              <decoNote n="8v">Illustrated diagram, f. 8v</decoNote>
+              <decoNote n="9r">Illustrated diagram, f. 9r</decoNote>
+              <decoNote n="9v">Illustrated diagram, f. 9v</decoNote>
+              <decoNote n="10r">Illustrated diagram, f. 10r</decoNote>
+              <decoNote n="10v">Illustrated diagram, f. 10v</decoNote>
+              <decoNote n="11r">Illustrated diagram, f. 11r</decoNote>
+              <decoNote n="11v">Illustrated diagram, f. 11v</decoNote>
+              <decoNote n="12r">Illustrated diagram, f. 12r</decoNote>
+              <decoNote n="12v">Illustrated diagram, f. 12v</decoNote>
+              <decoNote n="13r">Illustrated diagram, f. 13r</decoNote>
+              <decoNote n="13v">Illustrated diagram, f. 13v</decoNote>
+              <decoNote n="14r">Illustrated diagram, f. 14r</decoNote>
+              <decoNote n="14v">Illustrated diagram, f. 14v</decoNote>
+              <decoNote n="15v">Illustrated diagram, f. 15v</decoNote>
+              <decoNote n="16r">Illustrated diagram, f. 16r</decoNote>
+              <decoNote n="16v">Illustrated diagram, f. 16v</decoNote>
+              <decoNote n="17r">Illustrated diagram, f. 17r</decoNote>
+              <decoNote n="18r">Illustrated diagram, f. 18r</decoNote>
+              <decoNote n="18v">Illustrated diagram, f. 18v</decoNote>
+              <decoNote n="19r">Illustrated diagram, f. 19r</decoNote>
+              <decoNote n="19v">Illustrated diagram, f. 19v</decoNote>
+              <decoNote n="20r">Illustrated diagram, f. 20r</decoNote>
+              <decoNote n="20v">Illustrated diagram, f. 20v</decoNote>
+              <decoNote n="21r">Illustrated diagram, f. 21r</decoNote>
+              <decoNote n="21v">Illustrated diagram, f. 21v</decoNote>
+              <decoNote n="22r">Illustrated diagram, f. 22r</decoNote>
+              <decoNote n="22v">Illustrated diagram, f. 22v</decoNote>
+              <decoNote n="23r">Illustrated diagram, f. 23r</decoNote>
+              <decoNote n="23v">Illustrated diagram, f. 23v</decoNote>
+              <decoNote n="24r">Illustrated diagram, f. 24r</decoNote>
+              <decoNote n="24v">Illustrated diagram, f. 24v</decoNote>
+              <decoNote n="25r">Illustrated diagram, f. 25r</decoNote>
+              <decoNote n="25v">Illustration, Surgical instruments, f. 25v</decoNote>
+              <decoNote n="26r">Illustration, Surgical instruments, f. 26r</decoNote>
+              <decoNote n="26v">Diagram, f. 26v</decoNote>
+              <decoNote n="27v">Illustrated diagram, f. 27v</decoNote>
+              <decoNote n="28r">Illustration, Hand, f. 28r</decoNote>
+              <decoNote n="28v">Diagram, f. 28v</decoNote>
+              <decoNote n="29v">Illustration, Doctors examining patient, f. 29v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Fukuro-toji (stitched) in later wrappers, with inscriptions on the upper cover.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Japan, ca. 1600.</p>
+              <origDate>ca. 1600</origDate>
+              <origPlace>Japan</origPlace>
+            </origin>
+            <provenance>Sold by Martayan Lan (New York) to Lawrence J. Schoenberg, Mar. 2002.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Abscess--Early works to 1800</term>
+          <term>Tumors--Early works to 1800</term>
+          <term>Surgical instruments and apparatus--Early works to 1800</term>
+          <term>Medicine, Chinese--Japan--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Treatises</term>
+          <term>Pen-and-wash drawings</term>
+          <term>Diagrams</term>
+          <term>Manuscripts, Digital</term>
+          <term>Manuscripts, Chinese--16th century</term>
+          <term>Manuscripts, Chinese--17th century</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="4758px" url="master/0219_0000.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0000_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="4758px" url="master/0219_0001.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0001_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="4758px" url="master/0219_0002.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0002_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0002_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4758px" url="master/0219_0003.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0003_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0003_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4758px" url="master/0219_0004.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0004_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0004_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4758px" url="master/0219_0005.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0005_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0005_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="4758px" url="master/0219_0006.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0006_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0006_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="4758px" url="master/0219_0007.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0007_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0007_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="4758px" url="master/0219_0008.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0008_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0008_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="4758px" url="master/0219_0009.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0009_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0009_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="4758px" url="master/0219_0010.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0010_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0010_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="4758px" url="master/0219_0011.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0011_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0011_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="4758px" url="master/0219_0012.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0012_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0012_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="4758px" url="master/0219_0013.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0013_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0013_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="4758px" url="master/0219_0014.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0014_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0014_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="4758px" url="master/0219_0015.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0015_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0015_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="4758px" url="master/0219_0016.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0016_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0016_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="4758px" url="master/0219_0017.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0017_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0017_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="4758px" url="master/0219_0018.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0018_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0018_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="4758px" url="master/0219_0019.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0019_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0019_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="4758px" url="master/0219_0020.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0020_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0020_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="4758px" url="master/0219_0021.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0021_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0021_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="4758px" url="master/0219_0022.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0022_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0022_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="4758px" url="master/0219_0023.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0023_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0023_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="4758px" url="master/0219_0024.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0024_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0024_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="4758px" url="master/0219_0025.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0025_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0025_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="4758px" url="master/0219_0026.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0026_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0026_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="4758px" url="master/0219_0027.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0027_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0027_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="4758px" url="master/0219_0028.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0028_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0028_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="4758px" url="master/0219_0029.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0029_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0029_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="4758px" url="master/0219_0030.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0030_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0030_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="4758px" url="master/0219_0031.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0031_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0031_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="4758px" url="master/0219_0032.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0032_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0032_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="4758px" url="master/0219_0033.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0033_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0033_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="4758px" url="master/0219_0034.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0034_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0034_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="4758px" url="master/0219_0035.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0035_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0035_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="4758px" url="master/0219_0036.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0036_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0036_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="4758px" url="master/0219_0037.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0037_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0037_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="19r">
+      <graphic height="4758px" url="master/0219_0038.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0038_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0038_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="19v">
+      <graphic height="4758px" url="master/0219_0039.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0039_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0039_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="20r">
+      <graphic height="4758px" url="master/0219_0040.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0040_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0040_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="20v">
+      <graphic height="4758px" url="master/0219_0041.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0041_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0041_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="21r">
+      <graphic height="4758px" url="master/0219_0042.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0042_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0042_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="21v">
+      <graphic height="4758px" url="master/0219_0043.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0043_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0043_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="22r">
+      <graphic height="4758px" url="master/0219_0044.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0044_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0044_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="22v">
+      <graphic height="4758px" url="master/0219_0045.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0045_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0045_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="23r">
+      <graphic height="4758px" url="master/0219_0046.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0046_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0046_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="23v">
+      <graphic height="4758px" url="master/0219_0047.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0047_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0047_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="24r">
+      <graphic height="4758px" url="master/0219_0048.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0048_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0048_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="24v">
+      <graphic height="4758px" url="master/0219_0049.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0049_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0049_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="25r">
+      <graphic height="4758px" url="master/0219_0050.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0050_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0050_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="25v">
+      <graphic height="4758px" url="master/0219_0051.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0051_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0051_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="26r">
+      <graphic height="4758px" url="master/0219_0052.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0052_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0052_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="26v">
+      <graphic height="4758px" url="master/0219_0053.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0053_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0053_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="27r">
+      <graphic height="4758px" url="master/0219_0054.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0054_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0054_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="27v">
+      <graphic height="4758px" url="master/0219_0055.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0055_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0055_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="28r">
+      <graphic height="4758px" url="master/0219_0056.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0056_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0056_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="28v">
+      <graphic height="4758px" url="master/0219_0057.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0057_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0057_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="29r">
+      <graphic height="4758px" url="master/0219_0058.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0058_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0058_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="29v">
+      <graphic height="4758px" url="master/0219_0059.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0059_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0059_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="4758px" url="master/0219_0060.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0060_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0060_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="4758px" url="master/0219_0061.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0061_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0061_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="4758px" url="master/0219_0062.tif" width="3567px"/>
+      <graphic height="190px" url="thumb/0219_0062_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0219_0062_web.jpg" width="1349px"/>
+    </surface>
+  </facsimile>
+</TEI>

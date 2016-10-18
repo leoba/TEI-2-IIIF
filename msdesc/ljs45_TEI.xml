@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 45: Papyrus fragments from The book of the dead</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 45</idno>
+            <altIdentifier type="bibid">
+              <idno>5005294</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5005294</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Nine illustrated fragments from a manuscript on papyrus of The book of the dead, a collection of spells and incantations buried with the dead to protect them in the afterlife. The fragments include text in hieratic script in black and red ink. All are worn, some almost completely worn away (f. 4r, 6r, 7r). The fragments are mounted in card (the embossed stamp in the corner of several mounts, with E.B. and a caduceus on a crowned shield surrounded by a scroll with the phrase Carton Bristol Francais seems to refer to the material of the mounts rather than a former owner).</summary>
+            <textLang>Egyptian</textLang>
+            <msItem>
+              <title>Papyrus fragments from The book of the dead</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Bement, Clarence S. 1843-1923</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Martin, Robert Walsingham, 1871-1961</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Schoenberg, Lawrence J</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="Fragment 1">
+              <locus>Fragment 1</locus>
+              <title>Man standing by an altar, apparently throwing a snake at a man with a lance; man on throne receiving gift from standing figure, Fragment 1</title>
+            </msItem>
+            <msItem n="Fragment 2">
+              <locus>Fragment 2</locus>
+              <title>Man with spear standing before children or other diminutive figures with woman behind him holding up a ritual object, Fragment 2</title>
+            </msItem>
+            <msItem n="Fragment 3">
+              <locus>Fragment 3</locus>
+              <title>Woman pouring water from a vase onto the upraised hands of a standing man, Fragment 3</title>
+            </msItem>
+            <msItem n="Fragment 4">
+              <locus>Fragment 4</locus>
+              <title>Bird, Fragment 4</title>
+            </msItem>
+            <msItem n="Fragment 5">
+              <locus>Fragment 5</locus>
+              <title>Standing figures with animal heads, Fragment 5</title>
+            </msItem>
+            <msItem n="Fragment 6">
+              <locus>Fragment 6</locus>
+              <title>Two figures, barely discernible, Fragment 6</title>
+            </msItem>
+            <msItem n="Fragment 7">
+              <locus>Fragment 7</locus>
+              <title>Indiscernible, Fragment 7</title>
+            </msItem>
+            <msItem n="Fragment 8">
+              <locus>Fragment 8</locus>
+              <title>Figure and vertical object, Fragment 8</title>
+            </msItem>
+            <msItem n="Fragment 9">
+              <locus>Fragment 9</locus>
+              <title>Isis and other standing figures, Fragment 9</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="papyrus">
+                <support>
+                  <p>papyrus</p>
+                </support>
+                <extent>9 leaves : 59-81 x 59-143 mm. mounted and bound to 293 x 225 mm</extent>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a hieratic script.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Illustrations on each fragment.</decoNote>
+              <decoNote n="Bookplates">Bookplate</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Late 19th-century morocco , blind and gilt tooled.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Egypt between approximately 300 and 150 B.C.</p>
+              <origDate>between 300 and 150 B.C</origDate>
+              <origPlace>Egypt</origPlace>
+            </origin>
+            <provenance>Sold by Maggs Bros. to Clarence S. Bement (Philadelphia), 1907 (bookplate inside upper cover); sold at auction at Anderson Auction Company, New York, as part of Bement's collection, 28 Feb. 1923.</provenance>
+            <provenance>Formerly owned by Robert Walsingham Martin (bookplate inside upper cover).</provenance>
+            <provenance>Sold at auction at Sotheby's, 18 June 1996, lot 60, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Gift of Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Funeral rites and ceremonies--Egypt</term>
+          <term>Incantations, Egyptian</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Papyri</term>
+          <term>Egyptian language--Papyri, Hieratic</term>
+          <term>Manuscripts, Digital</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Fragment 1">
+      <graphic height="2388px" url="master/0324_0000.tif" width="3861px"/>
+      <graphic height="117px" url="thumb/0324_0000_thumb.jpg" width="190px"/>
+      <graphic height="1113px" url="web/0324_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Fragment 2">
+      <graphic height="2159px" url="master/0324_0001.tif" width="3348px"/>
+      <graphic height="122px" url="thumb/0324_0001_thumb.jpg" width="190px"/>
+      <graphic height="1160px" url="web/0324_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Fragment 3">
+      <graphic height="2379px" url="master/0324_0002.tif" width="2697px"/>
+      <graphic height="167px" url="thumb/0324_0002_thumb.jpg" width="190px"/>
+      <graphic height="1587px" url="web/0324_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Fragment 4">
+      <graphic height="2386px" url="master/0324_0003.tif" width="3458px"/>
+      <graphic height="131px" url="thumb/0324_0003_thumb.jpg" width="190px"/>
+      <graphic height="1241px" url="web/0324_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Fragment 5">
+      <graphic height="1836px" url="master/0324_0004.tif" width="1959px"/>
+      <graphic height="178px" url="thumb/0324_0004_thumb.jpg" width="190px"/>
+      <graphic height="1686px" url="web/0324_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Fragment 6">
+      <graphic height="2313px" url="master/0324_0005.tif" width="1723px"/>
+      <graphic height="190px" url="thumb/0324_0005_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0324_0005_web.jpg" width="1340px"/>
+    </surface>
+    <surface n="Fragment 7">
+      <graphic height="2324px" url="master/0324_0006.tif" width="2327px"/>
+      <graphic height="189px" url="thumb/0324_0006_thumb.jpg" width="190px"/>
+      <graphic height="1797px" url="web/0324_0006_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Fragment 8">
+      <graphic height="2348px" url="master/0324_0007.tif" width="2183px"/>
+      <graphic height="190px" url="thumb/0324_0007_thumb.jpg" width="176px"/>
+      <graphic height="1800px" url="web/0324_0007_web.jpg" width="1673px"/>
+    </surface>
+    <surface n="Fragment 9">
+      <graphic height="2324px" url="master/0324_0008.tif" width="3057px"/>
+      <graphic height="144px" url="thumb/0324_0008_thumb.jpg" width="190px"/>
+      <graphic height="1368px" url="web/0324_0008_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Bookplates">
+      <graphic height="7282px" url="master/0324_0009.tif" width="5621px"/>
+      <graphic height="190px" url="thumb/0324_0009_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0324_0009_web.jpg" width="1389px"/>
+    </surface>
+  </facsimile>
+</TEI>

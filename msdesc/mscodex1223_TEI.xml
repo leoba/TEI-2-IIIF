@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 1223: Fragments of the Digests of Justinian, Book 37, Titles 7-9</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. leaves.</note>
+        <note>Title supplied by cataloger (Zacour-Hirsch).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 1223</idno>
+            <altIdentifier type="bibid">
+              <idno>4350977</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4350977</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Bifolium with fragments from Book 37 of the Digests of Justinian I (Byzantine emperor, 527-565), containing (in order) sections of Title 7 on dowries, Title 9 on inheritance, and Title 8 on the children of marriages in which one partner is an emancipated slave. The text is surrounded by 15th-century commentary on the laws.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Fragments of the Digests of Justinian, Book 37, Titles 7-9</title>
+              <author>Justinian I, Emperor of the East, 483?-565</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Baugh, Albert C. 1891-1981</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="1r">
+              <locus>1r</locus>
+              <title>De dotis collatione (37.7.1.4), f. 1r</title>
+            </msItem>
+            <msItem n="1v">
+              <locus>1v</locus>
+              <title>De ventre in possessionem mittendo et curatore eius (37.9.1), f. 1v</title>
+            </msItem>
+            <msItem n="2r">
+              <locus>2r</locus>
+              <title>De coniungendis cum emancipato liberis eius (37.8.1.10), f. 2r</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>2 leaves : 429 x 289 (237 x 135) mm. bound to 439 x 295 mm</extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Main text written in 2 columns of 50-52 lines; commentary text written in 2 columns of 90-109 lines; horizontal and vertical bounding lines ruled in lead.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a Gothic script.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Initials (1-line to 3-line) alternating in red and blue ink, paragraph marks in red and blue ink, six-line Title 8 initial in red and blue ink.</decoNote>
+              <decoNote n="1v">Puzzle initial, Initial S, f. 1v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Modern boards.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Probably written in France in the 15th century (Zacour-Hirsch).</p>
+              <origDate>14--</origDate>
+              <origPlace>France?</origPlace>
+            </origin>
+            <provenance>Gift of Albert C. Baugh, 1965.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Roman law.--Early works to 1800</term>
+          <term>Inheritance and succession (Roman law)</term>
+          <term>Marriage (Roman law)</term>
+          <term>Property (Roman law)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Laws (documents)</term>
+          <term>Commentaries</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="7141px" url="master/0459_0000.tif" width="4985px"/>
+      <graphic height="190px" url="thumb/0459_0000_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/0459_0000_web.jpg" width="1256px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="7137px" url="master/0459_0001.tif" width="5235px"/>
+      <graphic height="190px" url="thumb/0459_0001_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0459_0001_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="7137px" url="master/0459_0002.tif" width="5235px"/>
+      <graphic height="190px" url="thumb/0459_0002_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0459_0002_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="7137px" url="master/0459_0003.tif" width="5235px"/>
+      <graphic height="190px" url="thumb/0459_0003_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0459_0003_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="7137px" url="master/0459_0004.tif" width="5235px"/>
+      <graphic height="190px" url="thumb/0459_0004_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0459_0004_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7137px" url="master/0459_0005.tif" width="5235px"/>
+      <graphic height="190px" url="thumb/0459_0005_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0459_0005_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="7137px" url="master/0459_0006.tif" width="5235px"/>
+      <graphic height="190px" url="thumb/0459_0006_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0459_0006_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="7137px" url="master/0459_0007.tif" width="5235px"/>
+      <graphic height="190px" url="thumb/0459_0007_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0459_0007_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="7137px" url="master/0459_0008.tif" width="5235px"/>
+      <graphic height="190px" url="thumb/0459_0008_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0459_0008_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="7137px" url="master/0459_0009.tif" width="5235px"/>
+      <graphic height="190px" url="thumb/0459_0009_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0459_0009_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="7137px" url="master/0459_0010.tif" width="5235px"/>
+      <graphic height="190px" url="thumb/0459_0010_thumb.jpg" width="139px"/>
+      <graphic height="1800px" url="web/0459_0010_web.jpg" width="1320px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="7141px" url="master/0459_0011.tif" width="4985px"/>
+      <graphic height="190px" url="thumb/0459_0011_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/0459_0011_web.jpg" width="1256px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="7141px" url="master/0459_0012.tif" width="4985px"/>
+      <graphic height="190px" url="thumb/0459_0012_thumb.jpg" width="132px"/>
+      <graphic height="1800px" url="web/0459_0012_web.jpg" width="1256px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,78 @@
+
+        {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://45.55.178.234/iiif/ljs493/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "University of Pennsylvania LJS 493: Manuscript leaf from Physics",
+        "attribution": "Provided by the University of Pennsylvania Libraries",
+        "seeAlso": {
+        "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs493/data/ljs493_TEI.xml",
+        "format": "application/tei+xml"
+        },
+        "description": "Summary: Parchment leaf, slightly trimmed on the inner vertical edge and used in a binding, from a manuscript of the Translatio vetus of the Physics of Aristotle, a translation from Greek to Latin by Jacobus de Venetiis. The manuscript was written in France in the third quarter of the 12th century, in an early Gothic book script, in 30 long lines. The text on the leaf runs from the end of Book 6 into the beginning of Book 7 (6.10-7.1) and concerns motion and the relationship of the moved and the mover, with a 3-line initial in red marking the beginning of Book 7 on the recto and simple line diagrams on both sides of the leaf. 2 notes of commentary in a smaller contemporary hand in the lower margins of the verso.\n        Language: In Latin\n        Support: parchment\n        Extent: \n        Collation: \n        Layout: \n        Script: \n        Decoration: \n        Binding: \n        Origin: \n        Cite as:\t\n        UPenn LJS 493\n        For catalog record, see Permanent Link: 4762524 http://hdl.library.upenn.edu/1017/d/medren/4762524\n  For TEI description and digital images, see: http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/html/ljs493.html\n  ",
+            "metadata": [{
+            "label": "Date",
+            "value": ""
+            }],
+            "thumbnail": {
+            "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs493/data/master/0133_0000.tif/full/400,/0/default.jpg",
+            "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs493/0133_0000",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            },
+            "sequences": [{
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs493/sequence-1",
+            "@type": "sc:Sequence",
+            "label": "Current order",
+            "canvases": [
+            
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs493/canvas/canvas-1",
+                "@type": "sc:Canvas",
+                "label": "1r",
+                "height": 6000,
+                "width": 4660,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs493/imageanno/anno-1",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs493/canvas/canvas-1",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs493/resource/0133_0000",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 6000,
+                    "width": 4660,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs493/data/master/0133_0000.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs493/canvas/canvas-2",
+                "@type": "sc:Canvas",
+                "label": "1v",
+                "height": 6000,
+                "width": 4660,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs493/imageanno/anno-2",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs493/canvas/canvas-2",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs493/resource/0133_0001",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 6000,
+                    "width": 4660,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs493/data/master/0133_0001.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        }]}]}

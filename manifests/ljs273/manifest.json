@@ -1,0 +1,78 @@
+
+        {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://45.55.178.234/iiif/ljs273/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "University of Pennsylvania LJS 273: Waldipertus land grant document",
+        "attribution": "Provided by the University of Pennsylvania Libraries",
+        "seeAlso": {
+        "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs273/data/ljs273_TEI.xml",
+        "format": "application/tei+xml"
+        },
+        "description": "Summary: Document written on parchment in Benevento, Italy, in 821, recorded in the document as the fifth year of the principate of Sicone (Licone di Aurenza). Record of a grant of level land in Murtula by Waldipertus (Gualdipertus), son of Adelpertus, to Lupus, Lampertus, Amipertus, and Walpertus (Gualpertus), sons of Bonepertus; Radeprandus, son of Radulus; and Adelprandus, son of Ragimpertus. Signed by 5 or 6 witnesses. Written in a single column of 23 lines in the provincial chancery script that developed from Ravenna cursive and from which developed Beneventan bookhand, already in use by this date. A 16th-century description on the verso incorrectly dates the manuscript to 854.\n        Language: In Latin\n        Support: parchment\n        Extent: \n        Collation: \n        Layout: \n        Script: \n        Decoration: \n        Binding: \n        Origin: \n        Cite as:\t\n        UPenn LJS 273\n        For catalog record, see Permanent Link: 4996549 http://hdl.library.upenn.edu/1017/d/medren/4996549\n  For TEI description and digital images, see: http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/html/ljs273.html\n  ",
+            "metadata": [{
+            "label": "Date",
+            "value": ""
+            }],
+            "thumbnail": {
+            "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs273/data/master/0178_0000.tif/full/400,/0/default.jpg",
+            "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs273/0178_0000",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            },
+            "sequences": [{
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs273/sequence-1",
+            "@type": "sc:Sequence",
+            "label": "Current order",
+            "canvases": [
+            
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs273/canvas/canvas-1",
+                "@type": "sc:Canvas",
+                "label": "1r",
+                "height": 7404,
+                "width": 2856,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs273/imageanno/anno-1",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs273/canvas/canvas-1",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs273/resource/0178_0000",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 7404,
+                    "width": 2856,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs273/data/master/0178_0000.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs273/canvas/canvas-2",
+                "@type": "sc:Canvas",
+                "label": "1v",
+                "height": 7404,
+                "width": 2856,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs273/imageanno/anno-2",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs273/canvas/canvas-2",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs273/resource/0178_0001",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 7404,
+                    "width": 2856,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs273/data/master/0178_0001.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        }]}]}

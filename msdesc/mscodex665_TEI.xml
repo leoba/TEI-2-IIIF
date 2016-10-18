@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 665: Statutes</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Incipit: Cy commence le prologo de l'ordre de la Nef.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 665</idno>
+            <altIdentifier type="bibid">
+              <idno>2487451</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/2487451</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Statutes in 151 chapters of the Order of the Ship, founded in Naples in 1381 by King Carlo III 'di Durazzo'.</summary>
+            <textLang>Middle French</textLang>
+            <msItem>
+              <title>Statutes</title>
+              <author>Ordre de la nef</author>
+              <author>Charles III, King of Naples, 1345-1386</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Canonici, Matteo Luigi, 1727-1805</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Sneyd, Walter, 1809-1888</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Soranzo, Jacopo, 1686-1761</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>21 leaves : 323 x 232 (240 x 168) mm. bound to 332 x 236 mm</extent>
+                <foliation>Parchment, 21 + i (paper); [1-21]; modern foliation in pencil, upper right recto.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 40 long lines; ruled in ink.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a Gothic book script.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>11-line initial depicting a ship without sails held up by two angels, in red, blues, lavender, brown, and gold. In a colored border at the bottom of the page is the coat of arms of a branch of the Malespina family, surrounded by two angels (f. 1r). Initials in alternating red and blue (f. 1r-9r), two with penwork ornamentation (f. 5r); initials are unfinished in the remainder of the text, but with guide letters visible.</decoNote>
+              <decoNote n="Inside front cover">Bookplate, Inside front cover</decoNote>
+              <decoNote n="1r">Illuminated initial, Initial L, Two angels holding ship without sails, f. 1r</decoNote>
+              <decoNote n="1r">Miniature, Two angels holding coat of arms (Malespina family), f. 1r</decoNote>
+              <decoNote n="1r">Illuminated border, f. 1r</decoNote>
+              <decoNote n="5r">Penwork initial, Initial E, f. 5r</decoNote>
+              <decoNote n="5r">Penwork initial, Initial L, f. 5r</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>18th-century vellum.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Presumably copied sometime between the founding of the order on 1 December 1381 (date on f. 21 r) and the death of Carlo III in 1386.</p>
+              <origDate>1381</origDate>
+              <origPlace>France</origPlace>
+            </origin>
+            <provenance>Formerly owned by Jacopo Soranzo and Matteo Luigi Canonici; sold from the collection of Matteo Luigi Canonici to Walter Sneyd in 1835.</provenance>
+            <provenance>Sold in the Sneyd collection at auction at Sotheby's, 16 Dec. 1903, lot 571.</provenance>
+            <provenance>Appears in Laurence Witten's catalog 5 (1962), no. 34.</provenance>
+            <provenance>Sold by Laurence Witten (New Haven, Conn.), 1962.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Illuminations</term>
+          <term>Statutes</term>
+          <term>Manuscripts, French--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5613px" url="master/0359_0000.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0359_0000_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0359_0000_web.jpg" width="1335px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5654px" url="master/0359_0001.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0001_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0001_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5654px" url="master/0359_0002.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0002_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0002_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5654px" url="master/0359_0003.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0003_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0003_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5654px" url="master/0359_0004.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0004_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0004_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5654px" url="master/0359_0005.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0005_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0005_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5654px" url="master/0359_0006.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0006_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0006_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5654px" url="master/0359_0007.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0007_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0007_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5654px" url="master/0359_0008.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0008_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0008_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5654px" url="master/0359_0009.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0009_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0009_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5654px" url="master/0359_0010.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0010_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0010_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5654px" url="master/0359_0011.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0011_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0011_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5654px" url="master/0359_0012.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0012_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0012_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5654px" url="master/0359_0013.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0013_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0013_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5654px" url="master/0359_0014.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0014_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0014_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5654px" url="master/0359_0015.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0015_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0015_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5654px" url="master/0359_0016.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0016_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0016_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5654px" url="master/0359_0017.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0017_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0017_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5654px" url="master/0359_0018.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0018_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0018_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5654px" url="master/0359_0019.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0019_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0019_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5654px" url="master/0359_0020.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0020_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0020_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5654px" url="master/0359_0021.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0021_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0021_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5654px" url="master/0359_0022.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0022_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0022_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5654px" url="master/0359_0023.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0023_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0023_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="5654px" url="master/0359_0024.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0024_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0024_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="5654px" url="master/0359_0025.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0025_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0025_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="5654px" url="master/0359_0026.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0026_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0026_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="5654px" url="master/0359_0027.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0027_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0027_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="5654px" url="master/0359_0028.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0028_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0028_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="5654px" url="master/0359_0029.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0029_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0029_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="5654px" url="master/0359_0030.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0030_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0030_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="5654px" url="master/0359_0031.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0031_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0031_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="5654px" url="master/0359_0032.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0032_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0032_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="5654px" url="master/0359_0033.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0033_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0033_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="5654px" url="master/0359_0034.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0034_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0034_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="5654px" url="master/0359_0035.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0035_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0035_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="5654px" url="master/0359_0036.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0036_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0036_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="5654px" url="master/0359_0037.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0037_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0037_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="19r">
+      <graphic height="5654px" url="master/0359_0038.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0038_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0038_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="19v">
+      <graphic height="5654px" url="master/0359_0039.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0039_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0039_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="20r">
+      <graphic height="5654px" url="master/0359_0040.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0040_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0040_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="20v">
+      <graphic height="5654px" url="master/0359_0041.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0041_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0041_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="21r">
+      <graphic height="5654px" url="master/0359_0042.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0042_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0042_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="21v">
+      <graphic height="5654px" url="master/0359_0043.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0043_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0043_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5654px" url="master/0359_0044.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0044_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0044_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5654px" url="master/0359_0045.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0045_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0045_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5654px" url="master/0359_0046.tif" width="4365px"/>
+      <graphic height="190px" url="thumb/0359_0046_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0359_0046_web.jpg" width="1389px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5613px" url="master/0359_0047.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0359_0047_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0359_0047_web.jpg" width="1335px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="5613px" url="master/0359_0048.tif" width="4164px"/>
+      <graphic height="190px" url="thumb/0359_0048_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0359_0048_web.jpg" width="1335px"/>
+    </surface>
+  </facsimile>
+</TEI>

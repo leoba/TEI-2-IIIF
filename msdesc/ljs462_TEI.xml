@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 462: Algorismus ... etc.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title for manuscript from incipit (f. 1r) and closing rubric (f. 8r) of predominant work.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 462</idno>
+            <altIdentifier type="bibid">
+              <idno>5807414</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5807414</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Didactic poem in 284 lines of hexameter concerning integers (including, for the first time in Latin, zero) and their operations. Followed by an anonymous treatise in verse on the calendar, focusing on establishing feast and fast days, including discussion of solar and lunar movement. Later astronomical notes on star clusters added at the end of the manuscript (f. 14v).</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Algorismus ... etc.</title>
+              <author>Alexander, de Villa Dei</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Jones, W. 1675-1749</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Macclesfield, George Parker, Earl of, 1697-1764</persName>
+              </respStmt>
+            </msItem>
+            <msItem n="1r">
+              <locus>1r</locus>
+              <title>Algorismus, f. 1r</title>
+            </msItem>
+            <msItem n="8v">
+              <locus>8v</locus>
+              <title>Compotus manualis, f. 8v</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>14 leaves : 230 x 149 (158 x 93) mm. bound to 236 x 159 mm</extent>
+                <foliation>Parchment, iii (17th- or 18th-century paper and card) + 14 + iii (17th- or 18th-century paper and card); [1-14], modern foliation in ink, upper right recto.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 20 long lines; ruled in faint ink with vertical bounding lines. Prickings visible on most leaves.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in Iberian Gothic script, with notes added at the end in a later English hand, ca. 1500.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>16 2-line initials, alternating between red with purple flourishing and blue with red flourishing; paragraph marks alternating between red and blue; rubrication in red; first initial of each line touched in red.</decoNote>
+              <decoNote n="1r">Decorated initial, Initial H, f. 1r</decoNote>
+              <decoNote n="1v">Decorated initial, Initial A, f. 1v</decoNote>
+              <decoNote n="2r">Decorated initial, Initial A, f. 2r</decoNote>
+              <decoNote n="2v">Decorated initial, Initial S, f. 2v</decoNote>
+              <decoNote n="3r">Decorated initial, Initial I, f. 3r</decoNote>
+              <decoNote n="3v">Decorated initial, Initial S, f. 3v</decoNote>
+              <decoNote n="4r">Decorated initial, Initial S, f. 4r</decoNote>
+              <decoNote n="5r">Decorated initial, Initial C, f. 5r</decoNote>
+              <decoNote n="6v">Decorated initial, Initial P, f. 6v</decoNote>
+              <decoNote n="8r">Decorated initial, Initial S, f. 8r</decoNote>
+              <decoNote n="8v">Decorated initial, Initial C, f. 8v</decoNote>
+              <decoNote n="9r">Decorated initial, Initial U, f. 9r</decoNote>
+              <decoNote n="9r">Decorated initial, Initial S, f. 9r</decoNote>
+              <decoNote n="12v">Decorated initial, Initial P, f. 12v</decoNote>
+              <decoNote n="13v">Decorated initial, Initial U, f. 13v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>18th-century English parchment spine and marbled paper over boards; spine title in ink, Algorithm &amp; memorial verses MS.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Spain in the first half of the 14th century.</p>
+              <origDate>between 1300 and 1350</origDate>
+              <origPlace>Spain</origPlace>
+            </origin>
+            <provenance>Formerly owned as part of a larger manuscript and then separated and rebound by W. Jones, English mathematician and Fellow of the Royal Society; a note written by Jones in which he attributes the Algorismus to Joannes de Sacro Bosco is laid in the manuscript.</provenance>
+            <provenance>Formerly owned by George Parker, second Earl of Macclesfield, student of W. Jones, and housed in the library of Shirburn Castle (the seat of the Earls of Macclesfield in Oxfordshire, England).</provenance>
+            <provenance>Sold at auction at Sotheby's as part of the library of the Earls of Macclesfield, 22 June 2004, lot 586, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Mathematics--Early works to 1800</term>
+          <term>Astronomy--Early works to 1800</term>
+          <term>Didactic poetry, Latin</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Poems</term>
+          <term>Treatises</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="4162px" url="master/0026_0000.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0000_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0000_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="4162px" url="master/0026_0001.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0001_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0001_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="4162px" url="master/0026_0002.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0002_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0002_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="4162px" url="master/0026_0003.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0003_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0003_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto">
+      <graphic height="4162px" url="master/0026_0004.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0004_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0004_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso">
+      <graphic height="4162px" url="master/0026_0005.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0005_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0005_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Flyleaf 3 recto">
+      <graphic height="4162px" url="master/0026_0006.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0006_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0006_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Flyleaf 3 verso">
+      <graphic height="4162px" url="master/0026_0007.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0007_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0007_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="4162px" url="master/0026_0008.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0008_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0008_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4162px" url="master/0026_0009.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0009_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0009_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4162px" url="master/0026_0010.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0010_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0010_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4162px" url="master/0026_0011.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0011_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0011_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="4162px" url="master/0026_0012.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0012_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0012_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="4162px" url="master/0026_0013.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0013_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0013_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="4162px" url="master/0026_0014.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0014_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0014_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="4162px" url="master/0026_0015.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0015_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0015_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="4162px" url="master/0026_0016.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0016_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0016_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="4162px" url="master/0026_0017.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0017_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0017_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="4162px" url="master/0026_0018.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0018_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0018_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="4162px" url="master/0026_0019.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0019_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0019_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="4162px" url="master/0026_0020.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0020_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0020_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="4162px" url="master/0026_0021.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0021_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0021_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="4162px" url="master/0026_0022.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0022_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0022_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="4162px" url="master/0026_0023.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0023_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0023_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="4162px" url="master/0026_0024.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0024_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0024_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="4162px" url="master/0026_0025.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0025_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0025_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="4162px" url="master/0026_0026.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0026_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0026_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="4162px" url="master/0026_0027.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0027_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0027_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="4162px" url="master/0026_0028.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0028_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0028_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="4162px" url="master/0026_0029.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0029_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0029_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="4162px" url="master/0026_0030.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0030_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0030_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="4162px" url="master/0026_0031.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0031_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0031_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="4162px" url="master/0026_0032.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0032_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0032_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="4162px" url="master/0026_0033.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0033_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0033_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="4162px" url="master/0026_0034.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0034_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0034_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="4162px" url="master/0026_0035.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0035_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0035_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="4162px" url="master/0026_0036.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0036_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0036_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="4162px" url="master/0026_0037.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0037_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0037_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto">
+      <graphic height="4162px" url="master/0026_0038.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0038_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0038_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso">
+      <graphic height="4162px" url="master/0026_0039.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0039_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0039_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Flyleaf 3 recto">
+      <graphic height="4162px" url="master/0026_0040.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0040_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0040_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Flyleaf 3 verso">
+      <graphic height="4162px" url="master/0026_0041.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0041_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0041_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="4162px" url="master/0026_0042.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0042_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0042_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="4162px" url="master/0026_0043.tif" width="2968px"/>
+      <graphic height="190px" url="thumb/0026_0043_thumb.jpg" width="135px"/>
+      <graphic height="1800px" url="web/0026_0043_web.jpg" width="1283px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="4012px" url="master/0026_0044.tif" width="504px"/>
+      <graphic height="190px" url="thumb/0026_0044_thumb.jpg" width="23px"/>
+      <graphic height="1800px" url="web/0026_0044_web.jpg" width="226px"/>
+    </surface>
+  </facsimile>
+</TEI>

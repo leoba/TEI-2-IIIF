@@ -1,0 +1,78 @@
+
+        {
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": "http://45.55.178.234/iiif/ljs255/manifest.json",
+        "@type": "sc:Manifest",
+        "label": "University of Pennsylvania LJS 255: Manuscript leaf from De casibus virorum illustrium",
+        "attribution": "Provided by the University of Pennsylvania Libraries",
+        "seeAlso": {
+        "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs255/data/ljs255_TEI.xml",
+        "format": "application/tei+xml"
+        },
+        "description": "Summary: Partial leaf from a mid-15th century copy of Laurent de Premerfait's second translation of Boccaccio's De casibus virorum illustrium, from the chapter on Theseus (10.1-17), beginning with the rubric Le Xe chappitre contient le cas de Theseus, roy dathenes, Et commence ou latin Athene. Written in lettre bâtarde by a single hand in France, possibly Paris, in 2 columns, bottom of the leaf missing, 48 lines extant out of approximately 60, frame-ruled in lead. Decorated on the recto with an unfinished (outlines and touches of color) 26-line miniature depicting the suicide of Phaedra in the larger upper section and Theseus in exile in Cyprus in the smaller lower section; a border of flowers, acanthus leaves, and gold ivy leaves above the left column and an unfinished (gold leaves only) border on the left side of the left column; and a 5-line initial in pink on gold ground.\n        Language: In Middle French\n        Support: parchment\n        Extent: \n        Collation: \n        Layout: \n        Script: \n        Decoration: Illuminated miniature, unfinished, Side 1\n        Binding: \n        Origin: \n        Cite as:\t\n        UPenn LJS 255\n        For catalog record, see Permanent Link: 5917195 http://hdl.library.upenn.edu/1017/d/medren/5917195\n  For TEI description and digital images, see: http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/html/ljs255.html\n  ",
+            "metadata": [{
+            "label": "Date",
+            "value": ""
+            }],
+            "thumbnail": {
+            "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs255/data/master/0003_0000.tif/full/400,/0/default.jpg",
+            "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs255/0003_0000",
+            "profile": "http://iiif.io/api/image/2/level1.json"
+            }
+            },
+            "sequences": [{
+            "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs255/sequence-1",
+            "@type": "sc:Sequence",
+            "label": "Current order",
+            "canvases": [
+            
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs255/canvas/canvas-1",
+                "@type": "sc:Canvas",
+                "label": "Side 1",
+                "height": 5741,
+                "width": 5142,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs255/imageanno/anno-1",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs255/canvas/canvas-1",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs255/resource/0003_0000",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5741,
+                    "width": 5142,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs255/data/master/0003_0000.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        },
+                {
+                "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs255/canvas/canvas-2",
+                "@type": "sc:Canvas",
+                "label": "Side 2",
+                "height": 5741,
+                "width": 5142,
+                "images": [{
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs255/imageanno/anno-2",
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "on": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs255/canvas/canvas-2",
+                    "resource": {
+                    "@id": "http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/iiif/ljs255/resource/0003_0001",
+                    "@type": "dcterms:Image",
+                    "format": "image/jpeg",
+                    "height": 5741,
+                    "width": 5142,
+                        "service": {
+                        "@context": "http://iiif.io/api/image/2/context.json",
+                        "@id": "http://45.55.178.234/loris/LJSchoenbergManuscripts/ljs255/data/master/0003_0001.tif",
+                        "profile": "http://iiif.io/api/image/2/level1.json"}
+                        }
+                        }]
+                        }]}]}

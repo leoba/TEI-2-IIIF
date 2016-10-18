@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 1177: Rule of the Heilig-Geist-Spital in Eichstätt</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+        <note>Incipit: Daz ist diu regel des Spitals des hilige[n] geistes ze Eystet (f. 1v).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 1177</idno>
+            <altIdentifier type="bibid">
+              <idno>4308447</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4308447</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Copy of the rule (Regel) of the Heilig-Geist-Spital (Hospital of the Holy Spirit) in Eichstätt, issued by Heinrich, Bishop of Eichstätt (Wir Heinrich von gotes genaden pischof ze Eysten, f. 1v), probably the last of four bishops by that name who held office between 1225 and 1259, namely Heinrich IV (1247-1259); the other possible authors are Heinrich I (1225-1228), Heinrich II (1228-1232), and Heinrich III (1233-1237). The rule governed the way of life of the monastic community (Bruderschaft, f. 7v) of priests, brothers and sisters who ran the hospital, and was evidently issued by the bishop at the request of a preexisting group (f. 1v). It is modeled on the rule of the Heilig-Geist-Orden (Order of the Holy Spirit) for the care of the sick founded by Guido von Montpellier around 1195, although it was independent of that order; and it is indirectly related to the rules of the Brothers Hospitallers of St. John of God and of St. Augustine (Bauch). The statutes address such aspects as manner of accepting new members, including required vows (chastity, poverty and obedience, as well as service to the sick); hierarchy and responsibilities of members, with a male and a female leader of brothers and sisters, respectively (Maister, Maisterin; f. 8r); dress; manner of taking in and caring for the sick; handling of income and property; accommodation of guests; customs of eating and drinking; care of sick members; punishments for offenses; confession; guidelines for pious living (Wie man geislich sul werden, f. 10r; Ain gut Lere, f. 10v); and manner of accepting lay people as affiliated members (known as a Third Order; Dritter Orden, Tertiarenbruderschaft). The manuscript contains numerous corrections in the same hand. An addendum, which is written in a different hand and dated either 1335 or 1435 (f. 1r), concerns the conditions for members receiving a sinecure or living (Pfründe, f. 1r). The manuscript is a sewn booklet, with gatherings detached from each other.</summary>
+            <textLang mainLang="ger" otherLangs="lat">German, with one prayer in Latin (f. 8r)</textLang>
+            <msItem>
+              <title>Rule of the Heilig-Geist-Spital in Eichstätt</title>
+              <author>Heinrich, Bishop of Eichstätt, fl. 1247-1259</author>
+            </msItem>
+            <msItem n="1r">
+              <locus>1r</locus>
+              <title>Addendum, f. 1r</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>11 leaves : 204 x 138-145 (140-150 x 100-105) mm</extent>
+                <collation>
+                  <p>Parchment, 11; 1⁸ 2⁴(-4); [1-11]; modern foliation in pencil, upper right recto.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 33-35 long lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in an early Gothic book script.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Eichstätt, in Bavaria, Germany, ca. 1247-1259.</p>
+              <origDate>ca. 1247-1259</origDate>
+              <origPlace>Eichstätt</origPlace>
+            </origin>
+            <provenance>Gift of R. H. Riethmüller (Philadelphia), 1907.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Heilig-Geist-Spital (Eichstätt, Germany)</term>
+          <term>Monasticism and religious orders--Germany--Bavaria</term>
+          <term>Monasticism and religious orders--Rules--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Manuscripts, German--13th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="5369px" url="master/0420_0000.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0000_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0000_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5369px" url="master/0420_0001.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0001_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0001_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5369px" url="master/0420_0002.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0002_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0002_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5369px" url="master/0420_0003.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0003_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0003_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5369px" url="master/0420_0004.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0004_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0004_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5369px" url="master/0420_0005.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0005_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0005_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5369px" url="master/0420_0006.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0006_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0006_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5369px" url="master/0420_0007.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0007_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0007_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5369px" url="master/0420_0008.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0008_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0008_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5369px" url="master/0420_0009.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0009_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0009_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5369px" url="master/0420_0010.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0010_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0010_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5369px" url="master/0420_0011.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0011_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0011_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5369px" url="master/0420_0012.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0012_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0012_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5369px" url="master/0420_0013.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0013_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0013_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5369px" url="master/0420_0014.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0014_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0014_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5369px" url="master/0420_0015.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0015_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0015_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5369px" url="master/0420_0016.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0016_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0016_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5369px" url="master/0420_0017.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0017_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0017_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5369px" url="master/0420_0018.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0018_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0018_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5369px" url="master/0420_0019.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0019_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0019_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="5369px" url="master/0420_0020.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0020_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0020_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="5369px" url="master/0420_0021.tif" width="3993px"/>
+      <graphic height="190px" url="thumb/0420_0021_thumb.jpg" width="141px"/>
+      <graphic height="1800px" url="web/0420_0021_web.jpg" width="1338px"/>
+    </surface>
+    <surface n="No spine">
+      <graphic height="5609px" url="master/0420_0022.tif" width="4500px"/>
+      <graphic height="190px" url="thumb/0420_0022_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0420_0022_web.jpg" width="1444px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 1096: Wedding regulations</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 1096</idno>
+            <altIdentifier type="bibid">
+              <idno>4248391</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4248391</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Sumptuary regulations for betrothals and weddings (Hochzeitsordnung) issued by the city of Nuremberg, covering such details as how the announcement of the engagement (Lautmerung) should be made; how much the musicians should be paid; what guests may be invited; and what kind of food and wine may be served. The form of the regulations given in the codex includes an amendment made in April 1511 (f. 7v). An amendment concerning the permissibility of the bridegroom giving the bride a maiden-ring worth 10 gulden, which became part of the code in or before 1526, has been written in subsequently, or as an afterthought, in a similar hand (f. 4r).</summary>
+            <textLang>German</textLang>
+            <msItem>
+              <title>Wedding regulations</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>20 leaves : 225 x 170 (155 x 100-105) mm. bound to 238 x 180 mm</extent>
+                <collation>
+                  <p>Parchment, 20; 1-2¹⁰; [1-20]; modern foliation in pencil, upper right recto.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 22-23 long lines.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a German semi-cursive script by a single hand, with headings in a more formal book script with flourished initials.</scriptNote>
+            </scriptDesc>
+            <bindingDesc>
+              <binding>
+                <p>Contemporary stamped calf over wooden boards, rebacked (Zacour-Hirsch); upper cover detached.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Nuremberg after 1511. Dated 1509 (f. 1r, 7v), 1510 (f. 7v), and 1511 (f. 14r), with an amendment added in 1526 (f. 4r).</p>
+              <origDate>between 1511 and 1526</origDate>
+              <origPlace>Nuremberg</origPlace>
+            </origin>
+            <provenance>Sold by Helmuth Domizlaff (Munich), 1954.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Sumptuary laws--Germany--Nuremberg</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Laws (documents)</term>
+          <term>Manuscripts, German--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="6121px" url="master/0396_0000.tif" width="4655px"/>
+      <graphic height="190px" url="thumb/0396_0000_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0396_0000_web.jpg" width="1369px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="6105px" url="master/0396_0001.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0001_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0001_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="6105px" url="master/0396_0002.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0002_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0002_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6105px" url="master/0396_0003.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0003_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0003_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="6105px" url="master/0396_0004.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0004_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0004_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="6105px" url="master/0396_0005.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0005_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0005_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="6105px" url="master/0396_0006.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0006_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0006_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="6105px" url="master/0396_0007.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0007_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0007_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="6105px" url="master/0396_0008.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0008_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0008_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="6105px" url="master/0396_0009.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0009_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0009_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="6105px" url="master/0396_0010.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0010_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0010_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="6105px" url="master/0396_0011.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0011_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0011_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="6105px" url="master/0396_0012.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0012_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0012_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="6105px" url="master/0396_0013.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0013_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0013_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="6105px" url="master/0396_0014.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0014_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0014_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="6105px" url="master/0396_0015.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0015_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0015_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="6105px" url="master/0396_0016.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0016_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0016_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="6105px" url="master/0396_0017.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0017_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0017_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="6105px" url="master/0396_0018.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0018_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0018_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="6105px" url="master/0396_0019.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0019_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0019_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="6105px" url="master/0396_0020.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0020_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0020_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="6105px" url="master/0396_0021.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0021_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0021_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="6105px" url="master/0396_0022.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0022_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0022_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="6105px" url="master/0396_0023.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0023_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0023_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="6105px" url="master/0396_0024.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0024_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0024_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="6105px" url="master/0396_0025.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0025_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0025_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="6105px" url="master/0396_0026.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0026_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0026_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="6105px" url="master/0396_0027.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0027_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0027_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="6105px" url="master/0396_0028.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0028_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0028_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="6105px" url="master/0396_0029.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0029_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0029_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="6105px" url="master/0396_0030.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0030_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0030_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="6105px" url="master/0396_0031.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0031_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0031_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="6105px" url="master/0396_0032.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0032_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0032_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="6105px" url="master/0396_0033.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0033_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0033_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="6105px" url="master/0396_0034.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0034_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0034_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="6105px" url="master/0396_0035.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0035_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0035_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="6105px" url="master/0396_0036.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0036_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0036_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="6105px" url="master/0396_0037.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0037_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0037_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="19r">
+      <graphic height="6105px" url="master/0396_0038.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0038_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0038_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="19v">
+      <graphic height="6105px" url="master/0396_0039.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0039_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0039_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="20r">
+      <graphic height="6105px" url="master/0396_0040.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0040_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0040_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="20v">
+      <graphic height="6105px" url="master/0396_0041.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0041_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0041_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="6105px" url="master/0396_0042.tif" width="4800px"/>
+      <graphic height="190px" url="thumb/0396_0042_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0396_0042_web.jpg" width="1415px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="6121px" url="master/0396_0043.tif" width="4655px"/>
+      <graphic height="190px" url="thumb/0396_0043_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0396_0043_web.jpg" width="1369px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="6121px" url="master/0396_0044.tif" width="4655px"/>
+      <graphic height="190px" url="thumb/0396_0044_thumb.jpg" width="144px"/>
+      <graphic height="1800px" url="web/0396_0044_web.jpg" width="1369px"/>
+    </surface>
+  </facsimile>
+</TEI>

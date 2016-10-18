@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Oversize 4: Fragment of a choral antiphonary ? :</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Provenance unidentified but possibly Spanish.</note>
+        <note>Date uncertain; possibly 16th century.</note>
+        <note>The text is set for monophonic chant for choir. The music is written in square Gregorian notation on a four-line staff.</note>
+        <note>Several of the capital letters are decorated with green, blue and gold. Red is used to indicate the beginning of antiphons, psalm verses, etc.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Oversize 4</idno>
+            <altIdentifier type="bibid">
+              <idno>1469164</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/1469164</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Seven leaves from a Latin codex liturgical or service book on parchment, probably a choral antiphonary. The text comes from the choral portion of the Divine Office for the Holy Week Triduum, beginning with Matins on Holy Thursday and going through Vespers on Holy Saturday.</summary>
+            <textLang mainLang="lat">In Latin</textLang>
+            <msItem>
+              <title>Fragment of a choral antiphonary ? :</title>
+              <author>Catholic Church</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 77 cm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--Liturgy</term>
+          <term>Catholic Church--Liturgy--Texts--Manuscripts</term>
+          <term>Gregorian chants--Manuscripts</term>
+          <term>Divine office (Music)</term>
+          <term>Antiphonaries--Specimens</term>
+          <term>Illumination of books and manuscripts--Specimens</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Illuminations</term>
+          <term>Antiphonaries</term>
+          <term>Choirbooks</term>
+          <term>Gregorian chant</term>
+          <term>Manuscripts, Latin--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6866px" url="master/0415_0000.tif" width="5257px"/>
+      <graphic height="190px" url="thumb/0415_0000_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0415_0000_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6866px" url="master/0415_0001.tif" width="5257px"/>
+      <graphic height="190px" url="thumb/0415_0001_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0415_0001_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="6866px" url="master/0415_0002.tif" width="5257px"/>
+      <graphic height="190px" url="thumb/0415_0002_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0415_0002_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="6866px" url="master/0415_0003.tif" width="5257px"/>
+      <graphic height="190px" url="thumb/0415_0003_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0415_0003_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="6866px" url="master/0415_0004.tif" width="5257px"/>
+      <graphic height="190px" url="thumb/0415_0004_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0415_0004_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="6866px" url="master/0415_0005.tif" width="5257px"/>
+      <graphic height="190px" url="thumb/0415_0005_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0415_0005_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="6866px" url="master/0415_0006.tif" width="5257px"/>
+      <graphic height="190px" url="thumb/0415_0006_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0415_0006_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="6866px" url="master/0415_0007.tif" width="5257px"/>
+      <graphic height="190px" url="thumb/0415_0007_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0415_0007_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="6866px" url="master/0415_0008.tif" width="5257px"/>
+      <graphic height="190px" url="thumb/0415_0008_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0415_0008_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="6866px" url="master/0415_0009.tif" width="5257px"/>
+      <graphic height="190px" url="thumb/0415_0009_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0415_0009_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="6866px" url="master/0415_0010.tif" width="5257px"/>
+      <graphic height="190px" url="thumb/0415_0010_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0415_0010_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="6866px" url="master/0415_0011.tif" width="5257px"/>
+      <graphic height="190px" url="thumb/0415_0011_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0415_0011_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="6866px" url="master/0415_0012.tif" width="5257px"/>
+      <graphic height="190px" url="thumb/0415_0012_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0415_0012_web.jpg" width="1378px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="6866px" url="master/0415_0013.tif" width="5257px"/>
+      <graphic height="190px" url="thumb/0415_0013_thumb.jpg" width="145px"/>
+      <graphic height="1800px" url="web/0415_0013_web.jpg" width="1378px"/>
+    </surface>
+  </facsimile>
+</TEI>

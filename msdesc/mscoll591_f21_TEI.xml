@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 591: Manuscript bifolia from Liber aggregatus in medicinis simplicibus</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 591</idno>
+            <altIdentifier type="bibid">
+              <idno>4166254</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4166254</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Two bifolia from a 13th-century medical treatise attributed to Ibn Serapion or Serapion the Younger and thought to be a Latin translation by Simon of Genoa and Abraham ben Shem-Tob of Tortosa of an unknown Arabic text. Each bifolia consists of one leaf with the complete text of two columns written in 47 lines and one leaf trimmed with loss of text in one column. Written in an Italian Gothic script, with 2-line initials in blue with red flourishing at the beginning of each entry possibly added in England. These leaves are from the second section of the text, devoted to descriptions of individual herbs, minerals, and animals. Each entry begins with the name of the substance transcribed from Arabic, with a rubric for the Latin name. The text of one leaf is devoted to herbs and the other to minerals. Marginal sketch of a sleeping man.</summary>
+            <textLang mainLang="lat">Latin, with words transcribed from Arabic</textLang>
+            <msItem>
+              <title>Manuscript bifolia from Liber aggregatus in medicinis simplicibus</title>
+              <author>Ibn Serapion</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 225 x 328 mm., 246 x 332 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Renzo Rizzi to Bernard Rosenthal, 1960s.</provenance>
+            <provenance>Sold as part of the Rosenthal Collection by Bernard Quaritch (London), cat. 1348 (2007), no. 56.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Medicinal plants--Early works to 1800</term>
+          <term>Medicine, Medieval</term>
+          <term>Medicine, Arab</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Treatises</term>
+          <term>Manuscripts, Latin--13th century</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="132r =1r">
+      <graphic height="4205px" url="master/0427_0000.tif" width="3152px"/>
+      <graphic height="190px" url="thumb/0427_0000_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0427_0000_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="132v =1v">
+      <graphic height="4205px" url="master/0427_0001.tif" width="3152px"/>
+      <graphic height="190px" url="thumb/0427_0001_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0427_0001_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="133r =2r">
+      <graphic height="4205px" url="master/0427_0002.tif" width="3152px"/>
+      <graphic height="190px" url="thumb/0427_0002_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0427_0002_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="133v =2v">
+      <graphic height="4205px" url="master/0427_0003.tif" width="3152px"/>
+      <graphic height="190px" url="thumb/0427_0003_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0427_0003_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="134r =3r">
+      <graphic height="4205px" url="master/0427_0004.tif" width="3152px"/>
+      <graphic height="190px" url="thumb/0427_0004_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0427_0004_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="134v =3v">
+      <graphic height="4205px" url="master/0427_0005.tif" width="3152px"/>
+      <graphic height="190px" url="thumb/0427_0005_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0427_0005_web.jpg" width="1349px"/>
+    </surface>
+    <surface n="135r =4r">
+      <graphic height="3963px" url="master/0427_0006.tif" width="3152px"/>
+      <graphic height="190px" url="thumb/0427_0006_thumb.jpg" width="151px"/>
+      <graphic height="1800px" url="web/0427_0006_web.jpg" width="1431px"/>
+    </surface>
+    <surface n="135v =4v">
+      <graphic height="4205px" url="master/0427_0007.tif" width="3152px"/>
+      <graphic height="190px" url="thumb/0427_0007_thumb.jpg" width="142px"/>
+      <graphic height="1800px" url="web/0427_0007_web.jpg" width="1349px"/>
+    </surface>
+  </facsimile>
+</TEI>

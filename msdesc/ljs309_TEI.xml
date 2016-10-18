@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 309: Nakhtnebef collateral letter</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 309</idno>
+            <altIdentifier type="bibid">
+              <idno>5004800</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5004800</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Guarantee by Nakhtnebef, son of Pamerour of Memphis, to Hor, son of Padiousir the brewer, that he will pay back the value of one-fifth of the brewery in Meidum (40 deben or 200 staters) within two days if called upon, pledging his house and possessions as collateral. Written in 25 lines of Demotic script on papyrus with signatures of five witnesses, including Padikhonsou, son of Amon; Padiousir, son of Semataouy; and Guédjadja, son of Nechthnibis. Dated in the month of Athyr in regnal year 5 of Pharaoh Ptolemy V (11 December 201 to 9 January 200 B.C.). In 2 faded lines of Greek added at the bottom in regnal year 6, Nechthnibis guarantees one fifth for 800 drachmas.</summary>
+            <textLang mainLang="egy" otherLangs="grc">Demotic, with a subscription in Greek</textLang>
+            <msItem>
+              <title>Nakhtnebef collateral letter</title>
+              <author>Nakhtnebef, son of Pamerour</author>
+              <respStmt>
+                <resp>recipient</resp>
+                <persName>Hor, son of Padiousir</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Lambert, Roger, 1907-</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Leconte, Louis</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Schoenberg, Lawrence J</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="papyrus">
+                <support>
+                  <p>papyrus</p>
+                </support>
+                <extent>1 255 x 96 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Roger Lambert; sold by Lambert to Louis Leconte (P. Dém. 1).</provenance>
+            <provenance>Appears in the joint catalog of Antiquariaat Forum and Les Enluminures for the 20th Congress of the International Association of Bibliophiles (1997), no. 1.</provenance>
+            <provenance>Sold at auction at Sotheby's, 22 June 1999, lot 57.</provenance>
+            <provenance>Gift of Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Beer--Egypt</term>
+          <term>Brewing--Early works to 1800</term>
+          <term>Loans--Egypt</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Financial records</term>
+          <term>Legal documents</term>
+          <term>Mortgages</term>
+          <term>Papyri</term>
+          <term>Manuscripts, Digital</term>
+          <term>Egyptian language--Papyri, Demotic</term>
+          <term>Manuscripts, Greek (Papyri)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="6738px" url="master/0169_0000.tif" width="3070px"/>
+      <graphic height="190px" url="thumb/0169_0000_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0169_0000_web.jpg" width="820px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="6738px" url="master/0169_0001.tif" width="3070px"/>
+      <graphic height="190px" url="thumb/0169_0001_thumb.jpg" width="86px"/>
+      <graphic height="1800px" url="web/0169_0001_web.jpg" width="820px"/>
+    </surface>
+  </facsimile>
+</TEI>

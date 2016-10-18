@@ -1,0 +1,864 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 266: La generacion de Adam</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title from rubric (f. 1r).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 266</idno>
+            <altIdentifier type="bibid">
+              <idno>4952511</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4952511</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Collection of genealogical and chronicle material, including Biblical genealogy from Adam to Jesus and the apostles; genealogy concerning the Trojan War and the founding of Rome; the legendary history of England and France as founded by descendants of participants in the Trojan War, including the genealogy of Brut and the succeeding line of kings in England up to Coyl; the emperors of Rome; the Holy Emperors starting with Charlemagne; and the kings of France up to Charles V (crowned 1364). The introduction (f. 1r) suggests that the manuscript was meant to trace the kings of England through Richard II (1377-1399) and the popes through one named Innocent and therefore that the manuscript is incomplete.</summary>
+            <textLang>Middle French</textLang>
+            <msItem>
+              <title>La generacion de Adam</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Austin, Jehan</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Auslin, Johan</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Molac, Sébastien de Rosmadec, marquis de, d. 1693</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Schoenberg, Lawrence J</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>45 leaves : 352 x 185 (240 x 95) mm. bound to 365 x 188 mm</extent>
+                <collation>
+                  <p>Parchment, 45; i 1-5⁸ 6⁴; [i], 1-34, [35-44] (f. 34v-44v blank but ruled); 17th-century foliation in ink, upper right recto. Signatures c i and c iii visible (f. 17r, 19r); prickings visible on blank leaves at end.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 52 long lines; ruled in red ink.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in bâtarde script.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Genealogical diagrams in red ink throughout with framed medallions left blank for pictures of important individuals and cities, 1 diagram lacking text (f. 34r); full-page border of gold-leaved tendrils with acanthus at corners and center outer margin and with an inner frame of blue and red bars with gold infill (f. 1r); 2 5-line illuminated initials in blue and red on gold grounds (f. 1r); 2-line initials in gold throughout, alternating between blue infill on red ground and red infill on blue ground; paragraph marks alternating between red and blue; some rubrics underlined in red.</decoNote>
+              <decoNote n="Inside front cover">Bookplate, Inside front cover</decoNote>
+              <decoNote n="i verso">Owner signature, f. i verso</decoNote>
+              <decoNote n="1r">Illuminated border, f. 1r</decoNote>
+              <decoNote n="1r">Owner signature, f. i verso</decoNote>
+              <decoNote n="1r">Illuminated initial, Initial C, f. 1r</decoNote>
+              <decoNote n="1r">Illuminated initial, Initial A, f. 1r</decoNote>
+              <decoNote n="1v">Diagram, f. 1v</decoNote>
+              <decoNote n="1v">Illuminated initial, Initial A, f. 1v</decoNote>
+              <decoNote n="1v">Illuminated initial, Initial C, f. 1v</decoNote>
+              <decoNote n="2r">Illuminated initial, Initial L, f. 2r</decoNote>
+              <decoNote n="2r">Illuminated initial, Initial D, f. 2r</decoNote>
+              <decoNote n="2r">Illuminated initial, Initial C, f. 2r</decoNote>
+              <decoNote n="2v">Illuminated initial, Initial C, f. 2v</decoNote>
+              <decoNote n="3r">Illuminated initial, Initial D, f. 3r</decoNote>
+              <decoNote n="3r">Illuminated initial, Initial C, f. 3r</decoNote>
+              <decoNote n="3r">Illuminated initial, Initial A, f. 3r</decoNote>
+              <decoNote n="3v">Diagram, f. 3v</decoNote>
+              <decoNote n="3v">Illuminated initial, Initial D, f. 3v</decoNote>
+              <decoNote n="3v">Illuminated initial, Initial T, f. 3v</decoNote>
+              <decoNote n="4r">Diagram, f. 4r</decoNote>
+              <decoNote n="4r">Illuminated initial, Initial C, f. 4r</decoNote>
+              <decoNote n="4r">Illuminated initial, Initial D, f. 4r</decoNote>
+              <decoNote n="4v">Diagram, f. 4v</decoNote>
+              <decoNote n="4v">Illuminated initial, Initial I, f. 4v</decoNote>
+              <decoNote n="4v">Illuminated initial, Initial L, f. 4v</decoNote>
+              <decoNote n="4v">Illuminated initial, Initial E, f. 4v</decoNote>
+              <decoNote n="5r">Diagram, f. 5r</decoNote>
+              <decoNote n="5r">Illuminated initial, Initial I, f. 5r</decoNote>
+              <decoNote n="5v">Illuminated initial, Initial I, f. 5v</decoNote>
+              <decoNote n="5v">Illuminated initial, Initial L, f. 5v</decoNote>
+              <decoNote n="6r">Illuminated initial, Initial A, f. 6r</decoNote>
+              <decoNote n="6r">Illuminated initial, Initial L, f. 6r</decoNote>
+              <decoNote n="6r">Illuminated initial, Initial M, f. 6r</decoNote>
+              <decoNote n="6v">Illuminated initial, Initial D, f. 6v</decoNote>
+              <decoNote n="6v">Illuminated initial, Initial G, f. 6v</decoNote>
+              <decoNote n="6v">Illuminated initial, Initial A, f. 6v</decoNote>
+              <decoNote n="6v">Illuminated initial, Initial T, f. 6v</decoNote>
+              <decoNote n="6v">Illuminated initial, Initial I, f. 6v</decoNote>
+              <decoNote n="6v">Illuminated initial, Initial E, f. 6v</decoNote>
+              <decoNote n="6v">Illuminated initial, Initial S, f. 6v</decoNote>
+              <decoNote n="7r">Diagram, f. 7r</decoNote>
+              <decoNote n="7r">Illuminated initial, Initial H, f. 7r</decoNote>
+              <decoNote n="7r">Illuminated initial, Initial S, f. 7r</decoNote>
+              <decoNote n="7r">Illuminated initial, Initial A, f. 7r</decoNote>
+              <decoNote n="7r">Illuminated initial, Initial D, f. 7r</decoNote>
+              <decoNote n="7v">Diagram, f. 7v</decoNote>
+              <decoNote n="7v">Illuminated initial, Initial S, f. 7v</decoNote>
+              <decoNote n="7v">Illuminated initial, Initial I, f. 7v</decoNote>
+              <decoNote n="7v">Illuminated initial, Initial R, f. 7v</decoNote>
+              <decoNote n="7v">Illuminated initial, Initial A, f. 7v</decoNote>
+              <decoNote n="8r">Diagram, f. 8r</decoNote>
+              <decoNote n="8r">Illuminated initial, Initial A, f. 8r</decoNote>
+              <decoNote n="8r">Illuminated initial, Initial M, f. 8r</decoNote>
+              <decoNote n="8r">Illuminated initial, Initial I, f. 8r</decoNote>
+              <decoNote n="8v">Diagram, f. 8v</decoNote>
+              <decoNote n="8v">Illuminated initial, Initial I, f. 8v</decoNote>
+              <decoNote n="8v">Illuminated initial, Initial A, f. 8v</decoNote>
+              <decoNote n="8v">Illuminated initial, Initial M, f. 8v</decoNote>
+              <decoNote n="8v">Illuminated initial, Initial F, f. 8v</decoNote>
+              <decoNote n="9r">Diagram, f. 9r</decoNote>
+              <decoNote n="9r">Illuminated initial, Initial L, f. 9r</decoNote>
+              <decoNote n="9r">Illuminated initial, Initial B, f. 9r</decoNote>
+              <decoNote n="9r">Illuminated initial, Initial E, f. 9r</decoNote>
+              <decoNote n="9v">Illuminated initial, Initial S, f. 9v</decoNote>
+              <decoNote n="9v">Illuminated initial, Initial O, f. 9v</decoNote>
+              <decoNote n="9v">Illuminated initial, Initial A, f. 9v</decoNote>
+              <decoNote n="10r">Diagram, f. 10r</decoNote>
+              <decoNote n="10r">Illuminated initial, Initial A, f. 10r</decoNote>
+              <decoNote n="10r">Illuminated initial, Initial L, f. 10r</decoNote>
+              <decoNote n="10v">Illuminated initial, Initial M, f. 10v</decoNote>
+              <decoNote n="10v">Illuminated initial, Initial I, f. 10v</decoNote>
+              <decoNote n="10v">Illuminated initial, Initial A, f. 10v</decoNote>
+              <decoNote n="11r">Illuminated initial, Initial H, f. 11r</decoNote>
+              <decoNote n="11r">Illuminated initial, Initial N, f. 11r</decoNote>
+              <decoNote n="11r">Illuminated initial, Initial S, f. 11r</decoNote>
+              <decoNote n="11r">Illuminated initial, Initial P, f. 11r</decoNote>
+              <decoNote n="11r">Illuminated initial, Initial C, f. 11r</decoNote>
+              <decoNote n="11v">Illuminated initial, Initial M, f. 11v</decoNote>
+              <decoNote n="11v">Illuminated initial, Initial S, f. 11v</decoNote>
+              <decoNote n="11v">Illuminated initial, Initial O, f. 11v</decoNote>
+              <decoNote n="11v">Illuminated initial, Initial I, f. 11v</decoNote>
+              <decoNote n="11v">Illuminated initial, Initial G, f. 11v</decoNote>
+              <decoNote n="11v">Illuminated initial, Initial D, f. 11v</decoNote>
+              <decoNote n="11v">Illuminated initial, Initial M, f. 11v</decoNote>
+              <decoNote n="12r">Diagram, f. 12r</decoNote>
+              <decoNote n="12r">Illuminated initial, Initial I, f. 12r</decoNote>
+              <decoNote n="12r">Illuminated initial, Initial L, f. 12r</decoNote>
+              <decoNote n="12r">Illuminated initial, Initial D, f. 12r</decoNote>
+              <decoNote n="12r">Illuminated initial, Initial A, f. 12r</decoNote>
+              <decoNote n="12r">Illuminated initial, Initial Q, f. 12r</decoNote>
+              <decoNote n="12v">Diagram, f. 12v</decoNote>
+              <decoNote n="12v">Illuminated initial, Initial C, f. 12v</decoNote>
+              <decoNote n="12v">Illuminated initial, Initial Q, f. 12v</decoNote>
+              <decoNote n="12v">Illuminated initial, Initial T, f. 12v</decoNote>
+              <decoNote n="13r">Diagram, f. 13r</decoNote>
+              <decoNote n="13r">Illuminated initial, Initial C, f. 13r</decoNote>
+              <decoNote n="13v">Diagram, f. 13v</decoNote>
+              <decoNote n="13v">Illuminated initial, Initial A, f. 13v</decoNote>
+              <decoNote n="13v">Illuminated initial, Initial I, f. 13v</decoNote>
+              <decoNote n="13v">Illuminated initial, Initial S, f. 13v</decoNote>
+              <decoNote n="14r">Diagram, f. 14r</decoNote>
+              <decoNote n="14r">Illuminated initial, Initial S, f. 14r</decoNote>
+              <decoNote n="14r">Illuminated initial, Initial U, f. 14r</decoNote>
+              <decoNote n="14r">Illuminated initial, Initial I, f. 14r</decoNote>
+              <decoNote n="14r">Illuminated initial, Initial A, f. 14r</decoNote>
+              <decoNote n="14v">Diagram, f. 14v</decoNote>
+              <decoNote n="14v">Illuminated initial, Initial E, f. 14v</decoNote>
+              <decoNote n="15r">Diagram, f. 15r</decoNote>
+              <decoNote n="15r">Illuminated initial, Initial E, f. 15r</decoNote>
+              <decoNote n="15r">Illuminated initial, Initial C, f. 15r</decoNote>
+              <decoNote n="15r">Illuminated initial, Initial A, f. 15r</decoNote>
+              <decoNote n="15v">Diagram, f. 15v</decoNote>
+              <decoNote n="15v">Illuminated initial, Initial A, f. 15v</decoNote>
+              <decoNote n="15v">Illuminated initial, Initial I, f. 15v</decoNote>
+              <decoNote n="15v">Illuminated initial, Initial O, f. 15v</decoNote>
+              <decoNote n="15v">Illuminated initial, Initial B, f. 15v</decoNote>
+              <decoNote n="16r">Diagram, f. 16r</decoNote>
+              <decoNote n="16r">Illuminated initial, Initial A, f. 16r</decoNote>
+              <decoNote n="16v">Diagram, f. 16v</decoNote>
+              <decoNote n="16v">Illuminated initial, Initial A, f. 16v</decoNote>
+              <decoNote n="17r">Diagram, f. 17r</decoNote>
+              <decoNote n="17r">Illuminated initial, Initial D, f. 17r</decoNote>
+              <decoNote n="17v">Diagram, f. 17v</decoNote>
+              <decoNote n="17v">Illuminated initial, Initial C, f. 17v</decoNote>
+              <decoNote n="17v">Illuminated initial, Initial D, f. 17v</decoNote>
+              <decoNote n="17v">Illuminated initial, Initial I, f. 17v</decoNote>
+              <decoNote n="17v">Illuminated initial, Initial B, f. 17v</decoNote>
+              <decoNote n="18r">Diagram, f. 18r</decoNote>
+              <decoNote n="18r">Illuminated initial, Initial B, f. 18r</decoNote>
+              <decoNote n="18r">Illuminated initial, Initial E, f. 18r</decoNote>
+              <decoNote n="18v">Diagram, f. 18v</decoNote>
+              <decoNote n="18v">Illuminated initial, Initial L, f. 18v</decoNote>
+              <decoNote n="18v">Illuminated initial, Initial I, f. 18v</decoNote>
+              <decoNote n="19r">Diagram, f. 19r</decoNote>
+              <decoNote n="19r">Illuminated initial, Initial C, f. 19r</decoNote>
+              <decoNote n="19r">Illuminated initial, Initial A, f. 19r</decoNote>
+              <decoNote n="19r">Illuminated initial, Initial I, f. 19r</decoNote>
+              <decoNote n="19v">Diagram, f. 19v</decoNote>
+              <decoNote n="19v">Illuminated initial, Initial C, f. 19v</decoNote>
+              <decoNote n="19v">Illuminated initial, Initial A, f. 19v</decoNote>
+              <decoNote n="19v">Illuminated initial, Initial I, f. 19v</decoNote>
+              <decoNote n="20r">Diagram, f. 20r</decoNote>
+              <decoNote n="20r">Illuminated initial, Initial C, f. 20r</decoNote>
+              <decoNote n="20r">Illuminated initial, Initial I, f. 20r</decoNote>
+              <decoNote n="20r">Illuminated initial, Initial A, f. 20r</decoNote>
+              <decoNote n="20v">Diagram, f. 20v</decoNote>
+              <decoNote n="20v">Illuminated initial, Initial I, f. 20v</decoNote>
+              <decoNote n="21r">Diagram, f. 21r</decoNote>
+              <decoNote n="21r">Illuminated initial, Initial C, f. 21r</decoNote>
+              <decoNote n="21r">Illuminated initial, Initial I, f. 21r</decoNote>
+              <decoNote n="21r">Illuminated initial, Initial O, f. 21r</decoNote>
+              <decoNote n="21r">Illuminated initial, Initial T, f. 21r</decoNote>
+              <decoNote n="21r">Illuminated initial, Initial G, f. 21r</decoNote>
+              <decoNote n="21v">Diagram, f. 21v</decoNote>
+              <decoNote n="21v">Illuminated initial, Initial C, f. 21v</decoNote>
+              <decoNote n="21v">Illuminated initial, Initial N, f. 21v</decoNote>
+              <decoNote n="21v">Illuminated initial, Initial U, f. 21v</decoNote>
+              <decoNote n="21v">Illuminated initial, Initial T, f. 21v</decoNote>
+              <decoNote n="21v">Illuminated initial, Initial D, f. 21v</decoNote>
+              <decoNote n="22r">Diagram, f. 22r</decoNote>
+              <decoNote n="22r">Illuminated initial, Initial T, f. 22r</decoNote>
+              <decoNote n="22r">Illuminated initial, Initial A, f. 22r</decoNote>
+              <decoNote n="22r">Illuminated initial, Initial M, f. 22r</decoNote>
+              <decoNote n="22r">Illuminated initial, Initial C, f. 22r</decoNote>
+              <decoNote n="22r">Illuminated initial, Initial H, f. 22r</decoNote>
+              <decoNote n="22r">Illuminated initial, Initial S, f. 22r</decoNote>
+              <decoNote n="22v">Diagram, f. 22v</decoNote>
+              <decoNote n="22v">Illuminated initial, Initial A, f. 22v</decoNote>
+              <decoNote n="22v">Illuminated initial, Initial M, f. 22v</decoNote>
+              <decoNote n="22v">Illuminated initial, Initial G, f. 22v</decoNote>
+              <decoNote n="22v">Illuminated initial, Initial P, f. 22v</decoNote>
+              <decoNote n="22v">Illuminated initial, Initial D, f. 22v</decoNote>
+              <decoNote n="22v">Illuminated initial, Initial U, f. 22v</decoNote>
+              <decoNote n="23r">Diagram, f. 23r</decoNote>
+              <decoNote n="23r">Illuminated initial, Initial C, f. 23r</decoNote>
+              <decoNote n="23r">Illuminated initial, Initial A, f. 23r</decoNote>
+              <decoNote n="23r">Illuminated initial, Initial T, f. 23r</decoNote>
+              <decoNote n="23r">Illuminated initial, Initial P, f. 23r</decoNote>
+              <decoNote n="23r">Illuminated initial, Initial F, f. 23r</decoNote>
+              <decoNote n="23r">Illuminated initial, Initial G, f. 23r</decoNote>
+              <decoNote n="23r">Illuminated initial, Initial D, f. 23r</decoNote>
+              <decoNote n="23r">Illuminated initial, Initial C, f. 23r</decoNote>
+              <decoNote n="23v">Diagram, f. 23v</decoNote>
+              <decoNote n="23v">Illuminated initial, Initial C, f. 23v</decoNote>
+              <decoNote n="23v">Illuminated initial, Initial T, f. 23v</decoNote>
+              <decoNote n="23v">Illuminated initial, Initial A, f. 23v</decoNote>
+              <decoNote n="23v">Illuminated initial, Initial H, f. 23v</decoNote>
+              <decoNote n="23v">Illuminated initial, Initial L, f. 23v</decoNote>
+              <decoNote n="23v">Illuminated initial, Initial I, f. 23v</decoNote>
+              <decoNote n="24r">Diagram, f. 24r</decoNote>
+              <decoNote n="24r">Illuminated initial, Initial I, f. 24r</decoNote>
+              <decoNote n="24r">Illuminated initial, Initial T, f. 24r</decoNote>
+              <decoNote n="24r">Illuminated initial, Initial M, f. 24r</decoNote>
+              <decoNote n="24r">Illuminated initial, Initial E, f. 24r</decoNote>
+              <decoNote n="24r">Illuminated initial, Initial A, f. 24r</decoNote>
+              <decoNote n="24r">Illuminated initial, Initial L, f. 24r</decoNote>
+              <decoNote n="24v">Diagram, f. 24v</decoNote>
+              <decoNote n="24v">Illuminated initial, Initial C, f. 24v</decoNote>
+              <decoNote n="24v">Illuminated initial, Initial A, f. 24v</decoNote>
+              <decoNote n="25r">Diagram, f. 25r</decoNote>
+              <decoNote n="25r">Illuminated initial, Initial L, f. 25r</decoNote>
+              <decoNote n="25r">Illuminated initial, Initial C, f. 25r</decoNote>
+              <decoNote n="25r">Illuminated initial, Initial B, f. 25r</decoNote>
+              <decoNote n="25v">Diagram, f. 25v</decoNote>
+              <decoNote n="25v">Illuminated initial, Initial L, f. 25v</decoNote>
+              <decoNote n="25v">Illuminated initial, Initial H, f. 25v</decoNote>
+              <decoNote n="25v">Illuminated initial, Initial O, f. 25v</decoNote>
+              <decoNote n="25v">Illuminated initial, Initial C, f. 25v</decoNote>
+              <decoNote n="26r">Diagram, f. 26r</decoNote>
+              <decoNote n="26r">Illuminated initial, Initial H, f. 26r</decoNote>
+              <decoNote n="26r">Illuminated initial, Initial L, f. 26r</decoNote>
+              <decoNote n="26r">Illuminated initial, Initial C, f. 26r</decoNote>
+              <decoNote n="26r">Illuminated initial, Initial F, f. 26r</decoNote>
+              <decoNote n="26r">Illuminated initial, Initial A, f. 26r</decoNote>
+              <decoNote n="26v">Diagram, f. 26v</decoNote>
+              <decoNote n="26v">Illuminated initial, Initial I, f. 26v</decoNote>
+              <decoNote n="26v">Illuminated initial, Initial E, f. 26v</decoNote>
+              <decoNote n="27r">Diagram, f. 27r</decoNote>
+              <decoNote n="27r">Illuminated initial, Initial I, f. 27r</decoNote>
+              <decoNote n="27r">Illuminated initial, Initial E, f. 27r</decoNote>
+              <decoNote n="27r">Illuminated initial, Initial L, f. 27r</decoNote>
+              <decoNote n="27v">Diagram, f. 27v</decoNote>
+              <decoNote n="27v">Illuminated initial, Initial A, f. 27v</decoNote>
+              <decoNote n="27v">Illuminated initial, Initial E, f. 27v</decoNote>
+              <decoNote n="27v">Illuminated initial, Initial I, f. 27v</decoNote>
+              <decoNote n="27v">Illuminated initial, Initial L, f. 27v</decoNote>
+              <decoNote n="28r">Diagram, f. 28r</decoNote>
+              <decoNote n="28r">Illuminated initial, Initial L, f. 28r</decoNote>
+              <decoNote n="28v">Diagram, f. 28v</decoNote>
+              <decoNote n="28v">Illuminated initial, Initial T, f. 28v</decoNote>
+              <decoNote n="28v">Illuminated initial, Initial C, f. 28v</decoNote>
+              <decoNote n="28v">Illuminated initial, Initial A, f. 28v</decoNote>
+              <decoNote n="28v">Illuminated initial, Initial L, f. 28v</decoNote>
+              <decoNote n="29r">Diagram, f. 29r</decoNote>
+              <decoNote n="29r">Illuminated initial, Initial C, f. 29r</decoNote>
+              <decoNote n="29r">Illuminated initial, Initial D, f. 29r</decoNote>
+              <decoNote n="29r">Illuminated initial, Initial A, f. 29r</decoNote>
+              <decoNote n="29r">Illuminated initial, Initial T, f. 29r</decoNote>
+              <decoNote n="29v">Diagram, f. 29v</decoNote>
+              <decoNote n="29v">Illuminated initial, Initial A, f. 29v</decoNote>
+              <decoNote n="29v">Illuminated initial, Initial C, f. 29v</decoNote>
+              <decoNote n="30r">Diagram, f. 30r</decoNote>
+              <decoNote n="30r">Illuminated initial, Initial A, f. 30r</decoNote>
+              <decoNote n="30r">Illuminated initial, Initial C. f. 30r</decoNote>
+              <decoNote n="30r">Illuminated initial, Initial L, f. 30r</decoNote>
+              <decoNote n="30v">Diagram, f. 30v</decoNote>
+              <decoNote n="30v">Illuminated initial, Initial A, f. 30v</decoNote>
+              <decoNote n="31r">Diagram, f. 31r</decoNote>
+              <decoNote n="31r">Illuminated initial, Initial A, f. 31r</decoNote>
+              <decoNote n="31r">Illuminated initial, Initial L, f. 31r</decoNote>
+              <decoNote n="31v">Diagram, f. 31v</decoNote>
+              <decoNote n="31v">Illuminated initial, Initial L, f. 31v</decoNote>
+              <decoNote n="31v">Illuminated initial, Initial S, f. 31v</decoNote>
+              <decoNote n="31v">Illuminated initial, Initial A, f. 31v</decoNote>
+              <decoNote n="32r">Diagram, f. 32r</decoNote>
+              <decoNote n="32r">Illuminated initial, Initial A, f. 32r</decoNote>
+              <decoNote n="32r">Illuminated initial, Initial E, f. 32r</decoNote>
+              <decoNote n="32r">Illuminated initial, Initial L, f. 32r</decoNote>
+              <decoNote n="32v">Diagram, f. 32v</decoNote>
+              <decoNote n="32v">Illuminated initial, Initial A, f. 32v</decoNote>
+              <decoNote n="32v">Illuminated initial, Initial P, f. 32v</decoNote>
+              <decoNote n="33r">Illuminated initial, Initial E, f. 33r</decoNote>
+              <decoNote n="33v">Illuminated initial, Initial A, f. 33v</decoNote>
+              <decoNote n="33v">Illuminated initial, Initial E. f. 33v</decoNote>
+              <decoNote n="34r">Diagram, f. 34r</decoNote>
+              <decoNote n="34r">Illuminated initial, Initial E, f. 34r</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Contemporary blind-stamped calf over slightly bevelled boards, tooled in 4 concentric rectangular frames made up of small square stamps: from outer edge to center, a double-headed eagle, Agnus Dei, stag, griffin, and bear or ape seated among foilage; spine repaired at head and tail; 2 clasps and all metal cornerpieces but one lacking.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in France, probably between 1425 and 1450 (Lisa Fagin Davis).</p>
+              <origDate>between 1425 and 1450?</origDate>
+              <origPlace>France</origPlace>
+            </origin>
+            <provenance>Formerly owned by Jehan Austin or Johan Auslin (15th-century inscription erased but legible under ultraviolet light, f. i recto) and Sébastien de Rosmadec, marquis de Molac (inscriptions, f. i verso and f. 1r, including one dated 1632).</provenance>
+            <provenance>Sold at auction at Sotheby's, 23 June 1998, lot 53, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Gift of Lawrence J. Schoenberg and Barbara Brizdle, 2010.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>World history--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Chronicles</term>
+          <term>Genealogies</term>
+          <term>Manuscripts, French--15th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="6072px" url="master/0013_0000.tif" width="3455px"/>
+      <graphic height="190px" url="thumb/0013_0000_thumb.jpg" width="108px"/>
+      <graphic height="1800px" url="web/0013_0000_web.jpg" width="1024px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="6056px" url="master/0013_0001.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0001_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0001_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="i recto">
+      <graphic height="6056px" url="master/0013_0002.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0002_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0002_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="i verso">
+      <graphic height="6056px" url="master/0013_0003.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0003_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0003_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="6056px" url="master/0013_0004.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0004_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0004_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6056px" url="master/0013_0005.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0005_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0005_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="6056px" url="master/0013_0006.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0006_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0006_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="6056px" url="master/0013_0007.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0007_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0007_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="6056px" url="master/0013_0008.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0008_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0008_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="6056px" url="master/0013_0009.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0009_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0009_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="6056px" url="master/0013_0010.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0010_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0010_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="6056px" url="master/0013_0011.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0011_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0011_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="6056px" url="master/0013_0012.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0012_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0012_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="6056px" url="master/0013_0013.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0013_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0013_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="6056px" url="master/0013_0014.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0014_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0014_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="6056px" url="master/0013_0015.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0015_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0015_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="6056px" url="master/0013_0016.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0016_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0016_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="6056px" url="master/0013_0017.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0017_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0017_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="6056px" url="master/0013_0018.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0018_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0018_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="6056px" url="master/0013_0019.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0019_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0019_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="6056px" url="master/0013_0020.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0020_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0020_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="6056px" url="master/0013_0021.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0021_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0021_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="6056px" url="master/0013_0022.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0022_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0022_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="6056px" url="master/0013_0023.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0023_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0023_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="6056px" url="master/0013_0024.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0024_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0024_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="6056px" url="master/0013_0025.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0025_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0025_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="6056px" url="master/0013_0026.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0026_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0026_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="6056px" url="master/0013_0027.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0027_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0027_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="13r">
+      <graphic height="6056px" url="master/0013_0028.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0028_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0028_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="13v">
+      <graphic height="6056px" url="master/0013_0029.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0029_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0029_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="14r">
+      <graphic height="6056px" url="master/0013_0030.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0030_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0030_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="14v">
+      <graphic height="6056px" url="master/0013_0031.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0031_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0031_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="15r">
+      <graphic height="6056px" url="master/0013_0032.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0032_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0032_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="15v">
+      <graphic height="6056px" url="master/0013_0033.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0033_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0033_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="16r">
+      <graphic height="6056px" url="master/0013_0034.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0034_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0034_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="16v">
+      <graphic height="6056px" url="master/0013_0035.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0035_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0035_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="17r">
+      <graphic height="6056px" url="master/0013_0036.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0036_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0036_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="17v">
+      <graphic height="6056px" url="master/0013_0037.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0037_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0037_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="18r">
+      <graphic height="6056px" url="master/0013_0038.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0038_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0038_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="18v">
+      <graphic height="6056px" url="master/0013_0039.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0039_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0039_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="19r">
+      <graphic height="6056px" url="master/0013_0040.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0040_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0040_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="19v">
+      <graphic height="6056px" url="master/0013_0041.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0041_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0041_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="20r">
+      <graphic height="6056px" url="master/0013_0042.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0042_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0042_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="20v">
+      <graphic height="6056px" url="master/0013_0043.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0043_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0043_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="21r">
+      <graphic height="6056px" url="master/0013_0044.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0044_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0044_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="21v">
+      <graphic height="6056px" url="master/0013_0045.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0045_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0045_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="22r">
+      <graphic height="6056px" url="master/0013_0046.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0046_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0046_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="22v">
+      <graphic height="6056px" url="master/0013_0047.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0047_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0047_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="23r">
+      <graphic height="6056px" url="master/0013_0048.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0048_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0048_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="23v">
+      <graphic height="6056px" url="master/0013_0049.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0049_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0049_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="24r">
+      <graphic height="6056px" url="master/0013_0050.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0050_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0050_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="24v">
+      <graphic height="6056px" url="master/0013_0051.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0051_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0051_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="25r">
+      <graphic height="6056px" url="master/0013_0052.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0052_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0052_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="25v">
+      <graphic height="6056px" url="master/0013_0053.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0053_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0053_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="26r">
+      <graphic height="6056px" url="master/0013_0054.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0054_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0054_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="26v">
+      <graphic height="6056px" url="master/0013_0055.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0055_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0055_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="27r">
+      <graphic height="6056px" url="master/0013_0056.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0056_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0056_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="27v">
+      <graphic height="6056px" url="master/0013_0057.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0057_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0057_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="28r">
+      <graphic height="6056px" url="master/0013_0058.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0058_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0058_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="28v">
+      <graphic height="6056px" url="master/0013_0059.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0059_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0059_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="29r">
+      <graphic height="6056px" url="master/0013_0060.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0060_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0060_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="29v">
+      <graphic height="6056px" url="master/0013_0061.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0061_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0061_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="30r">
+      <graphic height="6056px" url="master/0013_0062.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0062_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0062_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="30v">
+      <graphic height="6056px" url="master/0013_0063.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0063_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0063_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="31r">
+      <graphic height="6056px" url="master/0013_0064.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0064_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0064_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="31v">
+      <graphic height="6056px" url="master/0013_0065.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0065_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0065_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="32r">
+      <graphic height="6056px" url="master/0013_0066.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0066_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0066_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="32v">
+      <graphic height="6056px" url="master/0013_0067.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0067_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0067_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="33r">
+      <graphic height="6056px" url="master/0013_0068.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0068_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0068_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="33v">
+      <graphic height="6056px" url="master/0013_0069.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0069_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0069_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="34r">
+      <graphic height="6056px" url="master/0013_0070.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0070_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0070_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="34v">
+      <graphic height="6056px" url="master/0013_0071.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0071_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0071_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="35r">
+      <graphic height="6056px" url="master/0013_0072.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0072_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0072_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0073.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0073_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0073_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0074.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0074_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0074_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0075.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0075_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0075_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0076.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0076_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0076_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0077.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0077_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0077_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0078.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0078_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0078_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0079.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0079_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0079_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0080.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0080_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0080_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0081.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0081_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0081_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0082.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0082_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0082_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0083.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0083_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0083_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0084.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0084_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0084_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0085.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0085_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0085_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0086.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0086_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0086_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0087.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0087_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0087_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Unlabeled">
+      <graphic height="6056px" url="master/0013_0088.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0088_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0088_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="43v">
+      <graphic height="6056px" url="master/0013_0089.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0089_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0089_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="44r">
+      <graphic height="6056px" url="master/0013_0090.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0090_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0090_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="44v">
+      <graphic height="6056px" url="master/0013_0091.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0091_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0091_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="6056px" url="master/0013_0092.tif" width="3576px"/>
+      <graphic height="190px" url="thumb/0013_0092_thumb.jpg" width="112px"/>
+      <graphic height="1800px" url="web/0013_0092_web.jpg" width="1062px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="6072px" url="master/0013_0093.tif" width="3455px"/>
+      <graphic height="190px" url="thumb/0013_0093_thumb.jpg" width="108px"/>
+      <graphic height="1800px" url="web/0013_0093_web.jpg" width="1024px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="6072px" url="master/0013_0094.tif" width="3455px"/>
+      <graphic height="190px" url="thumb/0013_0094_thumb.jpg" width="108px"/>
+      <graphic height="1800px" url="web/0013_0094_web.jpg" width="1024px"/>
+    </surface>
+  </facsimile>
+</TEI>

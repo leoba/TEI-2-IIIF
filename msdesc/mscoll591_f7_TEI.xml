@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 591: Missal leaf</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 591</idno>
+            <altIdentifier type="bibid">
+              <idno>3882717</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/3882717</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Leaf containing the passages or prayers for the Offertory, Secret, Communion, and Post-Communion for the second Sunday of Advent as well as passages from Luke (21:27-33), Malachi (3:1-4, 19-24), Matthew (11:11-15), and Corinthians 2 (3:18-4:2). The text is written in a Gothic hand and arranged in two columns of 27 lines, with rubrication and red and blue initials. Trimming of corners and edges (with loss of text at one edge) and creases are due to the use of this leaf in the binding of another volume.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Missal leaf</title>
+              <author>Catholic Church</author>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 269 x 194 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by William Salloch (Ossining, N.Y.), 1979.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--Liturgy--Texts</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Missals</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6739px" url="master/0455_0000.tif" width="4970px"/>
+      <graphic height="190px" url="thumb/0455_0000_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0455_0000_web.jpg" width="1327px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6739px" url="master/0455_0001.tif" width="4970px"/>
+      <graphic height="190px" url="thumb/0455_0001_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0455_0001_web.jpg" width="1327px"/>
+    </surface>
+  </facsimile>
+</TEI>

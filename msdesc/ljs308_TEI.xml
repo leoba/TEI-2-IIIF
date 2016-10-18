@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 308: Edward III letter patent</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 308</idno>
+            <altIdentifier type="bibid">
+              <idno>4748833</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4748833</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Letter patent on parchment dated Gloucester, 16 August 1347, with Great Seal of England in white wax (very worn, especially at edges) suspended on a parchment tag. Confirmation of the grant by John de Coggeshale, escheator of Essex, to Robert de Burghcher of permission to close and convert to cultivation a public road running through his land at Stansted on condition that Robert build another appropriate road on his land. Witnessed by the king's son Lionel, later Duke of Clarence, and issued by writ of the Privy Seal, written in chancery script and signed by chancery scribe J. Marton. Opening initial left blank, first line with calligraphic ascenders.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Edward III letter patent</title>
+              <author>England</author>
+              <author>Lionel of Antwerp, Duke of Clarence, 1338-1368</author>
+              <respStmt>
+                <resp>scribe</resp>
+                <persName>Marton, J</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Shane, A. L</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Schoenberg, Lawrence J</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 item (1 leaf) : 190 x 270 mm. +</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Sir Thomas Phillipps (ms. 30744).</provenance>
+            <provenance>Sold at auction at Sotheby's, 30 Nov. 1976, lot 867.</provenance>
+            <provenance>Formerly owned by A. L. Shane.</provenance>
+            <provenance>Sold at auction at Sotheby's, 22 June 1999, lot 52, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Gift of Lawrence J. Schoenberg and Barbara Brizdle, 2010.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Roads--England--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Letters patent</term>
+          <term>Seals (artifacts)</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="6407px" url="master/0128_0000.tif" width="4437px"/>
+      <graphic height="190px" url="thumb/0128_0000_thumb.jpg" width="131px"/>
+      <graphic height="1800px" url="web/0128_0000_web.jpg" width="1246px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="6407px" url="master/0128_0001.tif" width="4437px"/>
+      <graphic height="190px" url="thumb/0128_0001_thumb.jpg" width="131px"/>
+      <graphic height="1800px" url="web/0128_0001_web.jpg" width="1246px"/>
+    </surface>
+  </facsimile>
+</TEI>

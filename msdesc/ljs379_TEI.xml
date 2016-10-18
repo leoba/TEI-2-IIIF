@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 379: Edict concerning Jews in Livorno and Pisa</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 379</idno>
+            <altIdentifier type="bibid">
+              <idno>4985751</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4985751</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Copy of an edict inviting foreign merchants, especially Jews, to settle in Livorno and Pisa, and defining their rights and privileges. The original edict was issued from the ducal palace in Florence, dated 10 June 1593, and consists of 44 clauses. The rights and privileges included amnesty for offenses committed previously, freedom from debts incurred elsewhere, free safe conduct in Livorno, the right to conduct business throughout Tuscany, the same rights and privileges in conducting foreign trade as others in Tuscany, protection from extraordinary levies beyond the usual taxes, exemption from the regulations on Jews living in Florence and Siena, the right of Jews to build and maintain a synagogue and cemetery, the right to observe Jewish holidays, ownership of printed books or manuscripts reviewed by the Inquisition, ownership of real property, freedom to practice for Jewish doctors, permission to employ Christian servants, the right of heads of households to bear arms, and freedom from wearing an insignia signifying Jewish identity.</summary>
+            <textLang>Italian</textLang>
+            <msItem>
+              <title>Edict concerning Jews in Livorno and Pisa</title>
+              <author>Ferdinando I, Grand-Duke of Tuscany, 1549-1609</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Ginori Conti, Piero, 1865-1939</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Schoenberg, Lawrence J</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                  <watermark>Sun in circle on flyleaves.</watermark>
+                </support>
+                <extent>12 leaves : 257 x 200 (191 x 123) mm bound to 265 x 205 mm</extent>
+                <collation>
+                  <p>Parchment, ii (contemporary paper) + 12 + ii (contemporary paper); 1-6²; [1-12]; modern foliation in pencil, lower right recto. Catchwords on some leaves, lower right verso (f. 2v-6v, 10v).</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 22 long lines, ruled in drypoint, with clauses numbered in the left margin.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a humanistic script, with clause numbers and initials at the beginning of each clause in square capitals.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Medici arms in ink (f. 1r); floral design in ink at end of text (f. 12r); inhabited 3-line initial in ink (f. 1v); simple 2-line initial in ink at the beginning of each clause.</decoNote>
+              <decoNote n="1r">Drawing, Coat of arms, f. 1r</decoNote>
+              <decoNote n="1v">Decorated initial, Initial A, f. 1v</decoNote>
+              <decoNote n="12r">Drawing, Flowers, f. 12r</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Contemporary Italian goatskin over pasteboard, blind-ruled, with one pair of linen ties and remnants of a second pair.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Italy, possibly in Florence, after the edict was issued in 1593.</p>
+              <origDate>after 1593</origDate>
+              <origPlace>Florence?, Italy</origPlace>
+            </origin>
+            <provenance>Formerly owned by Prince Piero Ginori Conti, ms. 10375 (bookplate inside upper cover).</provenance>
+            <provenance>Sold at auction at Sotheby's, 19 May 2000, lot 229, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Gift of Lawrence J. Schoenberg and Barbara Brizdle in honor of Arthur Kiron, Schottenstein-Jesselson Curator of Judaica Collections, Penn Libraries, 2011.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Jews--Italy--Livorno--History</term>
+          <term>Jews--Italy--Pisa--History</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Codices</term>
+          <term>Decrees</term>
+          <term>Manuscripts, Italian</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="4646px" url="master/0338_0000.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0000_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0000_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="4646px" url="master/0338_0001.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0001_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0001_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="4646px" url="master/0338_0002.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0002_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0002_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="4646px" url="master/0338_0003.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0003_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0003_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto">
+      <graphic height="4646px" url="master/0338_0004.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0004_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0004_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso">
+      <graphic height="4646px" url="master/0338_0005.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0005_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0005_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="4646px" url="master/0338_0006.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0006_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0006_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4646px" url="master/0338_0007.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0007_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0007_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4646px" url="master/0338_0008.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0008_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0008_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4646px" url="master/0338_0009.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0009_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0009_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="4646px" url="master/0338_0010.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0010_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0010_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="4646px" url="master/0338_0011.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0011_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0011_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="4646px" url="master/0338_0012.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0012_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0012_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="4646px" url="master/0338_0013.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0013_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0013_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="4646px" url="master/0338_0014.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0014_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0014_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="4646px" url="master/0338_0015.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0015_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0015_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="4646px" url="master/0338_0016.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0016_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0016_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="4646px" url="master/0338_0017.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0017_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0017_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="4646px" url="master/0338_0018.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0018_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0018_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="4646px" url="master/0338_0019.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0019_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0019_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="4646px" url="master/0338_0020.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0020_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0020_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="4646px" url="master/0338_0021.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0021_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0021_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="4646px" url="master/0338_0022.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0022_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0022_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="4646px" url="master/0338_0023.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0023_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0023_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="4646px" url="master/0338_0024.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0024_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0024_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="4646px" url="master/0338_0025.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0025_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0025_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="11r">
+      <graphic height="4646px" url="master/0338_0026.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0026_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0026_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="11v">
+      <graphic height="4646px" url="master/0338_0027.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0027_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0027_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="12r">
+      <graphic height="4646px" url="master/0338_0028.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0028_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0028_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="12v">
+      <graphic height="4646px" url="master/0338_0029.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0029_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0029_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="4646px" url="master/0338_0030.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0030_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0030_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="4646px" url="master/0338_0031.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0031_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0031_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto">
+      <graphic height="4646px" url="master/0338_0032.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0032_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0032_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso">
+      <graphic height="4646px" url="master/0338_0033.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0033_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0033_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="4646px" url="master/0338_0034.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0034_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0034_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="4646px" url="master/0338_0035.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0035_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0035_web.jpg" width="1469px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="4646px" url="master/0338_0036.tif" width="3792px"/>
+      <graphic height="190px" url="thumb/0338_0036_thumb.jpg" width="155px"/>
+      <graphic height="1800px" url="web/0338_0036_web.jpg" width="1469px"/>
+    </surface>
+  </facsimile>
+</TEI>

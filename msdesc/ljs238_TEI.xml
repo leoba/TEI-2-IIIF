@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 238: Assise of all manner of breade :</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 238</idno>
+            <altIdentifier type="bibid">
+              <idno>4993994</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4993994</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Table of prescribed weights for varieties of loaves for different prices of wheat, with the heading The statute of wynchestre. Written in Winchester in the 16th century. After a preamble of 8 lines written in a cursive Gothic script, the table of 6 columns of 34 lines in textura script presents the prices of wheat in the first column followed by columns for 5 varieties of loaf (quarter symnell, farthing wastel, white lofe, wheten lof, and household lof). The preamble begins with the heading and a 6-line calligraphic initial in red ink. The columns alternate between red and black ink, with a drawing in faint red ink at the top of each column (a sack of grain over the first, a type of loaf over the others) and a drawing of a scroll in black ink enclosing the heading of each column.</summary>
+            <msItem>
+              <title>Assise of all manner of breade :</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Fenn, John, 1739-1794</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Lansburgh, Mark</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Schoenberg, Lawrence J</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 item (1 leaf) : 443 x 338 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Sir John Fenn, editor of the Paston Letters.</provenance>
+            <provenance>Formerly owned by Sir Thomas Phillipps (ms. no. 33859); sold at auction at Sotheby's in a sale of part of his library (New Series, 7th Part), 14 June 1971, to Chas. J. Sawyer Ltd. (London).</provenance>
+            <provenance>Formerly owned by Mark Lansburgh (bookplate inside former binding).</provenance>
+            <provenance>Previously handled by dealer Bruce Ferrini (Akron, Oh.).</provenance>
+            <provenance>Sold by Sam Fogg Ltd. (London) to Lawrence J. Schoenberg, Feb. 1998.</provenance>
+            <provenance>Gift of Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Bakers--England--Early works to 1800</term>
+          <term>Bread--England--Early works to 1800</term>
+          <term>Weights and measures--England--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, English--16th century</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="7376px" url="master/0177_0000.tif" width="5754px"/>
+      <graphic height="190px" url="thumb/0177_0000_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/0177_0000_web.jpg" width="1404px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="7376px" url="master/0177_0001.tif" width="5754px"/>
+      <graphic height="190px" url="thumb/0177_0001_thumb.jpg" width="148px"/>
+      <graphic height="1800px" url="web/0177_0001_web.jpg" width="1404px"/>
+    </surface>
+  </facsimile>
+</TEI>

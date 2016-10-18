@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Coll. 591: Psalter bifolium</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Coll. 591</idno>
+            <altIdentifier type="bibid">
+              <idno>4149812</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4149812</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Bifolium containing the continuous text of Psalms 44.5-47.15. Originally part of a psalter probably written and decorated in the diocese of Seville, in southern Spain, in the early 13th century, based on the saints in the calendar and litany of that psalter. Each leaf written in black ink in 22 long lines, ruled in plummet, with rubrication in red. 2-line initials in gold and purple at the beginning of each psalm, gold capitals in black outline set out in the margins at the begnning of each verse, those on the first page with further decoration in green.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>Psalter bifolium</title>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 157 x 193 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold at auction as part of an imperfect psalter at Sotheby's, 12 December 1967, lot 37; psalter leaves dispersed by Folio Fine Art.</provenance>
+            <provenance>Sold by Bernard Quaritch (London), cat. 1348 (2007), no. 15.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Psalters</term>
+          <term>Manuscripts, Latin--13th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1">
+      <graphic height="4059px" url="master/0432_0000.tif" width="2561px"/>
+      <graphic height="190px" url="thumb/0432_0000_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/0432_0000_web.jpg" width="1136px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4059px" url="master/0432_0001.tif" width="2561px"/>
+      <graphic height="190px" url="thumb/0432_0001_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/0432_0001_web.jpg" width="1136px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4059px" url="master/0432_0002.tif" width="2561px"/>
+      <graphic height="190px" url="thumb/0432_0002_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/0432_0002_web.jpg" width="1136px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4059px" url="master/0432_0003.tif" width="2561px"/>
+      <graphic height="190px" url="thumb/0432_0003_thumb.jpg" width="119px"/>
+      <graphic height="1800px" url="web/0432_0003_web.jpg" width="1136px"/>
+    </surface>
+  </facsimile>
+</TEI>

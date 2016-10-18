@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania Ms. Codex 681: Book of hours</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. codex.</note>
+        <note>Title supplied by cataloger; title in Zacour-Hirsch, Horae.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">Ms. Codex 681</idno>
+            <altIdentifier type="bibid">
+              <idno>2487467</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/2487467</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Fragment of a book of hours, French script, use of Sarum [?]. Misbound: includes Ad laudes (f. 1r-v, f. 7-10); Matins (f. 3r-6v), ending in the middle of the Te Deum; commemoration of St. Anne (f. 2r); commemoration of St. Catherine.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Book of hours</title>
+              <author>Catholic Church</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Krumbhaar, E. B. 1882-1966</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>10 leaves : 203 x 137 (115 x 70) mm. bound to 211 x 150 mm</extent>
+                <foliation>Parchment, iii (modern paper) + 10 + iii (modern paper); [1-10]; modern foliation in pencil, upper right recto.</foliation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 21 long lines; frame-ruled in ink.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in a Gothic script by a single hand.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Wide illuminated border and illuminated 6-line initial (f. 1r); wide decorative border and fully colored 6-line miniature of St. Catherine (f. 2v); initials decorated in gold, red, and blue throughout.</decoNote>
+              <decoNote n="1r">Illuminated initial, Initial D, f. 1r</decoNote>
+              <decoNote n="1r">Illuminated border, f. 1r</decoNote>
+              <decoNote n="2v">Miniature, St. Catherine, f. 2v</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Modern red morocco, upper cover detached.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in France in the second half of the 15th century.</p>
+              <origDate>between 1450 and 1500</origDate>
+              <origPlace>France</origPlace>
+            </origin>
+            <provenance>Formerly owned by E. B. Krumbhaar (bookplate, inside upper cover; stamp with winged crown, first two endleaves).</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Catholic Church--Prayers and devotions--Early works to 1800</term>
+          <term>Illumination of books and manuscripts, French--Specimens</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Books of hours</term>
+          <term>Codices</term>
+          <term>Illuminations</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Medieval</term>
+          <term>Manuscripts, Renaissance</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="5272px" url="master/0361_0000.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0000_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0361_0000_web.jpg" width="1327px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="5350px" url="master/0361_0001.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0001_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0001_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5350px" url="master/0361_0002.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0002_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0002_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5350px" url="master/0361_0003.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0003_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0003_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto">
+      <graphic height="5350px" url="master/0361_0004.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0004_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0004_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso">
+      <graphic height="5350px" url="master/0361_0005.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0005_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0005_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="Flyleaf 3 recto">
+      <graphic height="5350px" url="master/0361_0006.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0006_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0006_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="Flyleaf 3 verso">
+      <graphic height="5350px" url="master/0361_0007.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0007_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0007_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="5350px" url="master/0361_0008.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0008_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0008_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="5350px" url="master/0361_0009.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0009_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0009_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="5350px" url="master/0361_0010.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0010_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0010_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="5350px" url="master/0361_0011.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0011_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0011_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="5350px" url="master/0361_0012.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0012_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0012_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="5350px" url="master/0361_0013.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0013_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0013_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="5350px" url="master/0361_0014.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0014_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0014_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="5350px" url="master/0361_0015.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0015_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0015_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="5350px" url="master/0361_0016.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0016_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0016_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="5350px" url="master/0361_0017.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0017_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0017_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="5350px" url="master/0361_0018.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0018_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0018_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="5350px" url="master/0361_0019.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0019_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0019_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="5350px" url="master/0361_0020.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0020_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0020_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="5350px" url="master/0361_0021.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0021_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0021_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="5350px" url="master/0361_0022.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0022_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0022_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="5350px" url="master/0361_0023.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0023_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0023_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="5350px" url="master/0361_0024.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0024_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0024_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="5350px" url="master/0361_0025.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0025_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0025_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="5350px" url="master/0361_0026.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0026_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0026_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="5350px" url="master/0361_0027.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0027_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0027_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="5350px" url="master/0361_0028.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0028_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0028_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="5350px" url="master/0361_0029.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0029_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0029_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto">
+      <graphic height="5350px" url="master/0361_0030.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0030_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0030_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso">
+      <graphic height="5350px" url="master/0361_0031.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0031_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0031_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="Flyleaf 3 recto">
+      <graphic height="5350px" url="master/0361_0032.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0032_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0032_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="Flyleaf 3 verso">
+      <graphic height="5350px" url="master/0361_0033.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0033_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0033_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="5350px" url="master/0361_0034.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0034_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0361_0034_web.jpg" width="1308px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="5272px" url="master/0361_0035.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0035_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0361_0035_web.jpg" width="1327px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="5272px" url="master/0361_0036.tif" width="3888px"/>
+      <graphic height="190px" url="thumb/0361_0036_thumb.jpg" width="140px"/>
+      <graphic height="1800px" url="web/0361_0036_web.jpg" width="1327px"/>
+    </surface>
+  </facsimile>
+</TEI>
