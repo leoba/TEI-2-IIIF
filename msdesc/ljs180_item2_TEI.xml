@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 180: Mechanical diagrams</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 180</idno>
+            <altIdentifier type="bibid">
+              <idno>5783302</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5783302</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Diagrams related to industrial production: 2 of large systems of gears and axles and 1 of metal components, anvils, and furnaces perhaps related to forge operations. The diagrams are labeled with plate and figure numbers, have watercolor washes, and are signed L. F. D. 1783.</summary>
+            <textLang>Headings and a note in French</textLang>
+            <msItem>
+              <title>Mechanical diagrams</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Kraus, Hans Peter, 1907-1988</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Stanitz, John D</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Separated from manuscript formerly owned by Sir Thomas Phillipps, ms. 18505 (pencil note on verso of one diagram, Kraus?).</provenance>
+            <provenance>Sold as part of the residue of the Phillipps collection first to William H. Robinson Ltd., 1945, and again to H. P. Kraus, Mar. 1978; part of Kraus's ms. 836.</provenance>
+            <provenance>Formerly owned by John D. Stanitz (Cleveland, Ohio), as part of Ms. 11.</provenance>
+            <provenance>Acquired by Lawrence J. Schoenberg with other Stanitz manuscripts, Sept. 1997.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Technology--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Pen-and-wash drawings</term>
+          <term>Manuscripts, French--18th century</term>
+          <term>Manuscripts, European</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Item 1, Side 1">
+      <graphic height="3682px" url="master/0150_0000.tif" width="5972px"/>
+      <graphic height="117px" url="thumb/0150_0000_thumb.jpg" width="190px"/>
+      <graphic height="1109px" url="web/0150_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 1, Side 2">
+      <graphic height="3682px" url="master/0150_0001.tif" width="5972px"/>
+      <graphic height="117px" url="thumb/0150_0001_thumb.jpg" width="190px"/>
+      <graphic height="1109px" url="web/0150_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 2, Side 1">
+      <graphic height="2931px" url="master/0150_0002.tif" width="3817px"/>
+      <graphic height="145px" url="thumb/0150_0002_thumb.jpg" width="190px"/>
+      <graphic height="1382px" url="web/0150_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 2, Side 2">
+      <graphic height="2931px" url="master/0150_0003.tif" width="3817px"/>
+      <graphic height="145px" url="thumb/0150_0003_thumb.jpg" width="190px"/>
+      <graphic height="1382px" url="web/0150_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 3, Side 1">
+      <graphic height="2912px" url="master/0150_0004.tif" width="3885px"/>
+      <graphic height="142px" url="thumb/0150_0004_thumb.jpg" width="190px"/>
+      <graphic height="1349px" url="web/0150_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 3, Side 2">
+      <graphic height="2912px" url="master/0150_0005.tif" width="3885px"/>
+      <graphic height="142px" url="thumb/0150_0005_thumb.jpg" width="190px"/>
+      <graphic height="1349px" url="web/0150_0005_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

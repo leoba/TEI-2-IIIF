@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 180: Extrait du recueil de 26 machines économiques inventées et presentées à l'empereur des français, roi d'Italie /</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>A printed edition of the full collection was published under the title Recueil de mécanique relatif a l'agriculture et aux arts et description des machines économiques (Paris: Bernard) in Year 10 of the Republic (1801-1802).</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 180</idno>
+            <altIdentifier type="bibid">
+              <idno>5783332</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5783332</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Description of models of 5 inventions for rescuing people or precious objects from fire (parafeux), selected from the collection of machines whose models were displayed in the Salon du Louvre from 1792 to Year 8 of the Republic (1799-1800). Concludes with a copy of a testimonial dated 13 nivôse in Year 8 of the Republic (3 January 1800) from Jean Francois Bralle, engineer in chief (ingénieur en chef du Département au Bureau Central). Sewn gathering of 4 bifolia, with later pagination in pencil, 185-197, upper right recto; text block outlined in red ink, some text in red ink.</summary>
+            <textLang>In French</textLang>
+            <msItem>
+              <title>Extrait du recueil de 26 machines économiques inventées et presentées à l'empereur des français, roi d'Italie /</title>
+              <author>Person, Citoyen</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Kraus, Hans Peter, 1907-1988</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Stanitz, John D</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Hans Peter Kraus, as part of his ms. 836.</provenance>
+            <provenance>Formerly owned by John D. Stanitz (Cleveland, Ohio), as part of his Ms. 11.</provenance>
+            <provenance>Acquired by Lawrence J. Schoenberg with other Stanitz manuscripts, Sept. 1997.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Technology</term>
+          <term>Fire extinction--Equipment and supplies</term>
+          <term>Fire extinction--History</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, French--19th century</term>
+          <term>Manuscripts, European</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="i">
+      <graphic height="3319px" url="master/0190_0000.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0000_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0000_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="ii">
+      <graphic height="3319px" url="master/0190_0001.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0001_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0001_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="1">
+      <graphic height="3319px" url="master/0190_0002.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0002_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0002_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="2">
+      <graphic height="3319px" url="master/0190_0003.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0003_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0003_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="3">
+      <graphic height="3319px" url="master/0190_0004.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0004_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0004_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="4">
+      <graphic height="3319px" url="master/0190_0005.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0005_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0005_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="5">
+      <graphic height="3319px" url="master/0190_0006.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0006_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0006_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="6">
+      <graphic height="3319px" url="master/0190_0007.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0007_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0007_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="7">
+      <graphic height="3319px" url="master/0190_0008.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0008_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0008_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="8">
+      <graphic height="3319px" url="master/0190_0009.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0009_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0009_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="9">
+      <graphic height="3319px" url="master/0190_0010.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0010_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0010_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="10">
+      <graphic height="3319px" url="master/0190_0011.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0011_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0011_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="11">
+      <graphic height="3319px" url="master/0190_0012.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0012_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0012_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="12">
+      <graphic height="3319px" url="master/0190_0013.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0013_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0013_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="13">
+      <graphic height="3319px" url="master/0190_0014.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0014_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0014_web.jpg" width="1416px"/>
+    </surface>
+    <surface n="14">
+      <graphic height="3319px" url="master/0190_0015.tif" width="2612px"/>
+      <graphic height="190px" url="thumb/0190_0015_thumb.jpg" width="149px"/>
+      <graphic height="1800px" url="web/0190_0015_web.jpg" width="1416px"/>
+    </surface>
+  </facsimile>
+</TEI>

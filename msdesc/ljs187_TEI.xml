@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 187: Thermomètre absolu</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. gathering.</note>
+        <note>Title from upper cover.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 187</idno>
+            <altIdentifier type="bibid">
+              <idno>5407269</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5407269</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Signed scientific work addressing the choice of fluids for use in measuring temperature and the development of an absolute thermometer. An anonymous unfavorable review of the work, addressed to Jean Baptiste Joseph Delambre, secrétaire perpétuel [pour les sciences mathematiques], accompanies De Buat's manuscript.</summary>
+            <textLang>French</textLang>
+            <msItem>
+              <title>Thermomètre absolu</title>
+              <author>Du Buat, M. 1734-1809</author>
+              <respStmt>
+                <resp>recipient</resp>
+                <persName>Delambre, J. B. J. 1749-1822</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Stanitz, John D</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                  <watermark>Battle scene with motto Pro Patria, countermark SOI above foilage.</watermark>
+                </support>
+                <extent>8 leaves : 323 x 202 (281 x 171) mm. bound to 323 x 202 mm. +</extent>
+                <collation>
+                  <p>Paper, 8; 1⁸ (with outermost bifolium as paper wrapper); 1-12, contemporary pagination in ink, upper outer corners.</p>
+                </collation>
+              </supportDesc>
+              <layoutDesc>
+                <layout>Written in 39 long lines; ruled in lead; text block outlined in ink.</layout>
+              </layoutDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in cursive script in the hand of Pierre du Buat, with accompanying notes in another hand.</scriptNote>
+            </scriptDesc>
+            <decoDesc>
+              <decoNote>Plate of 3 figures in ink (diagrams of the thermometer) mounted inside lower cover.</decoNote>
+              <decoNote n="Inside back wrapper">Diagrams, Inside back wrapper</decoNote>
+            </decoDesc>
+            <bindingDesc>
+              <binding>
+                <p>Original paper wrapper.</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in Nord-libre (Condé ), 28 Vendemiare, Year 11 of the Republic (20 Oct. 1802; p. 12).</p>
+              <origDate>1802</origDate>
+              <origPlace>Condé</origPlace>
+            </origin>
+            <provenance>Formerly owned by John D. Stanitz (Cleveland, Ohio), Ms. 18.</provenance>
+            <provenance>Acquired by Lawrence J. Schoenberg with other Stanitz manuscripts, Sept. 1997.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Temperature measurements--History</term>
+          <term>Thermometers--History</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Diagrams</term>
+          <term>Treatises</term>
+          <term>Manuscripts, French--19th century</term>
+          <term>Manuscripts, Digital</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front wrapper">
+      <graphic height="5517px" url="master/0191_0000.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0000_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0000_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="Inside front wrapper">
+      <graphic height="5517px" url="master/0191_0001.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0001_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0001_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="1">
+      <graphic height="5517px" url="master/0191_0002.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0002_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0002_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="2">
+      <graphic height="5517px" url="master/0191_0003.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0003_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0003_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="3">
+      <graphic height="5517px" url="master/0191_0004.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0004_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0004_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="4">
+      <graphic height="5517px" url="master/0191_0005.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0005_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0005_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="5">
+      <graphic height="5517px" url="master/0191_0006.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0006_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0006_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="6">
+      <graphic height="5517px" url="master/0191_0007.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0007_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0007_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="7">
+      <graphic height="5517px" url="master/0191_0008.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0008_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0008_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="8">
+      <graphic height="5517px" url="master/0191_0009.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0009_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0009_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="9">
+      <graphic height="5517px" url="master/0191_0010.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0010_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0010_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="10">
+      <graphic height="5517px" url="master/0191_0011.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0011_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0011_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="11">
+      <graphic height="5517px" url="master/0191_0012.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0012_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0012_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="12">
+      <graphic height="5517px" url="master/0191_0013.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0013_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0013_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="Inside back wrapper">
+      <graphic height="5517px" url="master/0191_0014.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0014_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0014_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="Back wrapper">
+      <graphic height="5517px" url="master/0191_0015.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0015_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0015_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="Loose note, 1r">
+      <graphic height="5517px" url="master/0191_0016.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0016_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0016_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="Loose note, 1v">
+      <graphic height="5517px" url="master/0191_0017.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0017_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0017_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="Loose note, 2r">
+      <graphic height="5517px" url="master/0191_0018.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0018_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0018_web.jpg" width="1172px"/>
+    </surface>
+    <surface n="Loose note, 2v">
+      <graphic height="5517px" url="master/0191_0019.tif" width="3592px"/>
+      <graphic height="190px" url="thumb/0191_0019_thumb.jpg" width="124px"/>
+      <graphic height="1800px" url="web/0191_0019_web.jpg" width="1172px"/>
+    </surface>
+  </facsimile>
+</TEI>

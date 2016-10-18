@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 124: Manuscript leaf from Speculum historiale, Book 29</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title supplied by cataloger.</note>
+        <note>Manuscript leaf is laid in the back of LJS 16, from which it was separated in the 20th century.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 124</idno>
+            <altIdentifier type="bibid">
+              <idno>4934995</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4934995</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Leaf from Book 29, containing text from the middle of Chapter 83 to the beginning of Chapter 86, which consists of excerpts from Saint Bernard of Clairvaux concerning abbots and bishops. The heading in red ink at the top on both sides is Flores Sancti Bernardi. The leaf was written in France, probably Paris, ca. 1400, in a Gothic semi-cursive book script, in 2 columns of 47 lines, and frame-ruled in faint ink with double bounding lines on each side. 3 2-line chapter initials in red or blue with contrasting penwork in blue-black or bright red; chapter headings in red; capitals touched in yellow.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Manuscript leaf from Speculum historiale, Book 29</title>
+              <author>Vincent, of Beauvais, d. 1264</author>
+              <author>Bernard, of Clairvaux, Saint, 1090 or 91-1153</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Libri, Guillaume, 1803-1869</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Creswick, H. R., 1902-1988</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Masson, Irvine, 1887-1962</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Schoenberg, Lawrence J</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 item (1 leaf) : 368 x 262 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Part of manuscript formerly owned by Guillaume Libri; sold at auction at Sotheby's in a sale of part of the Libri collection, 1 June 1864, lot 71.</provenance>
+            <provenance>Part of manuscript formerly owned by Sir Thomas Phillipps (ms. 24654); appeared at auction at Sotheby's in a sale of part of the Phillipps collection, 6 June 1899, lot 367, but presumably not sold; sold at auction at Sotheby's in a sale of part of the Phillipps collection, 24 June 1935, lot 74.</provenance>
+            <provenance>Part of manuscript formerly owned by H. R. Creswick, Bodley's Librarian and Cambridge University Librarian; this leaf removed and given as a gift by Creswick to Irvine Masson.</provenance>
+            <provenance>Sold at auction at Sotheby's with other items from Masson's collection, 16 Dec. 1957, lot 32, to Francis Edwards, Ltd.</provenance>
+            <provenance>Sold at auction at Sotheby's, 17 June 1997, lot 1, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Gift of Lawrence J. Schoenberg and Barbara Brizdle, 2010.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Abbots--Early works to 1800</term>
+          <term>Bishops--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Excerpts</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Latin--15th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="6097px" url="master/0136_0000.tif" width="4454px"/>
+      <graphic height="190px" url="thumb/0136_0000_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0136_0000_web.jpg" width="1315px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="6097px" url="master/0136_0001.tif" width="4454px"/>
+      <graphic height="190px" url="thumb/0136_0001_thumb.jpg" width="138px"/>
+      <graphic height="1800px" url="web/0136_0001_web.jpg" width="1315px"/>
+    </surface>
+  </facsimile>
+</TEI>

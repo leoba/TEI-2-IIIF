@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 181: Mathematical notes</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. leaves.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 181</idno>
+            <altIdentifier type="bibid">
+              <idno>5764280</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5764280</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>3 disbound smaller bifolia with notes and problems concerning geometrical construction, spherical geometry, and the theory of proportion; and 3 disbound larger bifolia with advanced algebra notes employing cubic and quadratic equations.</summary>
+            <textLang>French</textLang>
+            <msItem>
+              <title>Mathematical notes</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Kraus, Hans Peter, 1907-1988</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Stanitz, John D</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                  <watermark>GT with a small heart between the 2 initials (geometry notes, smaller bifolia); G. Touchard/Marché 1789 with countermark of bunch of grapes and O. Overard en Marché with countermark of 1781 (cubic and quadratic equations, larger bifolia)</watermark>
+                </support>
+                <extent>6 leaves : 260 x 416 mm., 324 x 410 mm</extent>
+                <collation>
+                  <p>Paper, 6 bifolia; 3 smaller bifolia have contemporary numeration 1-3, upper right recto of first leaf.</p>
+                </collation>
+              </supportDesc>
+            </objectDesc>
+            <scriptDesc>
+              <scriptNote>Written in cursive script by a single hand.</scriptNote>
+            </scriptDesc>
+          </physDesc>
+          <history>
+            <origin>
+              <p>Written in France after 1789 (later date in watermarks).</p>
+              <origDate>after 1789</origDate>
+              <origPlace>France</origPlace>
+            </origin>
+            <provenance>Possible ownership inscription, M. Baumann, on one of the larger bifolia.</provenance>
+            <provenance>Formerly owned by Sir Thomas Phillipps (Kraus).</provenance>
+            <provenance>Sold as part of the residue of the Phillipps collection first to William H. Robinson Ltd., 1945, and again to H.P. Kraus, Mar. 1978, ms. 842.</provenance>
+            <provenance>Formerly owned by John D. Stanitz (Cleveland, Ohio), Ms. 12.</provenance>
+            <provenance>Acquired by Lawrence J. Schoenberg with other Stanitz manuscripts, Sept. 1997.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Mathematics--Early works to 1800</term>
+          <term>Algebra--Early works to 1800</term>
+          <term>Geometry--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Diagrams</term>
+          <term>Manuscripts, French--18th century</term>
+          <term>Manuscripts, European</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Item 1, Side 1">
+      <graphic height="4612px" url="master/0032_0000.tif" width="7244px"/>
+      <graphic height="120px" url="thumb/0032_0000_thumb.jpg" width="190px"/>
+      <graphic height="1145px" url="web/0032_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 1, Side 2">
+      <graphic height="4612px" url="master/0032_0001.tif" width="7244px"/>
+      <graphic height="120px" url="thumb/0032_0001_thumb.jpg" width="190px"/>
+      <graphic height="1145px" url="web/0032_0001_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 2, Side 1">
+      <graphic height="4612px" url="master/0032_0002.tif" width="7244px"/>
+      <graphic height="120px" url="thumb/0032_0002_thumb.jpg" width="190px"/>
+      <graphic height="1145px" url="web/0032_0002_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 2, Side 2">
+      <graphic height="4612px" url="master/0032_0003.tif" width="7244px"/>
+      <graphic height="120px" url="thumb/0032_0003_thumb.jpg" width="190px"/>
+      <graphic height="1145px" url="web/0032_0003_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 3, Side 1">
+      <graphic height="4612px" url="master/0032_0004.tif" width="7244px"/>
+      <graphic height="120px" url="thumb/0032_0004_thumb.jpg" width="190px"/>
+      <graphic height="1145px" url="web/0032_0004_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 3, Side 2">
+      <graphic height="4612px" url="master/0032_0005.tif" width="7244px"/>
+      <graphic height="120px" url="thumb/0032_0005_thumb.jpg" width="190px"/>
+      <graphic height="1145px" url="web/0032_0005_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 4, Side 1">
+      <graphic height="5657px" url="master/0032_0006.tif" width="7134px"/>
+      <graphic height="150px" url="thumb/0032_0006_thumb.jpg" width="190px"/>
+      <graphic height="1427px" url="web/0032_0006_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 4, Side 2">
+      <graphic height="5657px" url="master/0032_0007.tif" width="7134px"/>
+      <graphic height="150px" url="thumb/0032_0007_thumb.jpg" width="190px"/>
+      <graphic height="1427px" url="web/0032_0007_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 5, Side 1">
+      <graphic height="5657px" url="master/0032_0008.tif" width="7134px"/>
+      <graphic height="150px" url="thumb/0032_0008_thumb.jpg" width="190px"/>
+      <graphic height="1427px" url="web/0032_0008_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 5, Side 2">
+      <graphic height="5657px" url="master/0032_0009.tif" width="7134px"/>
+      <graphic height="150px" url="thumb/0032_0009_thumb.jpg" width="190px"/>
+      <graphic height="1427px" url="web/0032_0009_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 6, Side 1">
+      <graphic height="5657px" url="master/0032_0010.tif" width="7134px"/>
+      <graphic height="150px" url="thumb/0032_0010_thumb.jpg" width="190px"/>
+      <graphic height="1427px" url="web/0032_0010_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 6, Side 2">
+      <graphic height="5657px" url="master/0032_0011.tif" width="7134px"/>
+      <graphic height="150px" url="thumb/0032_0011_thumb.jpg" width="190px"/>
+      <graphic height="1427px" url="web/0032_0011_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

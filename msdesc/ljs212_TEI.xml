@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 212: Manuscript leaf from expense records</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Ms. leaf.</note>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 212</idno>
+            <altIdentifier type="bibid">
+              <idno>5760490</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5760490</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Record of expenses for mills, mostly fulling mills, in Poligny in the Jura region in eastern France. Fulling mills were facilities for cleansing and felting woolen fabrics. The entries include payments for equipment (for example, a millstone, hammers for fulling, and nails), transport, and labor. The expenses on this leaf are entered under the heading Molins Giraut Barthoz. The entries are written in chancery script by a single hand in 2 columns of 63 lines, a wide column on the left for information about each expense and a narrow column on the right for the cost, ruled in lead.</summary>
+            <textLang>Middle French</textLang>
+            <msItem>
+              <title>Manuscript leaf from expense records</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Stanitz, John D</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 430 x 298 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Appears in Sam Fogg's cat. 16 (1995), no. 69.</provenance>
+            <provenance>Formerly owned by John D. Stanitz (Cleveland, Ohio), Ms. 43.</provenance>
+            <provenance>Acquired by Lawrence J. Schoenberg with other Stanitz manuscripts, Sept. 1997.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Accounting--France--14th century</term>
+          <term>Mills and mill-work--Early works to 1800</term>
+          <term>Textile industry--France--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Accounts</term>
+          <term>Manuscripts, French--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="7005px" url="master/0165_0000.tif" width="4963px"/>
+      <graphic height="190px" url="thumb/0165_0000_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0165_0000_web.jpg" width="1275px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="7005px" url="master/0165_0001.tif" width="4963px"/>
+      <graphic height="190px" url="thumb/0165_0001_thumb.jpg" width="134px"/>
+      <graphic height="1800px" url="web/0165_0001_web.jpg" width="1275px"/>
+    </surface>
+  </facsimile>
+</TEI>

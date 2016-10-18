@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 167: Address presented to the Hon. Albert D. Shaw, United States Consul, Manchester, from residents in Sale, Ashton-on-Mersey, and District :</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 167</idno>
+            <altIdentifier type="bibid">
+              <idno>5004852</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5004852</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Bound presentation manuscript honoring Albert Shaw, U.S. Consul at Manchester, on his departure, signed by 100 residents of the towns of Sale and Ashton-on-Mersey and the surrounding area, southwest of Manchester. The first two leaves are illuminated with floral designs in colors and gold, the second two leaves have simpler colored geometric borders, and the text blocks of the four leaves of signatures are framed in blue ink. Bound in chagrin with gilt title stamped on upper cover and silk doublures and endleaves. Dated 30 June 1885. Silk ribbon with metal pin and tassels commemorating the 34th annual G.A.R. Encampment in Chicago, Aug. 27-Sept. 1, 1900, printed with the portrait of Shaw as commander-in-chief, laid inside upper cover.</summary>
+            <msItem>
+              <title>Address presented to the Hon. Albert D. Shaw, United States Consul, Manchester, from residents in Sale, Ashton-on-Mersey, and District :</title>
+              <author>Shaw, Albert D. 1841-1901,</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Schoenberg, Lawrence J</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <decoDesc>
+              <decoNote n="1r">Illuminated border, f. 1r</decoNote>
+              <decoNote n="2r">Illuminated border, f. 2r</decoNote>
+              <decoNote n="3r">Illuminated border, f. 3r</decoNote>
+              <decoNote n="4r">Illuminated border, f. 4r</decoNote>
+            </decoDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold at auction at Swann Galleries, 16 Jan. 1986, lot 1391, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Gift of Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>United States.--Consulate (Manchester, England)</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Illuminated manuscripts</term>
+          <term>Orations</term>
+          <term>Manuscripts, English--19th century</term>
+          <term>Manuscripts, Digital</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Front cover">
+      <graphic height="4012px" url="master/0199_0000.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0000_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0000_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="Inside front cover">
+      <graphic height="4012px" url="master/0199_0001.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0001_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0001_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="4012px" url="master/0199_0002.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0002_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0002_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="4012px" url="master/0199_0003.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0003_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0003_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto">
+      <graphic height="4012px" url="master/0199_0004.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0004_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0004_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso">
+      <graphic height="4012px" url="master/0199_0005.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0005_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0005_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="1r">
+      <graphic height="4012px" url="master/0199_0006.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0006_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0006_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4012px" url="master/0199_0007.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0007_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0007_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4012px" url="master/0199_0008.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0008_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0008_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4012px" url="master/0199_0009.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0009_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0009_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="4012px" url="master/0199_0010.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0010_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0010_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="4012px" url="master/0199_0011.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0011_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0011_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="4012px" url="master/0199_0012.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0012_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0012_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="4012px" url="master/0199_0013.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0013_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0013_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="4012px" url="master/0199_0014.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0014_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0014_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="4012px" url="master/0199_0015.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0015_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0015_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="4012px" url="master/0199_0016.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0016_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0016_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="4012px" url="master/0199_0017.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0017_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0017_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="4012px" url="master/0199_0018.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0018_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0018_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="4012px" url="master/0199_0019.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0019_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0019_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="4012px" url="master/0199_0020.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0020_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0020_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="4012px" url="master/0199_0021.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0021_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0021_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="Flyleaf 1 recto">
+      <graphic height="4012px" url="master/0199_0022.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0022_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0022_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="Flyleaf 1 verso">
+      <graphic height="4012px" url="master/0199_0023.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0023_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0023_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="Flyleaf 2 recto">
+      <graphic height="4012px" url="master/0199_0024.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0024_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0024_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="Flyleaf 2 verso">
+      <graphic height="4012px" url="master/0199_0025.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0025_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0025_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="Inside back cover">
+      <graphic height="4012px" url="master/0199_0026.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0026_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0026_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="Back cover">
+      <graphic height="4012px" url="master/0199_0027.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0027_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0027_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="Spine">
+      <graphic height="4012px" url="master/0199_0028.tif" width="3229px"/>
+      <graphic height="190px" url="thumb/0199_0028_thumb.jpg" width="152px"/>
+      <graphic height="1800px" url="web/0199_0028_web.jpg" width="1449px"/>
+    </surface>
+    <surface n="Commemorative Ribbon, Side 1">
+      <graphic height="3344px" url="master/0199_0029.tif" width="1736px"/>
+      <graphic height="190px" url="thumb/0199_0029_thumb.jpg" width="98px"/>
+      <graphic height="1800px" url="web/0199_0029_web.jpg" width="934px"/>
+    </surface>
+    <surface n="Commemorative Ribbon, Side 2">
+      <graphic height="3344px" url="master/0199_0030.tif" width="1736px"/>
+      <graphic height="190px" url="thumb/0199_0030_thumb.jpg" width="98px"/>
+      <graphic height="1800px" url="web/0199_0030_web.jpg" width="934px"/>
+    </surface>
+  </facsimile>
+</TEI>

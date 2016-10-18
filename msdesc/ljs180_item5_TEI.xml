@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 180: Documents concerning carriages</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 180</idno>
+            <altIdentifier type="bibid">
+              <idno>5783307</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5783307</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Engraving with caption A Coach upon a New Construction by the ingenious Mr. Moore (Francis Moore, coach builder of Cheapside, image of 2-wheeled carriage similar to one that appeared above the caption Francis Moore's Vehicle in Pennant Magazine, 1790); manuscript description in French of the carriage, titled Description de la voiture de Mr. Moore (2 leaves); engraving with caption A Contrivance for stopping Carriages descending steep Hills; manuscript description in French, in a different hand, of the second engraving (1 bifolium).</summary>
+            <textLang mainLang="fre" otherLangs="eng">In French, with English captions on engravings</textLang>
+            <msItem>
+              <title>Documents concerning carriages</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Kraus, Hans Peter, 1907-1988</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Stanitz, John D</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Hans Peter Kraus, as part of ms. 836.</provenance>
+            <provenance>Formerly owned by John D. Stanitz (Cleveland, Ohio), as part of Ms. 11.</provenance>
+            <provenance>Acquired by Lawrence J. Schoenberg with other Stanitz manuscripts, Sept. 1997.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Technology--Early works to 1800</term>
+          <term>Carriages and carts--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Engravings (prints)</term>
+          <term>Manuscripts, French--18th century</term>
+          <term>Manuscripts, European</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Item 1, Side 1">
+      <graphic height="3005px" url="master/0201_0000.tif" width="2503px"/>
+      <graphic height="190px" url="thumb/0201_0000_thumb.jpg" width="158px"/>
+      <graphic height="1800px" url="web/0201_0000_web.jpg" width="1499px"/>
+    </surface>
+    <surface n="Item 1, Side 2">
+      <graphic height="3005px" url="master/0201_0001.tif" width="2503px"/>
+      <graphic height="190px" url="thumb/0201_0001_thumb.jpg" width="158px"/>
+      <graphic height="1800px" url="web/0201_0001_web.jpg" width="1499px"/>
+    </surface>
+    <surface n="Item 2, Side 1">
+      <graphic height="3081px" url="master/0201_0002.tif" width="2503px"/>
+      <graphic height="190px" url="thumb/0201_0002_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0201_0002_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="Item 2, Side 2">
+      <graphic height="3081px" url="master/0201_0003.tif" width="2503px"/>
+      <graphic height="190px" url="thumb/0201_0003_thumb.jpg" width="154px"/>
+      <graphic height="1800px" url="web/0201_0003_web.jpg" width="1462px"/>
+    </surface>
+    <surface n="Item 3, Side 1">
+      <graphic height="3499px" url="master/0201_0004.tif" width="1993px"/>
+      <graphic height="190px" url="thumb/0201_0004_thumb.jpg" width="108px"/>
+      <graphic height="1800px" url="web/0201_0004_web.jpg" width="1025px"/>
+    </surface>
+    <surface n="Item 3, Side 2">
+      <graphic height="3499px" url="master/0201_0005.tif" width="1993px"/>
+      <graphic height="190px" url="thumb/0201_0005_thumb.jpg" width="108px"/>
+      <graphic height="1800px" url="web/0201_0005_web.jpg" width="1025px"/>
+    </surface>
+    <surface n="Item 4, Side 1">
+      <graphic height="1806px" url="master/0201_0006.tif" width="2635px"/>
+      <graphic height="130px" url="thumb/0201_0006_thumb.jpg" width="190px"/>
+      <graphic height="1233px" url="web/0201_0006_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 4, Side 2">
+      <graphic height="1806px" url="master/0201_0007.tif" width="2635px"/>
+      <graphic height="130px" url="thumb/0201_0007_thumb.jpg" width="190px"/>
+      <graphic height="1233px" url="web/0201_0007_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 5, Side 1">
+      <graphic height="2950px" url="master/0201_0008.tif" width="4090px"/>
+      <graphic height="137px" url="thumb/0201_0008_thumb.jpg" width="190px"/>
+      <graphic height="1298px" url="web/0201_0008_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Item 5, Side 2">
+      <graphic height="2950px" url="master/0201_0009.tif" width="4090px"/>
+      <graphic height="137px" url="thumb/0201_0009_thumb.jpg" width="190px"/>
+      <graphic height="1298px" url="web/0201_0009_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 108: Manuscript leaf from Interpretationes Hebraicorum nominum</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Title supplied by cataloger.</note>
+      </notesStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 108</idno>
+            <altIdentifier type="bibid">
+              <idno>5760266</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5760266</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Leaf containing entries beginning with the letter G, from Gaas to Gareb. The leaf was written in England, ca. 1220, in early Gothic book script, in 2 columns of 32 lines, with the first line of text above the line, frame-ruled in lead. Initials, paragraph marks, and line-fillers in red.</summary>
+            <textLang>Latin</textLang>
+            <msItem>
+              <title>Manuscript leaf from Interpretationes Hebraicorum nominum</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Leeche, John, 14th century</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Barker-Benfield, B. C</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 item (1 leaf) : 206 x 150 (145 x 115) mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Part of manuscript formerly owned by John Leeche or Leech; possibly the John Leeche who bequeathed 57 manuscripts to Lanthony Priory, near Gloucester, ca. 1361.</provenance>
+            <provenance>Sold at auction at Sotheby's with other items formerly owned by B. C. Barker-Benfield of the Bodleian Library, 14 Dec. 1977, lot 7, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Hebrew language--Etymology--Early works to 1800</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Excerpts</term>
+          <term>Etymological dictionaries</term>
+          <term>Glossaries</term>
+          <term>Manuscripts, Latin--13th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4948px" url="master/0162_0000.tif" width="3794px"/>
+      <graphic height="190px" url="thumb/0162_0000_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0162_0000_web.jpg" width="1380px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4948px" url="master/0162_0001.tif" width="3794px"/>
+      <graphic height="190px" url="thumb/0162_0001_thumb.jpg" width="146px"/>
+      <graphic height="1800px" url="web/0162_0001_web.jpg" width="1380px"/>
+    </surface>
+  </facsimile>
+</TEI>

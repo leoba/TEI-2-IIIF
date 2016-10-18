@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 182: Les observations de l'equinoxe du printêms de cette année 1703</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 182</idno>
+            <altIdentifier type="bibid">
+              <idno>5028779</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5028779</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Observations of the vernal equinox made at the Paris Observatory (l'observatoire royal) on 21 March 1703 and notes on earlier equinoxes and the implications for year length and calendar reform, written on a gathering that has been removed from a larger manuscript (18th-century (?) foliation 81-90, 19th-century pencil pagination 301-319). A note in a contemporary Italian hand attributes the manuscript to Cassini and records that it was sent from Paris in May (f. 1r).</summary>
+            <textLang mainLang="fre" otherLangs="ita">French, with a note in Italian</textLang>
+            <msItem>
+              <title>Les observations de l'equinoxe du printêms de cette année 1703</title>
+              <author>Cassini, Giovanni Domenico, 1625-1712</author>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Stanitz, John D</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="paper">
+                <support>
+                  <p>paper</p>
+                </support>
+                <extent>1 256 x 190 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Formerly owned by Sir Thomas Phillipps (Kraus).</provenance>
+            <provenance>Sold by Robinson Brothers (London), 1945.</provenance>
+            <provenance>Appeared in an H. P. Kraus (New York) catalog.</provenance>
+            <provenance>Formerly owned by John D. Stanitz (Cleveland, Ohio), Ms. 13.</provenance>
+            <provenance>Acquired by Lawrence J. Schoenberg with other Stanitz manuscripts, Sept. 1997.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Astronomy--Early works to 1800</term>
+          <term>Astronomy--France--Observations</term>
+          <term>Vernal equinox</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Fragments</term>
+          <term>Manuscripts, French--18th century</term>
+          <term>Manuscripts, European</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="1r">
+      <graphic height="4433px" url="master/0037_0000.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0000_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0000_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="1v">
+      <graphic height="4433px" url="master/0037_0001.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0001_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0001_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="2r">
+      <graphic height="4433px" url="master/0037_0002.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0002_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0002_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="2v">
+      <graphic height="4433px" url="master/0037_0003.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0003_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0003_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="3r">
+      <graphic height="4433px" url="master/0037_0004.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0004_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0004_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="3v">
+      <graphic height="4433px" url="master/0037_0005.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0005_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0005_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="4r">
+      <graphic height="4433px" url="master/0037_0006.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0006_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0006_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="4v">
+      <graphic height="4433px" url="master/0037_0007.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0007_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0007_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="5r">
+      <graphic height="4433px" url="master/0037_0008.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0008_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0008_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="5v">
+      <graphic height="4433px" url="master/0037_0009.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0009_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0009_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="6r">
+      <graphic height="4433px" url="master/0037_0010.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0010_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0010_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="6v">
+      <graphic height="4433px" url="master/0037_0011.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0011_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0011_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="7r">
+      <graphic height="4433px" url="master/0037_0012.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0012_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0012_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="7v">
+      <graphic height="4433px" url="master/0037_0013.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0013_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0013_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="8r">
+      <graphic height="4433px" url="master/0037_0014.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0014_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0014_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="8v">
+      <graphic height="4433px" url="master/0037_0015.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0015_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0015_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="9r">
+      <graphic height="4433px" url="master/0037_0016.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0016_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0016_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="9v">
+      <graphic height="4433px" url="master/0037_0017.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0017_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0017_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="10r">
+      <graphic height="4433px" url="master/0037_0018.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0018_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0018_web.jpg" width="1398px"/>
+    </surface>
+    <surface n="10v">
+      <graphic height="4433px" url="master/0037_0019.tif" width="3445px"/>
+      <graphic height="190px" url="thumb/0037_0019_thumb.jpg" width="147px"/>
+      <graphic height="1800px" url="web/0037_0019_web.jpg" width="1398px"/>
+    </surface>
+  </facsimile>
+</TEI>

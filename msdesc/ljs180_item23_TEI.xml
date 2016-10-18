@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 180: Letter concerning the forge of Ruelle</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 180</idno>
+            <altIdentifier type="bibid">
+              <idno>5783339</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/5783339</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Letter written from Versailles, 23 August 1776, to Monsieur de Beaumont concerning the forge of Ruelle. The author again refers to the work at the forge for the French Navy and makes requests about the ruling that Monsieur de Beaumont will issue about the forge. With a note at the close of the letter, added by the author, whose signature is illegible; the letter may have been written by a secretary. By the same author as LJS 180, Item 21 and Item 22.</summary>
+            <textLang>In French</textLang>
+            <msItem>
+              <title>Letter concerning the forge of Ruelle</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Phillipps, Thomas, Sir, 1792-1872</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Kraus, Hans Peter, 1907-1988</persName>
+              </respStmt>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Stanitz, John D</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc>
+                <extent>1</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Separated from manuscript formerly owned by Sir Thomas Phillipps, ms. 18507 (note in pencil, Kraus?).</provenance>
+            <provenance>Sold as part of the residue of the Phillipps collection first to William H. Robinson Ltd., 1945, and again to Hans Peter Kraus, March 1978; part of Kraus's ms. 836.</provenance>
+            <provenance>Formerly owned by John D. Stanitz (Cleveland, Ohio), as part of Ms. 11.</provenance>
+            <provenance>Acquired by Lawrence J. Schoenberg with other Stanitz manuscripts, Sept. 1997.</provenance>
+            <provenance>Deposit by Lawrence J. Schoenberg and Barbara Brizdle, 2012.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>France.--Marine--History--18th century</term>
+          <term>Technology--Early works to 1800</term>
+          <term>Iron industry and trade--France--History--18th century</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Manuscripts, French--18th century</term>
+          <term>Manuscripts, European</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="4770px" url="master/0142_0000.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0142_0000_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0142_0000_web.jpg" width="1220px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="4770px" url="master/0142_0001.tif" width="3235px"/>
+      <graphic height="190px" url="thumb/0142_0001_thumb.jpg" width="128px"/>
+      <graphic height="1800px" url="web/0142_0001_web.jpg" width="1220px"/>
+    </surface>
+  </facsimile>
+</TEI>

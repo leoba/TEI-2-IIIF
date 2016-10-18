@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Description of University of Pennsylvania LJS 110: John Elys deed :</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>The University of Pennsylvania Libraries</publisher>
+        <availability>
+          <licence target="http://creativecommons.org/licenses/by/4.0/legalcode">
+                                This description is ©2015 University of
+                                Pennsylvania Libraries. It is licensed under a Creative Commons
+                                Attribution License version 4.0 (CC-BY-4.0
+                                https://creativecommons.org/licenses/by/4.0/legalcode. For a
+                                description of the terms of use see the Creative Commons Deed
+                                https://creativecommons.org/licenses/by/4.0/. </licence>
+          <licence target="http://creativecommons.org/publicdomain/mark/1.0/"> All
+                                referenced images and their content are free of known copyright
+                                restrictions and in the public domain. See the Creative Commons
+                                Public Domain Mark page for usage details,
+                                http://creativecommons.org/publicdomain/mark/1.0/. </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Philadelphia</settlement>
+            <institution>University of Pennsylvania</institution>
+            <repository>Rare Book &amp; Manuscript Library</repository>
+            <idno type="call-number">LJS 110</idno>
+            <altIdentifier type="bibid">
+              <idno>4994560</idno>
+            </altIdentifier>
+            <altIdentifier type="resource">
+              <idno>http://hdl.library.upenn.edu/1017/d/medren/4994560</idno>
+            </altIdentifier>
+          </msIdentifier>
+          <msContents>
+            <summary>Deed of a sale of a life estate by John Elys and his son John to John de Beeleye and his wife Margery, all of Toneworth, Warwickshire. Dated the first Wednesday after the feast of Saint Hillary in the thirty-first regnal year of Edward III (January 1358), in Toneworth. The document states that Robert de Crowenhale, Edward de Middelmor, John Waryn, Richard Russel, John Page, and others were present as witnesses. It is written in 25 long lines, in a notarial hand, and has a parchment tag at the bottom. Words have been erased in two places (in one case with a correction written in the space) and nearly 4 lines have been canceled by crossing out in ink. The document has the undulating upper edge of an indenture and was marked before cutting.</summary>
+            <textLang>In Latin</textLang>
+            <msItem>
+              <title>John Elys deed :</title>
+              <respStmt>
+                <resp>former owner</resp>
+                <persName>Schoenberg, Lawrence J</persName>
+              </respStmt>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc>
+              <supportDesc material="parchment">
+                <support>
+                  <p>parchment</p>
+                </support>
+                <extent>1 170 x 245 mm</extent>
+              </supportDesc>
+            </objectDesc>
+          </physDesc>
+          <history>
+            <origin/>
+            <provenance>Sold by Bernard Quaritch Ltd. (London), cat. 880 (1967), no. 42, to Lawrence J. Schoenberg.</provenance>
+            <provenance>Gift of Lawrence J. Schoenberg and Barbara Brizdle, 2011.</provenance>
+          </history>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords n="subjects">
+          <term>Real property--England--Warwickshire</term>
+        </keywords>
+        <keywords n="form/genre">
+          <term>Deeds</term>
+          <term>Indentures</term>
+          <term>Legal documents</term>
+          <term>Manuscripts, Latin--14th century</term>
+          <term>Manuscripts, Medieval</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <facsimile>
+    <surface n="Side 1">
+      <graphic height="5748px" url="master/0175_0000.tif" width="6286px"/>
+      <graphic height="173px" url="thumb/0175_0000_thumb.jpg" width="190px"/>
+      <graphic height="1645px" url="web/0175_0000_web.jpg" width="1800px"/>
+    </surface>
+    <surface n="Side 2">
+      <graphic height="5748px" url="master/0175_0001.tif" width="6286px"/>
+      <graphic height="173px" url="thumb/0175_0001_thumb.jpg" width="190px"/>
+      <graphic height="1645px" url="web/0175_0001_web.jpg" width="1800px"/>
+    </surface>
+  </facsimile>
+</TEI>
